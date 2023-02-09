@@ -1,0 +1,49 @@
+Poder Judiciário
+JUSTIÇA FEDERAL DE PRIMEIRO GRAU
+MONITÓRIA (40) Nº 5000687-07.2017.4.03.6100 / 25ª Vara Cível Federal de São Paulo
+  AUTOR: CAIXA ECONOMICA FEDERAL
+  Advogado do(a) AUTOR: RODRIGO MOTTA SARAIVA - SP234570
+  RÉU: MARCO VINICIUS DE BARROS
+  Advogado do(a) RÉU: ANDREIA MAIO DIAS - SP353819
+         S E N T E N Ç A
+  Vistos em sentença.
+  ID 565350: Trata-se de ação monitória proposta por CAIXA ECONÔMICA FEDERAL, em face de MARCO VINICIUS DE BARROS, visando ao recebimento da importância de R$ 62.092,04 (sessenta e dois mil, noventa e dois reais e quatro centavos), atualizada para janeiro de 2017.
+  A autora afirma que celebrou com o réu "Contrato Particular de Abertura de Crédito à Pessoa Física para Financiamento de Materiais de Construção e Outros Pactos" e, diante do inadimplemento das obrigações assumidas, pleiteia em juízo o pagamento da dívida.
+  Com a inicial, vieram os documentos.
+  Regularmente citado e intimado (ID 908654), o réu não compareceu à audiência de conciliação (ID 1247182).
+  O réu opôs embargos monitórios (ID 1435231), alegando excesso no valor da execução, em decorrência da abusividade da taxa de juros e da ilegalidade de sua cobrança na forma capitalizada.
+  Deferido o benefício da gratuidade da justiça ao réu (ID 1456258).
+  A CEF apresentou impugnação (ID 1669890), por meio da qual requereu a improcedência dos embargos monitórios e a procedência da ação monitória, considerando a correta aplicação dos encargos contratuais.
+  Instadas as partes à especificação de provas, o réu requereu (ID 1687431) a produção de prova documental, com a intimação da CEF para apresentação do extrato de sua conta corrente durante todo o período de vigência do contrato, e de prova pericial contábil, enquanto a CEF quedou-se inerte.
+  Na decisão saneadora (ID 3530854), inverteu-se o ônus da prova, deferiu-se o pedido de produção de prova documental e indeferiu-se o pedido de produção de prova pericial.
+  A CEF apresentou o extrato da conta corrente do réu (ID 3731209).
+  Em manifestação acerca do extrato, o réu alegou que "o valor [cobrado] se mostra exorbitante" e requereu a remessa dos autos à Contadoria para comprovação do abuso praticado pela instituição financeira autora (ID 8878535).
+  Vieram os autos conclusos para sentença.
+  É o relatório. Fundamento e decido.
+  Inicialmente, esclareço que os pedidos de produção de prova foram apreciados na decisão saneadora (ID 3530854) e encontram-se preclusos, ante a ausência de impugnação das partes pela via recursal. Conforme indicado naquela oportunidade, a apuração do quantum debeatur, caso necessária, será efetuada em momento posterior.
+  INCIDÊNCIA DAS DISPOSIÇÕES DO CÓDIGO DE DEFESA DO CONSUMIDOR
+  Após a edição da Súmula 297 do STJ, não mais resta dúvida acerca da aplicabilidade do Código de Defesa do Consumidor (CDC) aos contratos firmados por instituições financeiras com seus clientes.
+  Embora as disposições consumeristas sejam aplicáveis aos contratos bancários, disso não resulta, necessariamente, a total procedência dos embargos monitórios. Apenas significa que ao caso deve ser dada, dentre as pertinentes, a interpretação mais favorável ao consumidor.
+  O fato de tratar-se de contrato de adesão não altera tal entendimento. Portanto, em obediência ao princípio da "pacta sunt servanda", como regra, devem os devedores respeitar as cláusulas contratuais, que aceitaram ao manifestar sua declaração de vontade nesse sentido.
+  O princípio da força vinculante dos contratos, todavia, não é absoluto, admitindo-se a hipótese de revisão contratual, quando um fato superveniente ao contrato vem a torná-lo excessivamente oneroso a uma das partes em benefício inesperado da outra.
+  Dessa forma, pode o Juiz, com o intuito de restabelecer o equilíbrio contratual, afastar determinadas previsões contratuais, razão pela qual analiso as questões trazidas pelo réu embargante quanto à existência de cláusulas abusivas.
+  CAPITALIZAÇÃO MENSAL DE JUROS E PERCENTUAL CONTRATADO
+  No tocante à cobrança de juros mensalmente capitalizados, tem-se que o plenário do E. Supremo Tribunal Federal, no Recurso Extraordinário n. 592.377, declarou a constitucionalidade da Medida Provisória n. 1.963/00 (reeditada pela Medida Provisória n. 2.170/01), que autorizou a capitalização de juros com periodicidade inferior a um ano nas operações realizadas pelas instituições integrantes do Sistema Financeiro Nacional.
+  E, em consonância a tal entendimento, foi editada a Súmula n. 539 do STJ dispondo que: "É permitida a capitalização de juros com periodicidade inferior à anual em contratos celebrados com instituições integrantes do Sistema Financeiro Nacional a partir de 31/3/2000 (MP n. 1.963-17/2000, reeditada como MP n. 2.170-36/2001), desde que expressamente pactuada" (grifei).
+  No contrato trazido aos autos (Contrato Particular de Abertura de Crédito à Pessoa Física para Financiamento de Materiais de Construção e Outros Pactos n. 1654.160.0000606-81 - ID 565356), verifica-se que foi estipulada, na Cláusula Décima Quarta, Parágrafo Primeiro, a incidência de juros remuneratórios, com capitalização mensal. Além disso, foi prevista, na Cláusula Primeira, a incidência de taxa de juros mensal de 1,85% e de Custo Efetivo Total (CET) de 23,1439% ao ano. [1]
+  Desse modo, sendo a taxa anual superior ao duodécuplo (isto é, superior a 12 vezes) da taxa mensal, deve ser reconhecida a pactuação de capitalização de juros em periodicidade inferior à anual, conforme entendimento já consolidado no E. Superior Tribunal de Justiça (REsp n. 973.827/RS, Rel. Ministro Luis Felipe Salomão, Rel. p/ Acórdão Ministra Maria Isabel Gallotti, Segunda Seção, j. 08/08/2012, DJe 24/09/2012) e previsto na Súmula n. 541, do referido Tribunal Superior, a qual dispõe que:
+  "A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada."
+  Assim, tendo havido a previsão do estabelecimento da capitalização mensal de juros, inexiste irregularidade em sua prática.
+  Por sua vez, no tocante aos juros aplicados de 1,85% ao mês e de 23,1439% ao ano, tem-se que são compatíveis com os praticados no mercado, de acordo com pesquisa efetuada e divulgada pela Associação Nacional dos Executivos de Finanças, Administração e Contabilidade.
+  Para o mês de outubro de 2013,[2] as taxas médias dos juros aplicados para empréstimos pessoais, oferecidos por bancos a pessoas físicas, foram de 3,16% ao mês e de 45,26% ao ano. Considerando tal parâmetro, nota-se que as taxas de juros praticadas pela CEF foram, na realidade, inferiores àquelas praticadas pelo mercado.
+  Demais disso, além de as taxas individualmente consideradas serem compatíveis com as de mercado, em relação à incidência dos juros, o E. STJ já decidiu que "nos contratos bancários não se aplica a limitação da taxa de juros remuneratórios em 12% ao ano, não se podendo aferir a exorbitância da taxa  de juros apenas com base na estabilidade econômica do país, sendo necessária a demonstração, no caso concreto, de que a referida taxa diverge da média de mercado" (AgRg no REsp 755.124/MG, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, j. 07/12/2010, DJ 04/02/2011).
+  Portanto, considerando a ausência de limitação, tenho que as taxas de juros praticadas mostram-se plenamente aceitáveis e em conformidade com as normas do mercado financeiro.
+  Diante de todo o exposto, REJEITO os embargos monitórios opostos na forma do artigo 702, caput, do CPC, e, por conseguinte, resolvendo o mérito nos termos do artigo 487, inciso I, do CPC, JULGO PROCEDENTE o pedido monitório, constituindo de pleno direito o título executivo judicial, nos termos do artigo 702, § 8º, do CPC, condenando o réu embargante ao pagamento do valor indicado na inicial, cujo montante deverá ser atualizado mediante a aplicação dos critérios contratualmente estabelecidos.
+  Em atenção ao princípio da causalidade, condeno o réu embargante ao pagamento de custas e honorários advocatícios, que fixo em 10% (dez por cento) do valor do débito a ser apurado, nos termos do artigo 85, § 2º, do Código de Processo Civil, permanecendo suspensa sua exigibilidade em razão da gratuidade da justiça, nos termos do artigo 98, § 3º, do CPC.
+  A incidência de correção monetária e de juros de mora, quanto às custas e à verba sucumbencial, deverá observar o disposto no Manual de Orientação de Procedimentos para os Cálculos na Justiça Federal, aprovado pela Resolução CJF n.º 134, de 21/12/2010.
+  Certificado o trânsito em julgado, prossiga-se nos termos do artigo 523 do Código de Processo Civil, devendo, para tanto, a CEF apresentar, sob pena de arquivamento do feito, memória de cálculo discriminada e atualizada do débito, na forma prevista no artigo 524 e incisos do mesmo diploma legal.
+  P.I.
+  [1] Equivalente à taxa de juros anual, na medida em que, nos termos da Cláusula Primeira, Parágrafo Segundo do Contrato Particular de Abertura de Crédito à Pessoa Física para Financiamento de Materiais de Construção e Outros Pactos n. 1654.160.0000606-81 - ID 565356, "[o] Custo Efetivo Total (CET) é calculado considerando o limite de crédito descrito no caput desta cláusula, a taxa de juros pactuada neste instrumento de 1,85% [...] ao mês."
+  [2] Disponível em: https://www.anefac.com.br/uploads/arquivos/2013111411130713.pdf
+  SãO PAULO, 21 de setembro de 2018.
+  8136

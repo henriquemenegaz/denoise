@@ -1,0 +1,154 @@
+						[image: brasão]
+							PODER JUDICIÁRIO
+	JUSTIÇA DO TRABALHO
+	TRT 7a Região
+			RORSum-0000975-60.2018.5.07.0005 - 1ª TURMA
+			Lei 13.015/2014
+			Lei 13.467/2017
+			Recurso de Revista
+				Recorrente(s):
+							FUNDACAO EDSON QUEIROZ
+	Advogado(a)(s):
+							GUSTAVO HITZSCHKY FERNANDES VIEIRA JUNIOR (CE - 17561)
+	Recorrido(a)(s):
+							GENIGLEUSON DA SILVA COSTA
+	Advogado(a)(s):
+							CAROLINA PINTO MARZAGAO (CE - 22522)
+					PRESSUPOSTOS EXTRÍNSECOS
+					Tempestivo o recurso (decisão publicada em 09/09/2020 - ID. fbdfec2  e recurso apresentado em 21/09/2020 - ID. 6c72fd4).
+					 Regular a representação processual (ID. b439b5d ).
+					Satisfeito o preparo (ID(s). 5689370, add21e5;a92fd3f - GRU - R.O - PGMTO.pdf, da52852;257ac99 e 2a6dded;1b5c1e8).
+					PRESSUPOSTOS INTRÍNSECOS
+					Nos termos do artigo 896-A da Consolidação das Leis do Trabalho, cabe ao Tribunal Superior do Trabalho analisar se a causa oferece transcendência em relação aos reflexos gerais de natureza econômica, política, social ou jurídica.
+Art. 896-A. [...]
+§ 1o São indicadores de transcendência, entre outros:
+I - econômica, o elevado valor da causa;
+II - política, o desrespeito da instância recorrida à jurisprudência sumulada do Tribunal Superior do Trabalho ou do Supremo Tribunal Federal;
+III - social, a postulação, por reclamante-recorrente, de direito social constitucionalmente assegurado;
+IV - jurídica, a existência de questão nova em torno da interpretação da legislação trabalhista.
+§ 2o Poderá o relator, monocraticamente, denegar seguimento ao recurso de revista que não demonstrar transcendência, cabendo agravo desta decisão para o colegiado.
+§ 3o Em relação ao recurso que o relator considerou não ter transcendência, o recorrente poderá realizar sustentação oral sobre a questão da transcendência, durante cinco minutos em sessão.
+§ 4o Mantido o voto do relator quanto à não transcendência do recurso, será lavrado acórdão com fundamentação sucinta, que constituirá decisão irrecorrível no âmbito do tribunal.
+§ 5o É irrecorrível a decisão monocrática do relator que, em agravo de instrumento em recurso de revista, considerar ausente a transcendência da matéria.
+§ 6o O juízo de admissibilidade do recurso de revista exercido pela Presidência dos Tribunais Regionais do Trabalho limita-se à análise dos pressupostos intrínsecos e extrínsecos do apelo, não abrangendo o critério da transcendência das questões nele veiculadas."
+					Registre-se que o cabimento do recurso de revista interposto contra decisão proferida em causa sujeita ao rito sumaríssimo está restrito às hipóteses de contrariedade a súmula de jurisprudência do Tribunal Superior do Trabalho ou a súmula vinculante do Supremo Tribunal Federal, ou ainda por violação direta da Constituição Federal, nos termos do art. 896, §9º, da CLT, com as alterações trazidas pela Lei nº 13.015 de 21 de julho de 2014.
+Desse modo, alegações em desacordo com as hipóteses de cabimento esclarecidas no parágrafo retro serão entendidas apenas como argumentos de reforço.
+					DIREITO PROCESSUAL CIVIL E DO TRABALHO  /  Atos Processuais  /  Nulidade  /  Cerceamento de Defesa.
+					Alegação(ões):
+					- violação do(s) inciso LV do artigo 5º da Constituição Federal.
+					Alega a recorrente:
+"No presente caso, o decisum ora impugnado apresenta transgressão à norma constitucional, no inciso LV, do art. 5° da CF.
+Veja-se que a norma constitucional preconiza que será conferida a ampla defesa às partes, o que não foi valorado na presente demanda, mormente porque inobstante tenha se apresentado todas as provas, valorou-se a prova do recorrido em detrimento do robusto teor probatório da recorrente.
+Ademais, não se deu ampla defesa aos requerimentos desta recorrente, quando esta, fundamentadamente, alegou a contradita da testemunha, tendo sido o referido requerimento não acatado, não obstante a robustez dos fatos outrora apresentados."
+					Consta no acórdão:
+"[...]
+CONTRADITA DA TESTEMUNHA
+Insurge-se a reclamada contra o não acolhimento da contradita apresentada em face da testemunha WESLEY VICENTE DA SILVA, indicada pelo reclamante, sustentando o argumento de que há parcialidade e falta de isenção de ânimo no fato de a testemunha e o autor deporem em processo um do outro contra a mesma empresa e com pedidos similares.
+Vejamos.
+A jurisprudência trabalhista há muito assentou que o fato, por si só, de a testemunha demandar em outra reclamatória, não constitui causa de suspeição, tendo em vista o direito público subjetivo de ação, consagrado constitucionalmente.
+Nesse sentido, a Súmula nº 357 do TST:
+"TESTEMUNHA. AÇÃO CONTRA A MESMO RECLAMADO. SUSPEIÇÃO (mantida) - Res. 121/2003, DJ 19, 20 e 21.11.2003
+Não torna suspeita a testemunha o simples fato de estar litigando ou de ter litigado contra o mesmo empregador.".
+Entretanto, o caso dos autos possui circunstância diversa, uma vez que, além de a testemunha arrolada pelo reclamante, Sr. WESLEY VICENTE DA SILVA, possuir ação trabalhista contra o mesmo empregador, o reclamante foi ouvido, naqueles autos, como testemunha.
+Com efeito, na ata de audiência de fl. 128, restou consignado o seguinte:
+"Primeira testemunha do WESLEY VICENTE DA SILVA reclamante: CPF 01011945363, casado(a), nascido em 14/03/1986, residente e domiciliado(a) na RUA 3, 111, LAGOA REDONDA, FORTALEZA/CE. Pelo(a) patrono(a) da parte reclamado foi requerida a contradita da testemunha NOS SEGUINTES TERMOS:" A testemunha em questão possui ação trabalhista em desfavor deste empresa sob o nº.1813-10.2017.5.07.0014, ação esta que possui pedidos similares, inclusive com depoimento testemunhal dado pela parte reclamante, o que configura notória troca de favores, sendo tal fato este vedado pelo entendimento jurisprudencial hodierno. Inquirida sobre o fato disse a testemunha: "Que não tem nenhum interesse que o reclamante logre êxito na presente ação; que possui ação trabalhista em face da reclamada; que na referida ação está postulando o pagamento do intervalo intrajornada e de horas extras.
+O Juízo passa a apreciar a contradita:
+Considerando que as hipóteses de suspeição de testemunha são aquelas restritas, previstas no NCPC, aplicáveis ao processo do trabalho por força do art. 769 da CLT, e que, no presente, caso não se constata quaisquer de tais situações, bem como considerando o entendimento sedimentado na súmula 357 do Colendo TST, decido rejeitar a contradita. Com os protestos do patrono da reclamada".
+Todavia, ainda que o reclamante destes autos tenha prestado depoimento como testemunha na ação ajuizada pelo Sr. WESLEY VICENTE DA SILVA, entendo que, ainda assim, não há que se falar em troca de favores ou falta de isenção de ânimo para prestar depoimento.
+Portanto, o fato de a testemunha ter indicado o reclamante como testemunha em ação por ele ajuizada não implica, por si só, em troca de favores. Nesse sentido, a suspeição alegada deve ser inequívoca, devendo a parte apresentar elementos capazes de demonstrar eventual parcialidade do depoente.
+A troca de favores e a amizade íntima são alegações que não podem ser presumidas e devem estar devidamente comprovadas para caracterizar a contradita por interesse na causa (Súmula 357 do TST).
+Transcrevo, a propósito, ementas proferidas por Turmas do TST, que reforçam a aplicação do verbete da referida Súmula nº 357 em situações análogas às dos autos, sinalizando que permanece incólume o entendimento sumulado:
+"AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. 1. CERCEAMENTO DE DEFESA. INDEFERIMENTO DA CONTRADITA DE TESTEMUNHAS. AÇÃO CONTRA O MESMO EMPREGADOR. PEDIDOS IDÊNTICOS. O órgão uniformizador de jurisprudência interna corporis deste Tribunal Superior, a SDI-1, tem-se manifestado no sentido de que a Súmula nº 357 do TST alcança até mesmo a hipótese em que os objetos das reclamações trabalhistas da testemunha e do reclamante sejam idênticos e em que o reclamante depôs na ação ajuizada pela testemunha. Precedentes. O conhecimento da revista encontra óbice na Súmula nº 333/TST e no art. 896, § 7º, da CLT. 2. EQUIPARAÇÃO SALARIAL. (...) 3. ADICIONAL DE PERICULOSIDADE. (...) 4. HORAS EXTRAS. TURNOS ININTERRUPTOS DE REVEZAMENTO. ELASTECIMENTO DA JORNADA DE TRABALHO ALÉM DA OITAVA HORA DIÁRIA. ACORDO COLETIVO. INVALIDADE (...). 5. ADICIONAL NOTURNO. PRORROGAÇÃO. JORNADA MISTA. (...) 6. MULTA CONVENCIONAL. (...). (Processo: AIRR - 11057-70.2013.5.03.0092 Data de Julgamento: 22/02/2017, Relatora Ministra: Dora Maria da Costa, 8ª Turma, Data de Publicação: DEJT 03/03/2017)".
+"AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. RECLAMADA. LEI Nº 13.015/2014. CERCEAMENTO DO DIREITO DE DEFESA. SUSPEIÇÃO. TESTEMUNHA QUE LITIGA CONTRA A MESMA EMPRESA.
+1 - O recurso de revista foi interposto na vigência da Lei nº 13.015/2014 e estão atendidas as exigências do art. 896, § 1º-A, da CLT.
+2 - A decisão do TRT de origem está em consonância com a Súmula nº 357 do TST, segundo a qual "não torna suspeita a testemunha o simples fato de estar litigando ou de ter litigado contra o mesmo empregador". Ainda que nas reclamações ajuizadas pela reclamante e sua testemunha constem os mesmos pedidos e alegações, tal fato não implica, por si só, suspeição.
+3 - Isso porque, no contexto de uma empresa, não é incomum que a lesão a determinados direitos trabalhistas alcance uma quantidade considerável de trabalhadores que, por terem vivenciado o problema no mesmo ambiente e no mesmo período, serão naturalmente as testemunhas umas das outras. Há julgados.
+4 - Agravo de instrumento a que se nega provimento.
+PROVA DOCUMENTAL. VALIDADE.
+1 - Atendidas as exigências do art. 896, § 1º-A, da CLT.
+2 - No caso concreto a parte não consegue infirmar a decisão agravada, não estando demonstrada a viabilidade de conhecimento do recurso de revista nos termos do artigo 896 da CLT".
+Impende ressaltar que, em situação como a ora retratada, privilegia-se o posicionamento do d. Juízo de origem, em razão do princípio da imediatidade na colheita da prova oral. A d. Juíza condutora da audiência e sentenciante é que manteve contato direto e imediato com as partes e testemunhas, permitindo-lhe, com base na experiência, nas impressões, na razoabilidade, na ponderação, assim como nas linguagens verbal e gestual dos depoentes, avaliar e sopesar, com maior riqueza de detalhes, inclusive de natureza sensorial, os instrumentos da prova, formando a sua persuasão racionalmente.
+Por fim, cumpre salientar que, em face do efeito devolutivo amplo e em profundidade do recurso, esta Instância Revisora examinará a prova oral colhida em confronto com o contexto probatório, em busca da verdade real e da justa composição da lide.
+[...]"
+					À análise.
+Como dito acima,  o cabimento do recurso de revista interposto contra decisão proferida em causa sujeita ao rito sumaríssimo está restrito às hipóteses de contrariedade a súmula de jurisprudência do Tribunal Superior do Trabalho ou a súmula vinculante do Supremo Tribunal Federal, ou ainda por violação direta da Constituição Federal, nos termos do art. 896, §9º, da CLT.
+Observa-se que o convencimento da Turma acerca da matéria em discussão (contradita de testemunha e avaliação da prova) não se enquadra na hipótese de violação direta do dispositivo constitucional invocado. Violação, se houvesse, seria meramente reflexa.
+Ademais, partindo das premissas fáticas constantes do acórdão, verifica-se que o acolhimento da tese recursal demandaria a modificação das conclusões fáticas do presente caso, o que somente seria viável por meio do reexame de fatos e provas. Entretanto, o revolvimento do conjunto fático-probatório é vedado pela Súmula 126 do Tribunal Superior do Trabalho.
+Sendo assim, nego seguimento.
+					Duração do Trabalho  /  Intervalo Intrajornada.
+					Alegação(ões):
+					- violação da (o) artigo 818 da Consolidação das Leis do Trabalho;   §2º do artigo 74 da Consolidação das Leis do Trabalho.
+					- divergência jurisprudencial.
+					Alega a recorrente que:
+"Ademais, em que pese os argumentos do recorrido contidos em exordial, não há um único elemento nos autos que corrobore com suas aduções, ao contrário desta recorrente, que apresentou os controles de ponto que evidenciam a jornada do ex-empregado e as folhas de pagamento que demonstram o correto pagamento das horas extras eventualmente prestadas."
+"Dessa forma, uma vez demonstrado que não houve supressão do intervalo intrajornada, ou mesmo labor não registrado em período anterior ao horário agendado para o início do expediente, deve ser reformado o entendimento anterior, para que o feito seja tido como totalmente improcedente, bem como quaisquer outras neste sentido e seus naturais reflexos."
+					Consta no acórdão:
+"[...]
+HORAS EXTRAS. JORNADA DE PRELEÇÃO. INTERVALO INTRAJORNADA.
+O reclamante narra na inicial que laborou para a reclamada, na função de vigilante, no período de 02.09.2013 a 07.11.2017, laborando jornada de trabalho 12 x 36, que variava das 06:30hs às 19hs e de 19hs às 06:30hs. Afirmou, que muito embora marcasse o ponto no início e saída às 07hs, respectivamente, teria que chegar 30 minutos antes para prelação de avisos da reclamada e que realizava as refeições no próprio posto de trabalho. Assim, postulou o pagamento de horas extras e reflexos pela prorrogação da jornada de trabalho (preleção), bem como pela supressão do intervalo intrajornada.
+Em sede de contestação, a reclamada afirma que a jornada do autor era das 07hs às 19hs e, quando se ativava no horário noturno, das 19hs às 07hs. Disse ainda que os cartões de ponto comprovam a jornada legal do autor e que as horas extras realizadas foram devidamente quitadas. Aduziu que os intervalos eram pré-assinalados e que os minutos de preleção eram de presença facultativa.
+A sentença acolheu a tese do autor, deferindo 01 (uma) hora diária em razão do intervalo intrajornada não concedido e 30 (trinta) minutos em decorrência da realização obrigatória de preleção, durante os períodos apontados na inicial.
+Em sede de sentença vejamos o que restou decidido e fundamentado, na qual sobrelevo e enfatizo os trechos mais relevantes para o deslinde da controvérsia:
+"(...)
+Examino.
+Com efeito, o empregador é obrigado a realizar o controle da jornada de trabalho de seus empregados, conforme dicção do art. 74,§ 2º, da CLT, constituindo-se em obrigação legal que, caso não efetivada, induz a veracidade da jornada apontada pelo empregado. Logo, se demonstrado o controle da jornada de trabalho pelo empregador, através de cartões de ponto (prova eminentemente documental) recai sobre o reclamante o ônus de provar que a jornada efetivamente realizada não era condizente com aquela registrada, exceto em hipóteses nas quais os cartões de ponto são considerados inválidos como meio de prova por conterem horários invariáveis, em conformidade com o entendimento sedimentado na Súmula nº 338 do C.TST, permanecendo o ônus probatório do empregador.
+Diante disso, em relação aos pedidos de horas extras decorrentes de horas não registradas e de supressão do intervalo intrajornada, a "priori" incumbe ao empregador a prova por estar tais pedidos relacionados ao controle de jornada conforme já delineado.
+No entanto, em que pese a reclamada ter anexado aos autos os controles de jornada para fazer prova quanto aos horários praticados (ID ad4a0f6), durante a instrução processual restou confrontada a veracidade de tais registros diante da prova testemunhal, a qual confirmou a versão autoral de que os empregados devem chegar com antecedência de 30 minutos para receber instruções por parte da reclamada e de que não gozam do intervalo intrajornada de uma hora.
+Nesse prisma, as testemunhas arroladas pelo autor que também exerciam a função de vigilante foram uníssonas quanto ao fato de ter que chegar com antecedência de 30 minutos, e de não usufruir efetivamente do intervalo intrajornada de uma hora. É isso o que se extrai do depoimento da 2ª testemunha arrolada pelo autor abaixo transcrito:
+"Que trabalhou na reclamada de 2009 a 2017; que exercia a função de vigilante no período de 2009 a 2016 e depois passou a exercer a função de professor; que a orientação que existia acerca do intervalo intrajornada para os vigilantes era de que teria que realizar a refeição rapidamente e voltar para o seu posto de serviço; que seu posto não era fixo, de modo que realizaria sua refeição na guarita ou onde estivesse realizando os serviços; que nunca realizou, como vigilante, a refeição no refeitório porque somente utilizava o refeitório quem trabalhava na central; que trabalhava como vigilante das 15h às 23h de segunda a sexta; que quando chegava, iria inicialmente participar da preleção; que teria que chegar meia hora antes; que somente registrava o horário de início da jornada após a preleção."(grifei)
+Por outro lado, a reclamada apresentou testemunha que relatou que os empregados gozavam de intervalo intrajornada de 01 hora e que deveriam chegar 10 minutos antes da jornada de trabalho, sendo que poderiam registrar no controle o horário em que efetivamente chegavam.
+Ora, em que pese a testemunha apresentada pela reclamada tenha confirmado as alegações de defesa, não se pode olvidar que a referida testemunha exercia a função de gerente de segurança, e não de vigilante, de modo que entendo que tendo o autor apresentado duas testemunhas que exerciam a mesma função que ele, deve prevalecer as alegações da exordial. Assim, o autor se desvencilhou de seu ônus probatório, no sentido de desconstituir os controles de jornada apresentados pela reclamada, comprovando que laborava na jornada indicada na exordial.
+Desse modo, de se considerar o horário efetivamente cumprido e que o reclamante se ativava 30 minutos antes do início da jornada contratada, fazendo jus a esse tempo como hora extra, tendo em vista o entendimento sedimentado na Súmula nº 366 do C.TST.
+Logo, julgo procedente o pedido de 7,5 horas extras mensais a 50% em relação ao período de 10/09/2018 a 07/11/2017, com reflexos em aviso prévio, férias com 1/3, 13º salário e FGTS com 40%.
+Com relação ao intervalo intrajornada destaco ainda o entendimento da jurisprudência pátria o qual se manifesta no excerto abaixo transcrito:
+"HORAS EXTRAS. INVALIDADE DOS REGISTROS DE HORÁRIO. MARCAÇÕES BRITÂNICAS. INTERVALOS INTRAJORNADA PARCIALMENTE FRUÍDOS. Os registros de horário britânicos são inválidos para comprovar a jornada efetivamente cumprida, devendo ser acolhida a jornada alegada na inicial, com a modulação dada pelas demais provas. Comprovada a fruição parcial dos intervalos intrajornada e não computado o período de efetivo labor na jornada da empregada, são devidas como extras as horas efetivamente laboradas a hora integral correspondente aos Recurso intervalos fruídos irregularmente. da reclamante parcialmente provido". (TRT - 4- RO: 00204633420175040291, Data de Julgamento: 06/06/2018, 5ª Turma)
+Logo, considerando que o reclamante não tinha a concessão do intervalo intrajornada de uma hora, previsto no art. 71 da CLT, afigura-se devida 01 (uma) hora de intervalo intrajornada por dia efetivamente trabalhado pelo reclamante, considerando-se que o autor laborava 15 (quinze) dias por mês (jornada de 12x36), nos termos do art. 71 da CLT.
+Assim sendo, julgo procedente o pedido devendo a reclamada pagar 15 (quinze) horas extras por mês, referentes ao período 10/09/2013 a 07/11/2017, ante ao não cumprimento do intervalo intrajornada legal, a ser pago com o adicional de 50% e reflexos em aviso prévio, 13º salário, férias +1/3 e FGTS+40%.
+Para o cálculo das verbas deferidas deverá ser considerada a evolução salarial do autor "(fls. 135/137).
+Quanto às horas extras por preleção, aduz a recorrente que, inobstante existisse a citada preleção, as orientações eram repassadas em horário do trabalho.
+Afirma que, quando porventura a suscitada preleção não acontecia no horário de trabalho, permitia-se aos vigilantes, inclusive o recorrido, o registro de ponto em momento anterior ao início da jornada.
+Sem razão.
+A jurisprudência da Corte Maior Trabalhista reconhece que, quanto aos minutos que antecedem e sucedem a jornada de trabalho, será considerada como extra as variações de horário que excederem de cinco minutos, observado o limite máximo diário de dez minutos, não importando as atividades desenvolvidas pelo empregado ao longo do tempo residual (troca de uniforme, lanche, higiene pessoal, etc). Esse entendimento encontra-se consubstanciado nos termos do que dispõe a Súmula n° 366, verbis:
+"SUM-366.CARTÃO DE PONTO. REGISTRO. HORAS EXTRAS. MINUTOS QUE ANTECEDEM E SUCEDEM A JORNADA DE TRABALHO (nova redação) - Res. 197/2015, DEJT divulgado em 14, 15 e 18.05.2015. Não serão descontadas nem computadas como jornada extraordinária as variações de horário do registro de ponto não excedentes de cinco minutos, observado o limite máximo de dez minutos diários. Se ultrapassado esse limite, será considerada como extra a totalidade do tempo que exceder a jornada normal, pois configurado tempo à disposição do empregador, não importando as atividades desenvolvidas pelo empregado ao longo do tempo residual (troca de uniforme, lanche, higiene pessoal, etc). "
+No caso dos autos, as testemunhas obreiras asseveraram (fl. 129):
+"(...);que teria que se apresentar na reclamada 20 minutos antes do início da jornada para uma reunião que ocorria para passar o serviço e informar as ocorrências do dia; que essa preleção durava 20 minutos;." (primeira testemunha)
+"(...)'; que quando chegava, iria inicialmente participar da preleção; que teria que chegar meia hora antes; que somente registrava o horário de início da jornada após a preleção." (segunda testemunha)
+Inclusive a testemunha da reclamada confirmou a existência de prelação ao afirmar em seu depoimento que:
+"(...);que os vigilantes têm que chegar 10 minutos antes do início da jornada; que os vigilantes podem registrar o ponto antes desses 10 minutos ou depois; que nesse tempo de 10 minutos são passadas informações sobre cada um dos postos de serviço;" (fls. 130/131)
+Ao meu ver, o recorrido logrou demonstrar, através da prova oral, a existência de prelação antes da jornada de trabalho. Todavia, quanto ao tempo de duração, em que não houve consenso nos depoimentos acima, já que uma testemunha afirmou ser de 30min, a outra de 20min e a testemunha da reclamada de 10min, entendo mais condizente com a realidade fática fazer jus o autor a 20 minutos de tempo à disposição.
+Assim, o recurso merece provimento apenas para reduzir as horas extras, decorrentes do tempo à disposição, para 5 (cinco) horas mensais.
+Quanto ao intervalo intrajornada, alega a reclamada que mesmo considerando a permanência do depoimento da primeira testemunha do reclamante, tanto o Sr. Wesley, como o Sr. Roberto Bruto, não puderam confirmar se a situação de suposta não fruição do intervalo acontecia com a parte autora, o que enfraquece o meio testemunhal como prova e dá vazão para a argumentação havida em contestação, de valoração dos cartões de ponto juntados, que eram pré-assinalados, conforme a disposição do art. 74, § 2º da CLT, que explicita que havendo o registro diário de início e término do tempo destinado ao intervalo intrajornada, a sua marcação poderia ser dispensada.
+Argui ainda que competia ao autor, em observância ao disposto dos arts. 818, da CLT e 373, I, do CPC, demonstrar que os referidos documentos não traduzem com fidelidade a jornada de trabalho efetivamente realizada, ônus do qual o reclamante não se desvencilhou a contento.
+Em que pese o inconformismo do recorrente, razão não lhe assiste.
+A distribuição do ônus da prova em demandas relativas à prestação de trabalho extraordinário não reconhecido pela empresa é idêntica às demais situações ordinariamente verificadas no processo trabalhista: a prova dos fatos constitutivos incumbe ao empregado, autor; a demonstração dos fatos impeditivos, modificativos e extintivos compete à empresa reclamada.
+A teor do que dispõe o artigo 74, § 2º, da CLT, é obrigação da empresa que possui mais de dez empregados fazer a devida anotação dos horários de trabalho de seus empregados mediante registro manual, mecânico ou eletrônico, sendo obrigatória a anotação da hora de entrada e saída, devendo ser pré-assinalados os intervalos para repouso e alimentação a fim de cientificar o trabalhador da pausa legal a que tem direito.
+In casu, apesar de os cartões de ponto constantes nos autos apresentarem a pré-assinalação do intervalo intrajornada (fls. 51/67), na forma autorizada pelo art. 74, § 2º, da CLT, a prova oral produzida pelo autor infirmou a veracidade desses registros, ao afirmar que:
+Primeira testemunha, WESLEY VICENTE DA SILVA:
+"(...); que nunca realizou refeição no refeitório da reclamada; que fazia a refeição nos seus postos de serviço; que da mesma forma ocorria com os demais vigilantes porque a maioria trabalhava em uma guarita sozinho e ficava isolado."
+Às perguntas formuladas pelo patrono da parte reclamante, disse a testemunha:"Que não era concedido nenhum intervalo para descanso."
+Às perguntas formuladas pelo patrono da parte reclamada, disse a testemunha:"(...); que existia uma regra geral no sentido de que os vigilantes não poderiam tirar o intervalo intrajornada para não deixar os seus opostos desprotegidos." (fl. 128)
+Segunda testemunha, ROBERTO BRUNO SOARES CORREIA:
+"que a orientação que existia acerca do intervalo intrajornada para os vigilantes era de que teria que realizar a refeição rapidamente e voltar para o seu posto de serviço; que seu posto não era fixo, de modo que realizaria sua refeição na guarita ou onde estivesse realizando os serviços; que nunca realizou, como vigilante, a refeição no refeitório porque somente utilizava o refeitório quem trabalhava na central; que trabalhava como vigilante das 15h às 23h de segunda a sexta;"(fl. 129)
+Já a testemunha da reclamada esclareceu quanto ao tema que:
+"(...); que durante o intervalo intrajornada, o vigilante pode realizar refeição em uma das copas dependendo do posto de serviço em que esteja executando os serviços ou dentro das portarias que são equipadas com mesa, cadeira gelágua e banheiro; que durante o intervalo o vigilante é substituído por outro vigilante que fica no seu posto de serviço; que o vigilante tem direito a 01 hora de intervalo intrajornada, mas não é realizado o controle "físico" se o vigilante está usufruindo de 01 hora, 01h e 10min ou 50minutos; que o vigilante realiza a refeição e fica livre para retornar ao seu posto de serviço pois o encarregado não tem ingerência de controlar esse tempo; que, ao longo do dia, o encarregado vai atendendo as solicitações dos vigilantes conforme a necessidade de cada um." (fl. 130)
+Desse modo, tal qual o julgador de origem, entendo que o depoimento da testemunha da reclamada não se sobrepõe aos depoimentos das testemunhas autorais, posto que, enquanto aquele exercia função de Gerente de Segurança estes eram vigilantes e, por consequência, tinham mais conhecimento da rotina de trabalho do reclamante.
+Ademais, os contracheques juntados aos autos revelam o pagamento de horas extras que eventualmente extrapolavam a jornada legal estabelecida e não os 10 minutos que antecediam a jornada, destinados à "preleção".
+Por fim, no tocante ao pedido alternativo de aplicação da nova redação do §4º do art. 71 da CLT, dada pela Lei 13.467/2017, saliento que a condenação se limitou ao período de 10.09.2013 a 07.11.2017, razão pela qual incabível o pedido da recorrente.
+Recurso improcedente no tópico.
+[...]"
+					À análise.
+De plano, percebe-se que o recurso é manifestamente inviável/incabível/desfundamentado, pois a parte elaborou peça genérica que:
+a) Não indicou qual preceito constitucional ou súmula foram violados.
+b) Anseia o vedado reexame de fatos e provas, para fins de demonstrar a inexistência de direito a intervalo intrajornada (Súmula 126/TST), inviabilizando o seguimento do recurso, inclusive por divergência jurisprudencial.
+c) Não aponta de forma analítica e clara quaisquer das hipóteses de cabimento da revista, previstas no taxativo rol do art. 896, CLT - exigência do art. 896, §1º-A, III, CLT.
+Restaram desatendidos, portanto, os requisitos legais e jurisprudenciais para o manejo da revista, o que por si só já garante o trancamento do apelo.
+Nega-se seguimento.
+					CONCLUSÃO
+					Isto posto, DENEGO seguimento ao recurso de revista.
+Intime-se.
+Publique-se.
+À Secretaria Judiciária.
+				Fortaleza, 05 de fevereiro de 2021.
+REGINA GLAUCIA CAVALCANTE NEPOMUCENO
+DESEMBARGADOR(A) PRESIDENTE
+/ampb

@@ -1,0 +1,46 @@
+ 	 	PODER JUDICIÁRIO DO ESTADO DE RONDÔNIA
+ Tribunal de Justiça de Rondônia
+ São Miguel do Guaporé - Vara Única
+ Av.São Paulo, nº 1395, Bairro Cristo Rei, CEP 76932-000, São Miguel do Guaporé
+  Processo n.: 7000480-71.2018.8.22.0022
+  Classe: Procedimento Comum Cível
+  Assunto:Seguro
+  AUTOR: MARTENIRA CLAUDINA DOS SANTOS, LINHS ET KM 01, PT 10 ZONA RURAL - 76932-000 - SÃO MIGUEL DO GUAPORÉ - RONDÔNIA
+  ADVOGADO DO AUTOR: TIAGO GOMES CANDIDO OAB nº RO7858
+JAIRO REGES DE ALMEIDA OAB nº RO7882
+  RÉU: Seguradora Líder dos Consórcios do Seguro DPVAT S.A., RUA SENADOR DANTAS 74, 5 ANDAR CENTRO - 20031-205 - RIO DE JANEIRO - RIO DE JANEIRO
+  ADVOGADO DO RÉU: IRAN DA PAIXAO TAVARES JUNIOR OAB nº RO5087, PAULO BARROSO SERPA OAB nº RO4923, JOSE HENRIQUE BARROSO SERPA OAB nº RO9117
+  Valor da causa:R$ 9.112,50
+  SENTENÇA
+  Trata-se de ação de cobrança de seguro DPVAT ajuizada por MARTENIRA CLAUDINA DOS SANTOS em face da SEGURADORA LIDER DOS CONSÓRCIOS DO SEGURO DPVAT S/A.
+  Narra a autora na inicial que foi vítima de acidente automobilístico em 14/04/2017 e que, em razão disso ficou com sequela no joelho esquerdo. Aduz que efetuou o requerimento administrativo para o recebimento da indenização tendo recebido apenas a quantia de R$ 4.387,50, de modo que teve que recorrer ao judiciário para recebimento da diferença do que entende devido. Com a inicial juntou documentos.
+  A inicial foi recebida para processamento (ID 18238176) com o deferimento dos benefícios da AJG à autora.
+  Devidamente citada a requerida apresentou contestação (ID 19858223). Em sede preliminar, impugnou a concessão da gratuidade judiciária, requerendo a revogação da benesse. Quanto ao mérito aduziu que a indenização devida já foi paga na via administrativa discabendo qualquer complementação. Argumentou sobre a impossibilidade de inversão do ônus e invalidade do laudo particular e, em caso de eventual condenação, pugnou que seja observado o teto legal e que os juros sejam contados a partir da citação, com correção monetária a partir da data de ajuizamento da demanda. Juntou cópia do processo administrativo.
+  Ao Id 21477131 a autora impugnou os termos da contestação.
+  Em decisão saneadora foi rejeitada a preliminar e determinada a produção de prova pericial (ID 23738150).
+  A requerida comprovou o depósito dos honorários do perito (Id 24559535).
+  Laudo pericial juntado ao ID 31313607.
+  Ao Id 31665834 o requerido apresentou suas alegações finais e manifestação acerca do laudo.
+  É o relatório. Examinados, decido.
+  Tratando-se de questão meritória de direito e de fato e, não havendo a necessidade de produção de outras provas, forçoso o julgamento da lide, que pode ser composta no estado que se encontra (Art. 455, I/CPC).
+  Pois bem.
+  A presente demanda versa sobre cobrança de indenização por danos cobertos pelo seguro DPVAT, que é o seguro obrigatório de danos pessoais causados por veículos automotores de vias terrestres, criado pela Lei 6.194 de 1974, com o fim de amparar as vítimas de acidente de trânsito em todo o território nacional, e prevê indenizações em caso de morte, invalidez permanente, total ou parcial, além de despesas de assistência médica e suplementares.
+  Cumpre destacar que, em atenção ao comando do artigo 3°, inciso II e §1°, da Lei n° 6.194, de 1974, com a redação que dada pela Lei 11.482, de 2007 que converteu a medida provisória 340 de 2006, e pela Lei 11.945, de 2009 - leis que já vigiam quando da ocorrência do sinistro - o valor da indenização deve ser proporcional ao grau da debilidade suportada pela parte autora em virtude do acidente automotor. Deste modo, ainda que preenchidos os requisitos da Lei 6.194 de 1974, há de ser observada, para sua concessão, o grau da lesão sofrida pela autora. Sobre o tema, veja-se a Súmula 474 do STJ: "A indenização do seguro DPVAT, em caso de invalidez parcial do beneficiário, será paga de forma proporcional ao grau da invalidez."
+  Feitas tais considerações tenho que no caso em apreço a autora alega ter sofrido acidente automobilístico que lhe causou invalidez permanente, decorrente da perda funcional de membros.
+  Analisando os documentos juntados aos autos verifico a presença de cópia reprográfica do Boletim de Ocorrência que relata o sinistro (ID 16637656), de ficha de atendimento médico onde se é possível identificar o nome da autora e a data do sinistro (Id 16637551) e laudos médicos particulares, dentre outros.
+  Em sua peça contestatória argumentou o requerido que o laudo particular não pode ser considerado como meio de prova havendo necessidade de perícia pelo IML. Ora, é remansosa a jurisprudência no sentido de que o laudo médico emitido pelo IML é prescindível para ajuizamento de ação de cobrança de seguro DPVAT, ainda mais quando considerado que a maioria das cidades brasileiras não dispõe do referido órgão. Neste sentido colaciono o seguinte julgado de nosso Egrégio Tribunal de Justiça de Rondônia, com grifo nosso:
+  Civil e Processual Civil. DPVAT. Seguro obrigatório. Petição inicial. Laudo médico emitido pelo IML. Desnecessidade. Laudo emitido por fisioterapeuta. Aferição da invalidez e sua graduação. Insuficiência. Perícia médica. Não realização. Anulação da sentença. É desnecessária a instrução da peça inicial com laudo médico expedido especificamente pelo IML para a propositura da ação de cobrança do seguro obrigatório (DPVAT), pois a constatação da invalidez pode ser averiguada por meio de perícia judicial outra no decorrer da instrução processual. Não se mostrando suficiente o laudo particular trazido pela parte-autora para atestar a existência de invalidez permanente e sua graduação, uma vez que emitido por profissional fisioterapeuta, em desacordo com o que determina a legislação atinente à matéria, torna-se imprescindível a realização de perícia médica para demonstrar o direito ao recebimento da indenização de seguro obrigatório (DPVAT), devendo, pois, ser anulada a sentença que julgou o feito prematuramente. Apelação, Processo nº 0007381-70.2014.822.0005, Tribunal de Justiça do Estado de Rondônia, 1ª Câmara Cível, Relator(a) do Acórdão: Des. Moreira Chagas, Data de julgamento: 23/08/2017
+  Quanto à alegada incapacidade, o laudo médico confeccionado por médico perito nomeado pelo juízo (ID 31313607) atesta que a autora ficou com sequelas permanentes parciais incompletas no joelho esquerdo decorrentes de fratura ocasionada por queda em acidente de trânsito ocorrido em abril de 2017.
+  Desta feita, havendo indícios suficientes da ocorrência do acidente automobilístico que vitimou a autora e acarretou lesões, restam preenchidos os requisitos da Lei 6.194 de 1974, fazendo a autora jus ao recebimento da indenização securitária DPVAT, cabendo agora discutir a extensão da lesão e, por conseguinte, o valor devido à título de indenização.
+  O laudo elaborado pelo perito do juízo é claro ao estabelecer que a autora apresenta lesão permanente parcial completa no joelho esquerdo (Id 31313607). Assim, conforme consta da tabela anexa à Lei nº 6.194/74, é aplicável o percentual de 25% sobre o teto indenizatório para Perda completa da mobilidade de um quadril, joelho ou tornozelo, o que importa no valor de R$ 3.375,00 (25% de 13.500).
+  Como a autora bem como o próprio requerido reconheceram o pagamento administrativo da quantia de R$ 1.687,50 (mil seiscentos e oitenta e sete reais e cinquenta centavos), resta ainda um crédito remanescente a ser pago pelo requerido em favor da autora no importe de R$1.687,50 (mil seiscentos e oitenta e sete reais e cinquenta centavos).
+  Ante o exposto e por tudo o mais que consta nos autos, JULGO PROCEDENTE EM PARTE o pedido formulado pela autora e, em consequência, extingo o feito com resolução de mérito nos termos do Art. 487, I/CPC, para o fim condenar a parte ré a pagar à autora a quantia de R$ 1.687,50 (mil seiscentos e oitenta e sete reais e cinquenta centavos), corrigido monetariamente a contar do evento danoso e com incidência de juros de mora de 1% (um por cento) ao mês desde a data da citação.
+  Condeno a parte ré ao pagamento das despesas processuais e honorários advocatícios, que fixo no patamar de R$800,00 (setecentos reais).
+  Expeça-se alvará do valor depositado em favor do Sr. Médico perito, caso ainda não tenha sido realizada tal providência.
+  Havendo apelação, intime-se o apelado para apresentar contrarrazões no prazo de 15 dias (CPC, Art. 1.010, § 1º).
+  Na hipótese do apelado interpor apelação adesiva, intime-se a apelante para apresentar contrarrazões à apelação adesiva, também em 15 (quinze) dias (CPC, Art. 1.010, § 2º).
+  Após, remetam-se os autos ao Tribunal competente para julgamento do recurso (CPC, Art. 1.010, § 3º).
+  P.R.I. Com o trânsito em julgado e sem incidentes, dê-se baixa e remetam-se ao arquivo.
+  São Miguel do Guaporé/RO,  24 de janeiro de 2020.
+  REJANE DE SOUSA GONÇALVES FRACCARO
+  Juíza de Direito

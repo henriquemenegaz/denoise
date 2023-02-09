@@ -1,0 +1,271 @@
+ExCELENTÍSSImo Juiz FEDERAL DA 2ª VARA FEDERAL DE CAMPINAS - sp
+  autos n.º 5007775-81.2017.4.03.6105
+  Autor(A): ERALDO FOTIUK OLIVEIRA
+  Réu: INSS
+  O INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, Autarquia Federal devidamente qualificada nos autos em epígrafe, vem, respeitosamente, pelo Procurador Federal ex lege que ao final subscreve, à presença de Vossa Excelência para apresentar sua CONTESTAÇÃO à pretensão da parte autora, pelos motivos de fato e de direito a seguir expostos.
+   1
+   DA PRETENSÃO E DOS FATOS
+                  Alega a parte autora ter requerido administrativamente a concessão do benefício de aposentadoria especial, a qual foi indeferida.
+  Porém, sustenta que trabalhou em atividades insalubres que deixaram de ser consideradas pela Autarquia Previdenciária. Assim, vem a Juízo requerer a concessão do referido benefício.
+  Todavia, a pretensão não merece prosperar. Vejamos.
+  DOS PERÍODOS ESPECIAIS CONTROVERTIDOS
+  Pretende o autor seja reconhecido como especial as atividades realizadas nos seguintes períodos:
+  UNILEVER BRASIL S.A.
+  Períodos: 06/03/1997 a 31/10/2010
+  Agente nocivo: Ruído de 82,2 dB, calor de 24°C e poeira incomoda.
+  Todavia, sem razão.
+  Primeiramente, cumpre-se observar existem informações no PPP que desqualificam os períodos como especiais, pois ao analisar o documento resta comprovado que as informações lá inseridas não são capazes de enquadrar o período como especial, uma vez que o ruído está abaixo do limite imposto pela legislação, o calor não fere os limites também e não há mensuração da intensidade da poeira incomoda.
+  Ademais, há irregularidade no método de medição da intensidade do ruído, que diverge do que determina a legislação, pois o método utilizado foi a dosimetria, sendo necessário o método NEN.
+  Cumpre destacar a redação do art. 280 da IN77/INSS/2015, para a metodologia de medição:
+  Art. 280. A exposição ocupacional a ruído dará ensejo a caracterização de atividade exercida em condições especiais quando os níveis de pressão sonora estiverem acima de oitenta dB (A), noventa dB (A) ou 85 (oitenta e cinco) dB (A), conforme o caso, observado o seguinte:
+  I -  até 5 de março de 1997, véspera da publicação do Decreto nº 2.172, de 5 de março de 1997, será efetuado o enquadramento quando a exposição for superior a oitenta dB (A), devendo ser informados os valores medidos;
+  II - de 6 de março de 1997, data da publicação do Decreto nº 2.172, de 5 de março de 1997, até 10 de outubro de 2001, véspera da publicação da Instrução Normativa INSS/DC nº 57, de 10 de outubro de 2001, será efetuado o enquadramento quando a exposição for superior a noventa dB (A), devendo ser informados os valores medidos;
+  III - de 11 de outubro de 2001, data da publicação da Instrução Normativa INSS/DC nº 57, de 10 de outubro de 2001, véspera da publicação do Decreto nº 4.882, de 18 de novembro de 2003, será efetuado o enquadramento quando a exposição for superior a noventa dB (A), devendo ser anexado o histograma ou memória de cálculos; e
+  IV - a partir de 01 de janeiro de 2004, será efetuado o enquadramento quando o Nível de Exposição Normalizado - NEN se situar acima de 85 (oitenta e cinco) dB (A) ou for ultrapassada a dose unitária, conforme NHO 1 da FUNDACENTRO, sendo facultado à empresa a sua utilização a partir de 19 de novembro de 2003, data da publicação do Decreto nº 4.882, de 2003, aplicando:
+  a) os limites de tolerância definidos no Quadro do Anexo I da NR-15 do MTE; e
+  b) as metodologias e os procedimentos definidos nas NHO-01 da FUNDACENTRO.
+  Percebe-se que, no caso dos autos, a técnica utilizada na medição do ruído difere da metodologia exigida pela legislação previdenciária após 2004.
+  Isto porque, a partir de 01/01/2004, deve-se utilizar a "Dosimetria NEN (Níveis de exposição Normatizado)", conforme NHO 01 da FUNDACENTRO (Inciso IV, art. 280 da IN77/PRES/INSS de 21/01/2015), referente à avaliação da exposição ocupacional ao ruído.
+  Como se nota da norma, deve ser utilizada a Dosimetria de Nível de Exposição Normatizado (NEN), que se refere ao nível de exposição convertido para uma jornada padrão de 8 horas diárias, para fins de comparação com o limite de exposição.
+  O Nível de Exposição Normalizado - NEN é determinado pela seguinte expressão:
+  NEN = NE + 10 log Te/480 [dB]
+  onde:
+  NE: nível médio representativo da exposição ocupacional diária
+  Te: tempo de duração, em minutos, da jornada diária de trabalho
+  Com base nessa fórmula, sempre que o nível de exposição normalizado - NEN - for superior a 85 dB(A), o limite de exposição estará excedido e exigirá a adoção imediata de medidas de controle.
+  Ademais, as avaliações devem ser renovadas anualmente, ou seja, é necessário que o PPP informe a data de medição do ruído para o enquadramento do período laborado naquele ano, conforme disposto no Inciso IV, Parágrafo 7 do art. 266 da IN77/INSS/2015, o que não foi feito.
+  Portanto, resta, assim, demonstrado que o autor não faz jus ao reconhecimento de período especial, tendo em vista que cabe à parte autora a comprovação dos fatos constitutivos de seu direito, não tendo no presente caso a efetiva comprovação da insalubridade, razão pela qual os pedidos devem ser julgados IMPROCEDENTES.
+  	 DO DIREITO
+  2.1 DO TEMPO ESPECIAL - LEGISLAÇÃO APLICÁVEL
+  Para que possamos bem analisar a questão, mister traçar um breve histórico acerca da possibilidade de reconhecimento de tempo especial na legislação previdenciária, para que se tenha uma visão panorâmica de sua evolução e de suas principais mudanças.
+              Primeiramente, vale ressaltar que deve ser considerada a legislação vigente à época da prestação do serviço para o enquadramento como tempo especial.
+  Este é o posicionamento do E. Tribunal Regional Federal da 3ª Região, que considera aplicável a legislação vigente quando os serviços foram efetivamente prestados:
+  "PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE SERVIÇO.ATIVIDADE RURAL. ATIVIDADE URBANA COMUM E ESPECIAL. RECONHECIMENTO DE TEMPO DE SERVIÇO. CONVERSÃO DE ATIVIDADE EXERCIDA EM CONDIÇÕES ESPECIAIS. CÔMPUTO DE TEMPO TOTAL. CONCESSÃO DO BENEFÍCIO. CARÊNCIA CUMPRIDA. REQUISITOS LEGAIS PREENCHIDOS.
+  (...)
+  III -É de natureza especial a atividade do segurado que trabalhou em contato direto com ruído acima de 90 dB (cód. 1.1.5 do anexo I do decreto 83.080/79) de 1981 a 1989, sendo aplicável ao exame da matéria a legislação vigente quando da efetiva realização do trabalho insalubre."
+  (TRF - 3ª Região, 2ª Turma, REO nº 623084/SP, Rel. Juíza Valéria Nunes, j. em 16/09/2002, v.u., DJ de 06/12/2002, pág. 518). (grifei)
+                 Podemos dizer, assim, que o reconhecimento de tempo especial, a possibilidade de sua conversão em comum e a aposentadoria especial, seguiram as seguintes normatizações ao longo do tempo:
+  	Lei nº 3.807/60: estabelecia que a aposentadoria por tempo especial seria concedida ao segurado que tivesse 50 anos de idade e comprovasse 15 anos de contribuições, tendo trabalhado por 15, 20 ou 25 anos em atividade profissional considerada insalubre, penosa ou perigosa, de acordo com regulamentação própria.
+	Decreto nº 53.831/64: estabelecia o enquadramento da atividade especial, considerando o agente insalubre e o grupo de serviços ou atividades profissionais  relacionados. Bastava a apresentação do formulário SB-40 ou DSS-8030, preenchido corretamente pela própria empresa, não necessitando de laudo pericial. Vale ressaltar que para o agente agressivo ruído o laudo pericial era exigido, comprovando-se a exposição a níveis acima de 80 dB. As atividades não descritas poderiam ser consideradas especiais, desde que houvesse laudo pericial contemporâneo à prestação do serviço.
+	 Lei nº 5.890/73: a aposentadoria especial seria concedida ao segurado que contasse com ao menos 5 anos de contribuição e tivesse trabalhado por  15, 20 ou 25 anos em atividade profissional considerada penosa, insalubre ou perigosa, de acordo com regulamentação própria.
+	Decreto nº 83.080/79: estabelecia praticamente as mesmas regras previstas no Decreto nº 53.831/64, tendo com ele coexistido. Separou o enquadramento do tempo especial segundo (i) o agente nocivo (Anexo I), não importando a categoria a que pertencia o trabalhador e (ii) o grupo profissional (Anexo II). Com relação ao agente agressivo ruído, estabeleceu o nível de tolerância abaixo de 90 dB. Estabeleceu o fator de conversão do período especial em comum em 1,20.
+	Lei nº 8.213/91: no seu art. 57 e parágrafos 1o ao 4o, na redação original, estabelecia de forma genérica as condições em que o segurado fazia jus ao benefício de aposentadoria especial, percentual de cálculo da RMI, os períodos de tempo, 15, 20 ou 25 anos, entre outros e no seu artigo 58 somente dispunha que "A relação de atividades profissionais prejudiciais à saúde ou à integridade física será objeto de lei específica".
+	Decreto nº 611/92: estabeleceu que seriam considerados os Decretos nºs 53.831/64 e 83.080/79 até a publicação de lei específica sobre o tema (art. 292). Estabeleceu, ainda, o fator de conversão do tempo especial em comum em 1,40, a partir de 21.07.1992, data em que entrou em vigor (art. 64).
+	Lei nº 9.032/95: trouxe profundas alterações na aposentadoria especial, dando nova redação ao art. 57 e 58, alterando a redação dos parágrafos 1o ao 4o e criando os §§ 5º e 6º, todos da Lei 8.213/91. Entre as alterações, as principais foram: (i) a necessidade de comprovação de trabalho permanente, não ocasional nem intermitente em condições especiais prejudiciais à saúde; e (ii) a comprovação da exposição efetiva aos agentes prejudiciais à saúde. Assim, não se trata mais de verificar a categoria profissional a que pertence o segurado, mas sim, comprovar se houve efetiva exposição a agentes insalubres de forma não ocasional, nem intermitente.
+	Lei nº 9.528/97: resultado da conversão da MP 1.523/96, tem efeitos desde 11.10.1996. Estabelece a exigência de Laudo Técnico contemporâneo de Condições Ambientais, formulado por médico do trabalho ou engenheiro de segurança do trabalho, e que deste laudo constem informações sobre tecnologia de proteção coletiva que diminua a intensidade do agente prejudicial à saúde aos limites de tolerância.
+	Decreto nº 2.172/97: elevou o limite de ruído para 90 dB, a partir de 05.03.1997, data de sua vigência. Vale observar que até então, a despeito do Decreto nº 83.080/79 já fixar o limite de 90 dB, utiliza-se 80 dB, em razão da concomitância de vigência com o Decreto nº 53.831/64. A partir da entrada em vigor desse decreto, foram revogados os decretos 53.831/64 e 83.080/79.
+	Lei nº 9.711/98: estabelece um limite temporal à possibilidade de conversão do tempo especial em comum, até 28.05.1998, sendo impossível a conversão após essa data (art. 28).
+	Decreto nº 4.882/03: reduziu o limite de tolerância do agente agressivo ruído para 85 dB, a partir de 19.11.2003.
+                 Assim, devemos analisar os períodos que foram reconhecidos como especiais à luz da evolução do tema na legislação, conforme acima demonstrado.
+  2.2 DA NECESSIDADE DA COMPROVAÇÃO DE HABITUALIDADE E PERMANÊNCIA
+                 Impede dizer que é necessário, para fins de caracterização de tempo de serviço especial, que o Autor prove o contato permanente, não ocasional e nem intermitente, com os agentes agressivos.
+                 Ou seja, para o trabalhador fazer jus à contagem de tempo de serviço especial, deve ele comprovar que, no exercício de suas funções, ficava efetivamente exposto ao agente agressivo acima dos limites de tolerância, de forma PERMANENTE, HABITUAL E NÃO INTERMITENTE.
+                 Habitual quer dizer todos os dias de trabalho e permanente significa durante toda a jornada normal de trabalho.  Intermitente, por sua vez, é que o apresenta interrupções ou suspensão.
+                 Desta forma, somente o trabalho exercido de forma constante, ininterrupto e durante todo o dia de trabalho, exposto a agentes agressivos, enseja o cômputo especial.
+   2.3.
+   DO AGENTE RUÍDO
+  Há de se atentar que a comprovação, por laudo pericial inequívoco, de desempenho de atividade exposta a agente nocivo ruído, de maneira habitual e permanente, é necessária, salientando-se que variou, ao longo do tempo, o nível de ruído considerado nocivo:
+  a) acima de 80 dB, segundo o Decreto nº 53.831/1964 (Anexo, cód. 1.1.6), limite considerado até 05/03/1997
+       [1]
+       ;
+  b) acima de 90 dB, a partir de 06/03/1997, conforme o Decreto nº 2.172/1997 (Anexo IV, cód. 2.0.1) e o Decreto nº 3.048/99 (Anexo IV, cód. 2.0.1), até 18/11/2003;
+  c) acima de 85 dB, a partir de 19/11/2003, consoante o Decreto nº 3.048/99, com a redação dada pelo Decreto nº 4.882/2003.
+   2.4.
+   DO USO DO EPI
+  É importante, mais uma vez, salientar que o perfil profissiográfico apresentado pelo impetrante informa que o mesmo fazia uso de equipamentos de proteção individual, além de equipamentos de proteção coletiva.
+  Se houve uso dos EPIs, e se os mesmos se prestam a reduzir ou eliminar a ação dos agentes agressores ao organismo, é de se concluir que tal proteção efetivamente ocorreu, sendo impossível a caracterização da atividade como "especial". Destarte, a insalubridade advinda do contato com os agentes nocivos restou afastada pelo uso dos equipamentos individuais de proteção, de acordo com as normas de segurança do trabalho.
+  Ora, quando o suposto agente agressivo é neutralizado ou reduzido a limites toleráveis, não há efetivo prejuízo à saúde ou integridade física do trabalhador, razão pela qual não poderá tal atividade ser considerada especial.
+  A respeito do tema, transcreve-se a lição de CARLOS ALBERTO PEREIRA DE CASTRO e JOÃO BATISTA LAZZARI, respaldada no ensinamento de WLADIMIR NOVAES MARTINEZ:
+  É importante, quanto ao direito de aposentadoria, o efeito do uso de equipamentos de proteção no direito ao cômputo do tempo de atividade especial. Pelo conceito legal, somente poderia ser considerado tempo computável para esse fim o despendido pelo segurado em atividade nociva à sua saúde. Ora, se de acordo com as normas técnicas de segurança e medicina do trabalho, o segurado, ao estar utilizando o chamado "EPI", estava trabalhando com o agente nocivo neutralizado, não lhe causando mal algum, não há como se entender computável este período para fins de aposentadoria diferenciada. De nosso entendimento não discrepa o pensamento de Wladimir Martinez sobre o tema: "Todavia se o trabalhador usou o equipamento de proteção (no caso do ruído, o protetor auricular reduz até 30% dos 90 decibéis determinantes do benefício) não pode o empregador fornecer SB-40 sem essa informação. Caracterizado o fato, não há direito à aposentadoria especial". (Manual de Direito Previdenciário, Editora LTr, 2000, p. 471-472) (grifamos).
+  Nesse sentido, também leciona SÉRGIO PINTO MARTINS em sua obra "Direito da Seguridade Social":
+  Se o EPI eliminar ou neutralizar o agente nocivo, não fará jus o trabalhador à aposentadoria especial, pois o contato com o elemento químico, físico, biológico ou associação de agentes fica afastado. O empregado não estará exposto aos referidos agentes, nem haverá prejuízo a sua saúde ou integridade física. (Atlas, 17ª edição, p. 371-372) (sublinhamos)
+  Logo, a tese de que a utilização de EPI pela parte Autora não fez presumir a neutralização do agente agressivo peca pelos seguintes argumentos:
+  I - Os EPIs são confeccionados conforme padrões técnicos de qualidade rigorosos, possuindo, pela sua própria finalidade existencial, aptidão para diminuir e/ou neutralizar os agentes nocivos em ambiente de trabalho. Aliás, a Lei 6.514/1977, em seu anexo regulamentar NR6, item 6.5, diz textualmente:
+  6.5. O EPI, de fabricação nacional ou importado, só poderá ser colocado à venda, comercializado ou utilizado, quando possuir o Certificado de Aprovação (CA), expedido pelo Ministério do Trabalho e da Administração - MTA, atendido o disposto no subitem 6.9.3.
+  II - O ônus de demonstrar ou provar eventual disfunção do EPI ou a remanescência da insalubridade é da parte autora e não do INSS, não sendo aceitável a "presunção invertida", dada a existência de certificação dos produtos;
+  III - O EPI não é brinquedo ou dispositivo inútil. Não se trata de um enfeite caprichoso do empregado ou um deleite da legislação, mas de uma medida técnica de segurança e medicina do trabalho, tão necessária quanto obrigatória.
+  Esse entendimento encontra respaldo nos Tribunais pátrios, como se infere dos seguintes julgados dos Egrégios Tribunais da 4ª e 3ª Regiões, que pedimos vênia para transcrever:
+  EMENTA: PREVIDENCIÁRIO. APOSENTADORIA. TEMPO DE SERVIÇO. ESPECIAL. CONVERSÃO. DECRETO-LEI 83.080/79. ART. 60 - ATIVIDADE NÃO ELENCADA NO ROL DAS QUE ENSEJAM APOSENTADORIA ESPECIAL. EQUIPAMENTO DE PROTEÇÃO INDIVIDUAL A CARACTERIZAR INSALUBRIDADE. ANALOGIA. APELAÇÃO IMPROVIDA.
+  1 - Constatado que, na função de contra-mestre, o apelante não exercia atividade considerada insalubre, penosa ou perigosa, nos termos do Regulamento (Anexos I e II); e tampouco foi apresentado laudo técnico para comprovar o grau de insalubridade do local de trabalho, consideradas as particularidades das funções exercidas pelo autor.
+  2 - Verificando-se que a exposição da saúde a riscos é que justifica a concessão de aposentadoria especial, segue-se que, acaso eliminada a insalubridade pela utilização de equipamento individual de proteção, o trabalho torna-se comum, não havendo nenhuma justificativa para o reconhecimento do trabalho como atividade especial para fins de aposentadoria. Não apresenta o autor qualquer prova, a demonstrar que a alegada insalubridade teria persistido, não obstante a utilização do equipamento de proteção.
+  3 - Não comprovada a insalubridade, pressuposto essencial para a qualificação do trabalho como especial, segue-se que a lei não contém lacunas a justificar integração analógica, uma vez que deixou de prever situação que, efetivamente, não deveria contemplar.
+  4 - Verifica-se, ainda, que o autor sequer requereu a realização de perícia judicial, que poderia, eventualmente elidir os elementos de convicção que desaconselham o acolhimento do pedido.
+  5 - Apelo a que se nega provimento.
+  TRF 3ª Região, Quinta Turma - Classe: AC Apelação Cível, Processo: 91030284476/SP - Data da decisão: 30/05/2000 - Documento: TRF300051655, Fonte DJU, Data: 08/08/2000, p. 599 - Relator JUIZ SANTORO FACCHINI. (grifo nosso)
+  Assim, incontroversa a utilização de EPI eficaz, o labor desempenhado nos períodos ora pretendidos deve ser computado como tempo comum, sem acréscimo.
+  2.5 DO AGENTE CALOR
+  Sobre os limites de tolerância ao agente nocivo calor, veja-se anexo n.o 3 da Norma Regulamentadora n.o 15 - Atividades e Operações Insalubres (NR-15):
+   ANEXO Nº 3
+   LIMITES DE TOLERÂNCIA PARA EXPOSIÇÃO AO CALOR
+  1. A exposição ao calor deve ser avaliada através do "Índice de Bulbo Úmido Termômetro de Globo" - IBUTG definido pelas equações que se seguem: (115.006.5/ I4)
+  Ambientes internos ou externos sem carga solar:
+  IBUTG = 0,7 tbn + 0,3 tg
+  Ambientes externos com carga solar:
+  IBUTG = 0,7 tbn + 0,1 tbs + 0,2 tg
+  onde:
+  tbn = temperatura de bulbo úmido natural
+  tg = temperatura de globo
+  tbs = temperatura de bulbo seco.
+  2. Os aparelhos que devem ser usados nesta avaliação são: termômetro de bulbo úmido natural, termômetro de globo e termômetro de mercúrio comum.(115.007-3/ I4)
+  3. As medições devem ser efetuadas no local onde permanece o trabalhador, à altura da região do corpo mais atingida. (115.008-1/I4)
+  ***
+  LIMITES DE TOLERÂNCIA PARA EXPOSIÇÃO AO CALOR, EM REGIME DE TRABALHO INTERMITENTE COM PERÍODOS DE DESCANSO NO PRÓPRIO LOCAL DE PRESTAÇÃO DE SERVIÇO.
+  1. Em função do índice obtido, o regime de trabalho intermitente será definido no Quadro n º 1.
+   QUADRO Nº 1 (115.006-5/ I4)
+  	 Regime de Trabalho Intermitente com Descanso no Próprio Local de Trabalho (por hora)
+ 	 TIPO DE ATIVIDADE
+	 LEVE
+ 	 MODERADA
+ 	 PESADA
+	 Trabalho contínuo
+ 	 até 30,0
+ 	 até 26,7
+ 	 até 25,0
+	 45 minutos trabalho
+ 15 minutos descanso
+ 	 30,1 a 30,6
+ 	 26,8 a 28,0
+ 	 25,1 a 25,9
+	 30 minutos trabalho
+ 30 minutos descanso
+ 	 30,7 a 31,4
+ 	 28,1 a 29,4
+ 	 26,0 a 27,9
+	 15 minutos trabalho
+ 45 minutos descanso
+ 	 31,5 a 32,2
+ 	 29,5 a 31,1
+ 	 28,0 a 30,0
+	 Não é permitido o trabalho sem a adoção de medidas adequadas de controle
+ 	 acima de 32,2
+ 	 acima de 31,1
+ 	 acima de 30,0
+  2. Os períodos de descanso serão considerados tempo de serviço para todos os efeitos legais.
+  3. A determinação do tipo de atividade (Leve, Moderada ou Pesada) é feita consultando-se o Quadro nº 3.
+  ***
+  LIMITES DE TOLERÂNCIA PARA EXPOSIÇÃO AO CALOR, EM REGIME DE TRABALHO INTERMITENTE COM PERÍODO DE DESCANSO EM OUTRO LOCAL (LOCAL DE DESCANSO).
+  1. Para os fins deste item, considera-se como local de descanso ambiente termicamente mais ameno, com o trabalhador em repouso ou exercendo atividade leve.
+  2. Os limites de tolerância são dados segundo o Quadro nº 2.
+   QUADRO Nº 2 (115.007-3/ I4)
+  	 M (Kcal/h)
+ 	 MÁXIMO IBUTG
+	 175
+ 	 30,5
+	 200
+ 	 30,0
+	 250
+ 	 28,5
+	 300
+ 	 27,5
+	 350
+ 	 26,5
+	 400
+ 	 26,0
+	 450
+ 	 25,5
+	 500
+ 	 25,0
+  Onde: M é a taxa de metabolismo média ponderada para uma hora, determinada pela seguinte fórmula:
+  M = Mt x Tt + Md x Td
+  60
+  Sendo:
+  Mt - taxa de metabolismo no local de trabalho.
+  Tt - soma dos tempos, em minutos, em que se permanece no local de trabalho.
+  Md - taxa de metabolismo no local de descanso.
+  Td - soma dos tempos, em minutos, em que se permanece no local de descanso.
+  _____
+  IBUTG é o valor IBUTG médio ponderado para uma hora, determinado pela seguinte fórmula:
+  ______
+  IBUTG                              IBUTGt x Tt + IBUTGd xTd
+                                                                    60
+  Sendo:
+  IBUTGt = valor do IBUTG no local de trabalho.
+  IBUTGd = valor do IBUTG no local de descanso.
+  Tt e Td = como anteriormente definidos.
+  Os tempos Tt e Td devem ser tomados no período mais desfavorável do ciclo de trabalho, sendo Tt + Td = 60 minutos corridos.
+  3. As taxas de metabolismo Mt e Md serão obtidas consultando-se o Quadro n º 3.
+  4. Os períodos de descanso serão considerados tempo de serviço para todos os efeitos legais.
+   QUADRO Nº 3
+   TAXAS DE METABOLISMO POR TIPO DE ATIVIDADE (115.008-1/I4)
+  	 TIPO DE ATIVIDADE
+ 	 Kcal/h
+	 SENTADO EM REPOUSO
+ 	 100
+	 TRABALHO LEVE
+ Sentado, movimentos moderados com braços e tronco (ex.: datilografia).
+ Sentado, movimentos moderados com braços e pernas (ex.: dirigir).
+ De pé, trabalho leve, em máquina ou bancada, principalmente com os braços.
+ 125
+ 150
+ 150
+	 TRABALHO MODERADO
+ Sentado, movimentos vigorosos com braços e pernas.
+ De pé, trabalho leve em máquina ou bancada, com alguma movimentação.
+ De pé, trabalho moderado em máquina ou bancada, com alguma movimentação.
+ Em movimento, trabalho moderado de levantar ou empurrar.
+ 180
+ 175
+ 220
+ 300
+	 TRABALHO PESADO
+ Trabalho intermitente de levantar, empurrar ou arrastar pesos (ex.: remoção com pá).
+ Trabalho fatigante
+ 440
+ 550
+  E, ainda, sobre a comprovação da exposição a agente nocivo calor, nunca bastou a mera apresentação de formulário, sempre sendo indispensável laudo técnico, haja vista a especificação de um nível mínimo de exposição a calor em normas regulamentares.
+  Neste sentido, o Superior Tribunal de Justiça:
+  "PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. ATIVIDADE INSALUBRE COMPROVADA POR PERÍCIA TÉCNICA. TRABALHO EXPOSTO A RUÍDOS. ENUNCIADO SUMULAR Nº 198/TFR.
+   1. Antes da lei restritiva, era inexigível a comprovação da efetiva exposição a agentes nocivos, porque o reconhecimento do tempo de serviço especial era possível apenas em face do enquadramento na categoria profissional do trabalhador, à exceção do trabalho exposto a ruído e calor, que sempre se exigiu medição técnica.
+  (...)
+  3. In casu, o laudo técnico para aposentadoria especial foi devidamente subscrito por engenheiro de segurança do trabalho e por técnico de segurança do trabalho, o que dispensa a exigibilidade de perícia judicial.
+  4. Recurso especial a que se nega provimento." (grifei)
+  Processo                            RESP 200401349381
+  RESP - RECURSO ESPECIAL - 689195
+  Relator(a)               ARNALDO ESTEVES LIMA
+  Sigla do órgão                   STJ
+  Órgão julgador                  QUINTA TURMA
+  Fonte                                 DJ DATA:22/08/2005 PG:00344 RPTGJ VOL.:00004 PG:00027 RST VOL.:00197 PG:00092
+  Data da Decisão                07/06/2005
+  ***
+  "AGRAVO REGIMENTAL EM RECURSO ESPECIAL. NECESSÁRIA A APRESENTAÇÃO DE LAUDO TÉCNICO PARA RUÍDO E CALOR. NÃO INFIRMADA A AUSÊNCIA DO LAUDO TÉCNICO. INCIDÊNCIA DA SÚMULA Nº 283/STF. DECISÃO MANTIDA.
+   1. A decisão agravada merece ser mantida por estar afinada com a jurisprudência atual e pacífica desta Corte de que, em relação a ruído e calor, sempre foi necessária a apresentação de laudo técnico.
+  2. O recorrente não infirmou o principal fundamento da decisão agravada, qual seja, a afirmação do acórdão de inexistência do necessário laudo técnico, situação que esbarra no óbice contido no enunciado nº 283 do STF .
+  3. Agravo regimental improvido." (grifei)
+  Processo                            AGRESP 200700828111
+  AGRESP - AGRAVO REGIMENTAL NO RECURSO ESPECIAL - 941885
+  Relator(a)               JORGE MUSSI
+  Sigla do órgão                   STJ
+  Órgão julgador                  QUINTA TURMA
+  Fonte                                 DJE DATA:04/08/2008
+  Data da Decisão                19/06/2008
+  Neste sentido, o Tribunal Regional Federal da 1ª Região:
+  "PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. EXPOSIÇÃO A AGENTE AGRESSIVO (RUÍDO)EM CARÁTER HABITUAL E PERMANENTE. AUSÊNCIA DE COMPROVAÇÃO MEDIANTE LAUDOS TÉCNICOS. TEMPO DE SERVIÇO COMUM.
+  (...)
+  3. Não devem receber interpretação retroativa as alterações promovidas no art. 57 da Lei nº 8.213/91 pela Lei nº 9.032/95, especialmente no tocante à necessidade de comprovação, para fins de aposentadoria especial, de efetiva exposição aos agentes potencialmente prejudiciais à saúde ou integridade física do trabalhador (Precedente desta Turma). Portanto, até 28 de abril de 1995, data do advento da Lei nº 9.032, a comprovação de serviço prestado em condições especiais pode ser feita nos moldes anteriormente previstos.
+   4. O segurado apresentou formulários SB-40, nos quais constam como agentes nocivos calor, fumaça e ruído acima de 90 dB(A). No entanto, os formulários não estão acompanhados de laudo pericial, que sempre foi indispensável no caso de exposição ao agente ruído, como meio pelo qual se demonstra realização de dosimetria, método utilizado para avaliar doses de ruído recebidas pelos trabalhadores.
+  (...)
+  6. Apelação do autor prejudicada. Apelação do INSS e remessa oficial, tida por interposta, providas." (grifei)
+  Processo                            AC 200101990400607
+  AC - APELAÇÃO CIVEL - 200101990400607
+  Relator(a)               JUIZ FEDERAL GUILHERME DOEHLER
+  Sigla do órgão                   TRF1
+  Órgão julgador                  PRIMEIRA TURMA
+  Fonte                                 e-DJF1 DATA:07/04/2009 PAGINA:31
+  Data da Decisão                17/11/2008
+  Logo, não há como se acolher a especialidade em razão do agente nocivo calor, tendo em vista que não houve superação dos níveis estipulados.
+   3.
+   AD CAUTELAM - DOS JUROS DE MORA, DA CORREÇÃO MONETÁRIA E DOS HONORÁRIOS ADVOCATÍCIOS.
+  Na hipótese de se julgar procedente o pedido, no que toca aos juros de mora, requer o INSS seja aplicado o disposto no art. 1º-F da Lei nº 9494/97 com redação conferida pela Lei nº 11.960, de 2009:
+  LEI Nº 9.494, DE 10 DE SETEMBRO DE 1997
+  Art. 1o-F. Nas condenações impostas à Fazenda Pública, independentemente de sua natureza e para fins de atualização monetária, remuneração do capital e compensação da mora, haverá a incidência uma única vez, até o efetivo pagamento, dos índices oficiais de remuneração básica e juros aplicados à caderneta de poupança. (Redação dada pela Lei nº 11.960, de 2009)
+  	 CONCLUSÃO
+  Ante o exposto, pede e espera o Réu que a presente contestação seja acolhida para o fim de se julgar TOTALMENTE IMPROCEDENTE o pedido da parte Autora, carreando-se a ela o ônus da sucumbência, em respeito à lei e fazendo-se Justiça.
+  Contestando tudo o mais por expressa negação, requer provar o alegado por todos os meios de prova em direito admitidos, sem qualquer exceção, notadamente pela juntada e requisição de documentos e procedimentos administrativos, oitiva de testemunhas, depoimento pessoal da parte Autora, pena de confesso, exames, perícias, arbitramentos e outros que se fizerem necessários à busca da verdade real (e não processual apenas).
+  Termos em que, pede deferimento.
+  Campinas,
+   8 de março de 2018
+   .
+  VINICIUS CAMATA CANDELLO
+  Procurador Federal
+         [1]
+                        Embora o Decreto nº 83.080/1979 tenha considerado como agente nocivo o ruído acima de 90 dB (Anexo I, cód. 1.1.5)

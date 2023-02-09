@@ -1,0 +1,58 @@
+						[image: brasão]
+							PODER JUDICIÁRIO
+	JUSTIÇA DO TRABALHO
+	TRT 12a Região
+			ROT-0000523-20.2020.5.12.0012 - 1a Câmara
+			Tramitação Preferencial
+			Lei 13.015/2014
+			Lei 13.467/2017
+			Recurso de Revista
+				Recorrente(s):
+							BRF S.A.
+	Recorrido(a)(s):
+							IRACI FERREIRA
+					PRESSUPOSTOS EXTRÍNSECOS
+					Tempestivo o recurso (acórdão publicado em 30/08/2021; recurso apresentado em 08/09/2021).
+					Regular a representação processual.
+					Satisfeito o preparo.
+					PRESSUPOSTOS INTRÍNSECOS
+					Responsabilidade Civil do Empregador  /  Indenização por Dano Moral  /  Doença Ocupacional.
+					Responsabilidade Civil do Empregador  /  Indenização por Dano Material  /  Doença Ocupacional.
+					Responsabilidade Civil do Empregador  /  Indenização por Dano Moral  /  Valor Arbitrado.
+					Alegação(ões):
+					- violação do art. 7º, XXVIII, da Constituição Federal.
+					   - violação dos arts. 186,   927 e 944 do CC, 223-G, §1º, I, da CLT.
+					- divergência jurisprudencial.
+					                                                                     A reclamada busca afastar de sua condenação o pagamento de indenização por danos moral e material decorrente de doença               ocupacional, alegando restar evidenciada a ausência de culpa. Sucessivamente, requer que o valor arbitrado a título de danos morais seja               minorado.
+					Consta do acórdão:
+"Em que pese tratarem-se de patologias de caráter crônico inflamatório, os sintomas das doenças foram agravados em razão da atividade realizada em favor da ré.
+A pretensão recursal esbarra no entendimento pacífico desta Corte, retratado na Súmula nº 44 a seguir transcrita:
+DOENÇA OCUPACIONAL. CONCAUSALIDADE. INDENIZAÇÃO DEVIDA. Mesmo que de origem multifatorial, comprovado que o trabalho contribuiu para a eclosão ou agravamento da patologia, o dano é passível de indenização.
+Ficou, portanto, comprovado por meio de perícia técnica não infirmada pela empregadora, o dano e o nexo concausal, no que tange às patologias de ombros, em especial o direito, dominante, decorrendo da culpa da empresa, que não foi diligente o suficiente para evitar o agravamento destas patologias. Exames periódicos seriam necessários para monitorar a saúde da trabalhadora e, na primeira suspeita da doença, remanejá-la em suas funções.
+Há reconhecer a culpa da empresa pelo evento danoso, uma vez que não propiciou as medidas necessárias à exclusão dos riscos que o labor da autora apresentava, abstendo-se de proporcionar um meio ambiente do trabalho seguro (art. 7º, inc. XXII, da CRFB e art. 157 da CLT)."
+					A mácula indigitada aos dispositivos legais não se materializam, conforme se extrai dos fundamentos veiculados pela Turma.
+					O reexame pretendido pela parte recorrente é inadmissível em recurso de natureza extraordinária, em face da Súmula nº 126 do TST que veda o reexame de fatos e provas nesta fase recursal. Esclareça-se que o óbice da referida Súmula impede, na hipótese, a admissibilidade do recurso por divergência jurisprudencial, ante a inespecificidade do quadro fático.
+Quanto ao pedido de modificação do quantum indenizatório, a análise do recurso resulta prejudicada, uma vez que o arbitramento da indenização situa-se no âmbito do poder discricionário do magistrado, em observância a critérios de razoabilidade e de proporcionalidade, como ocorreu no caso sob análise.
+					Rescisão do Contrato de Trabalho  /  Reintegração / Readmissão ou Indenização  /  Estabilidade Acidentária.
+					Alegação(ões):
+					- violação dos arts. 5º, II, 61 e 114 da Constituição Federal.
+					 - violação do art. 118 da Lei 8.213/91.
+					- divergência jurisprudencial.
+					Por entender não preenchidos os requisitos do art. 118 da Lei 8.213/91, a recorrente requer a reforma do acórdão para que seja excluída a condenação ao pagamento de indenização substitutiva ao período de estabilidade provisória prevista naquele dispositivo legal.
+					  Consta do acórdão:
+"Ante o reconhecimento da doença equiparada a acidente do trabalho, bem como da existência da concausa com as atividades desempenhadas na empresa, possui a parte autora o direito à estabilidade no emprego prevista no art. 118 da Lei nº 8.213/1991, conforme entendimento do TST consolidado no item II da Súmula nº 378 do TST que orienta a melhor solução em termos de justiça social, assim reconhecida como aquela que se compromete com a valorização do trabalho, com a defesa da dignidade humana e de melhores condições laborais e com a proteção do trabalhador.
+Aplica-se, na hipótese, o item II da Súmula nº 378 do TST, verbis:
+ESTABILIDADE PROVISÓRIA. ACIDENTE DO TRABALHO. ART. 118 DA LEI Nº 8.213/1991.
+I - É constitucional o artigo 118 da Lei nº 8.213/1991 que assegura o direito à estabilidade provisória por período de 12 meses após a cessação do auxílio-doença ao empregado acidentado.
+II - São pressupostos para a concessão da estabilidade o afastamento superior a 15 dias e a consequente percepção do auxílio-doença acidentário, salvo se constatada, após a despedida, doença profissional que guarde relação de causalidade com a execução do contrato de emprego. (sublinhei)
+III - O empregado submetido a contrato de trabalho por tempo determinado goza da garantia provisória de emprego decorrente de acidente de trabalho prevista no art. 118 da Lei nº 8.213/91.
+O item dois desse verbete preconiza que, verificada a doença ocupacional após a ruptura do contrato de trabalho que guarde nexo com o labor antes executado, é devida a indenização substitutiva equivalente à garantia acidentária, mesmo sem afastamento previdenciário por mais de 15 dias.
+No caso, o laudo aponta a existência de nexo de concausalidade entre as patologias da autora e as atividades desenvolvidas na reclamada, ou seja, concluído no laudo que o agravamento das doenças decorre do contrato de trabalho, o que é o suficiente, pelo entendimento do TST, para incidir o direito à indenização substitutiva."
+					Assim, estando o julgado em sintonia com a jurisprudência corrente do TST (Súmula nº 373, II, do TST), não há falar em cabimento da revista, em face da inteligência inserta no § 7º do art. 896 da CLT e na Súmula nº 333 do TST.
+					CONCLUSÃO
+					DENEGO seguimento ao recurso de revista.
+				Publique-se e intime-se.
+Florianópolis, 14 de setembro de 2021.
+/kt
+Maria de Lourdes Leiria
+Desembargadora do Trabalho-Presidente

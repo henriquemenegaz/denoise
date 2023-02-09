@@ -1,0 +1,55 @@
+Poder Judiciário
+JUSTIÇA FEDERAL DE PRIMEIRO GRAU
+EXECUÇÃO FISCAL (1116) Nº 5001674-12.2018.4.03.6002 / 2ª Vara Federal de Dourados
+    EXEQUENTE: INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVAVEIS - IBAMA
+    EXECUTADO: DILERMANDO ANGELO PEZERICO
+    Advogado do(a) EXECUTADO: ANDREIA MILANO JORDANO - MT16053
+      S E N T E N Ç A
+  Proferida decisão que rejeitou a exceção de pré-executividade oposta (fls. 594/597), o excipiente/executado opôs embargos de declaração (fls. 599/601), nos quais requer sejam sanadas omissões que entende ter havido.
+  Determinada a intimação da parte embargada (fl. 602), transcorreu in albis o prazo para manifestação.
+  É o relatório.
+  Decido.
+  Inicialmente, verifico que são tempestivos os presentes embargos opostos, motivo pelo qual os recebo.
+  Os embargos de declaração têm por finalidade atacar um dos vícios apontados pelo artigo 1.022 do CPC (obscuridade, contradição ou omissão) e, em alguns casos excepcionais, em caráter infringente, para correção de erro material manifesto ou de nulidade insanável, pois que são apelos de integração, e não de substituição.
+  A parte embargante alega que a decisão combalida, ao rejeitar a exceção de pré-executividade oposta, deixou de observar que a prescrição arguida pelo executado ocorreu antes da lavratura do auto de infração, e não após este e as demais causas interruptivas.
+  Verifico que de fato a decisão recorrida, ao observar os fundamentos constantes na manifestação do IBAMA (fls. 99/101), considerou a contagem do prazo prescricional a partir da lavratura do auto de infração, em 09/08/2008, até a decisão condenatória recorrível, em 04/04/2012. Todavia, deixou de examinar a ocorrência de prescrição entre o fato gerador e a lavratura do auto de infração (09/08/2008).
+  Nesse ponto, verifico que a presente execução fiscal busca a cobrança de dívida originada do auto de infração nº 541373-D, lavrado em 09/08/2008. Consta no relatório de fiscalização do IBAMA que o fato gerador da obrigação (desmate) ocorreu antes de 2003, o que não foi impugnado nos autos.
+  A Lei nº 9.873/99, que "Estabelece prazo de prescrição para o exercício de ação punitiva pela Administração Pública Federal, direta e indireta, e dá outras providências", prevê em seu art. 1º, §2º, que "quando o fato objeto da ação punitiva da Administração também constituir crime, a prescrição reger-se-á pelo prazo previsto na lei penal ".
+  Também o Decreto Federal nº 6.514/2008, que "Dispõe sobre as infrações e sanções administrativas ao meio ambiente, estabelece o processo administrativo federal para apuração destas infrações, e dá outras providências" prevê que, in verbis:
+  "Art. 21.  Prescreve em cinco anos a ação da administração objetivando apurar a prática de infrações contra o meio ambiente, contada da data da prática do ato, ou, no caso de infração permanente ou continuada, do dia em que esta tiver cessado.
+  § 1o  Considera-se iniciada a ação de apuração de infração ambiental pela administração com a lavratura do auto de infração.
+  (...)
+  § 3o  Quando o fato objeto da infração também constituir crime, a prescrição de que trata o caput reger-se-á pelo prazo previsto na lei penal.
+  § 4o  A prescrição da pretensão punitiva da administração não elide a obrigação de reparar o dano ambiental."
+  "Art. 22.  Interrompe-se a prescrição:
+  I - pelo recebimento do auto de infração ou pela cientificação do infrator por qualquer outro meio, inclusive por edital;
+  II - por qualquer ato inequívoco da administração que importe apuração do fato; e
+  III - pela decisão condenatória recorrível.
+  Parágrafo único.  Considera-se ato inequívoco da administração, para o efeito do que dispõe o inciso II, aqueles que impliquem instrução do processo".
+  De acordo com a conduta descrita no auto de infração, enquadra-se no art. 48 da Lei 9.605/98, in verbis:
+  "Art. 48. Impedir ou dificultar a regeneração natural de florestas e demais formas de vegetação:
+  Pena - detenção, de seis meses a um ano, e multa".
+  Verifica-se que a conduta praticada pelo executado autuado não foi o desmatamento, pois este estava autorizado para o ano de 2003 e 2004. A irregularidade administrativa pela qual é sancionada, e que também contém previsão penal, é "impedir" a regeneração natural de floresta e formas de vegetação. A irregularidade, portanto, é posterior ao desmate, e configura-se pela natureza permanente da conduta ilícita, ou seja, enquanto não houver cessação da postura do autuado, haverá a permanente ofensa à vedação administrativa.
+  Extrai-se do relatório de fiscalização que foi verificada a ausência de florestas em área de reserva legal no período entre 2003 e 2008 - ano da autação. instado, o responsável informou possuir autorização para o desmate, mas tal autorização reportava ao ano de 2003, de forma que fica evidente a postura permanente do autuado que impediu desde o ano de 2003 até a data da autuação a regeneração natural da área.
+  Admitindo-se a aplicação do prazo prescrição penal para as infrações administrativas, deve-se observar também a regra de início do termo prescricional de acordo com a natureza das infrações penais.
+  Na hipótese, o artigo 48 da Lei n. 9.605/98 - equivalente penal da infração administrativa - prevê delito permanente, cujo prazo prescricional somente tem início quando cessada a permanência:
+  PENAL. PROCESSUAL PENAL. RECURSO EM SENTIDO ESTRITO. AMBIENTAL. IMPEDIR OU DIFICULTAR A REGENERAÇÃO NATURAL DE FLORESTAS. LEI N. 9.605/98, ART. 48. CRIME PERMANENTE. RECURSO PROVIDO.
+1. O delito do art. 48 da Lei n. 9.605/98 consiste em impedir ou dificultar a regeneração natural de florestas e demais formas de vegetação. Trata-se de delito permanente, pois a situação de antijuridicidade que caracteriza o delito subsiste enquanto não cessa sua conduta que impede o ambiente de regenerar-se naturalmente. Sendo assim, o termo inicial da prescrição não é o ato lesivo em si, visto que a norma penal sanciona a conduta posterior à agressão (STF, RHC 83.437-SP, Rel. Min. Joaquim Barbosa, j. 10.02.04; STJ, AgRg no REsp n. 1.297.833-RN, Rel. Min. Sebastião Reis Júnior, j. 08.05.14; HC n. 191.963-RN, Rel. Min. Laurita Vaz, j. 04.09.12; HC n. 118.842-SP, Rel. Min. Laurita Vaz, j. 26.10.10; TRF da 3ª Região, HC n. 200603000269785, Rel. Des. Fed. Luiz Stefanini, j. 28.07.09; RSE n. 199961060094287, Rel. Des. Fed. Nelton dos Santos, j. 02.10.07).
+2. O crime previsto no art. 48 da Lei n. 9.605/98 é considerado de natureza permanente, ou seja, a consumação se prolonga no tempo. Não há nos autos informação de que o denunciado tenha feito cessar a permanência, logo, não há que se falar em termo inicial para a prescrição da pretensão punitiva.
+3. Recurso provido.
+(TRF 3ª Região, QUINTA TURMA, RSE - RECURSO EM SENTIDO ESTRITO - 9038, 0000184-04.2013.4.03.6006, Rel. DESEMBARGADOR FEDERAL ANDRÉ NEKATSCHALOW, julgado em 14/09/2020, e-DJF3 Judicial 1 DATA:23/09/2020)
+   Assim, constatada a falta de regeneração da área de Reserva Legal até o ano de 2008, apesar de cessada a autorização para desmate em 2003, a infração administrativa esteve em curso durante todo esse período, cessando apenas quando do momento da autuação, de acordo com o que se tem nos autos.
+  Não há que se falar, portanto, em prescrição.
+  No tocante à pretensão de declaração do seu direito à conversão da multa em serviços ambientais, verifica-se que tal requerimento foi negado porque desacompanhando de pré-projeto, e inobservância de outros requisitos, para que possa ser efetivada a conversão pretendida perante a autoridade administrativa (ID 12005411). A exceção de pré-executividade não é o instrumento adequado para reanalisar a legalidade da manifestação administrativa, pois incompatível com sua finalidade e limitação cognitiva.
+  Diante do exposto, acolho os embargos de declaração apenas para integrar a decisão embargada com a fundamentação supra, a qual, entretanto, não modifica a sua conclusão.
+  Devolva-se às partes o prazo recursal.
+  Cumpra-se a parte final da decisão embargada, com a intimação do exequente para que requeira o que entender de direito no sentido de dar prosseguimento ao feito.
+  Intime-se. Cumpra-se.
+  Assinado digitalmente.
+  CÓPIA DESTA SENTENÇA PODERÁ SERVIR DE:
+  Mandado de intimação;
+  Carta de intimação;
+  Carta precatória;
+  Outros expedientes e comunicações que se fizerem necessários.
+  A ação tramita exclusivamente em meio eletrônico. Os autos estão disponíveis para download no seguinte endereço: http://web.trf3.jus.br/anexos/download/O5B97957A6.
+  DOURADOS, 16 de dezembro de 2020.

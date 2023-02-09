@@ -1,0 +1,123 @@
+-5698980903029977912
+Processo Judicial Eletrônico - 1º Grau - Homologação
+PJe - Processo Judicial Eletrônico
+08/07/2019
+N úmero: 7026447-84.2018.8.22.0001
+Classe: PROCEDIMENTO COMUM CÍVEL
+ Órgão julgador: Porto Velho - 10ª Vara Cível
+ Última distribuição : 20/07/2018
+ Valor da causa: R$ 12.800,00
+ Assuntos: Auxílio-Doença Previdenciário, Auxílio-Acidente (Art. 86), Auxílio-Doença Acidentário,
+Aposentadoria por Invalidez Acidentária, Restabelecimento
+ Segredo de justiça? NÃO
+ Justiça gratuita? SIM
+ Pedido de liminar ou antecipação de tutela? SIM
+Partes Procurador/Terceiro vinculado
+FRANCISCO ORLEILSON GOMES DA SILVA (AUTOR) TAIS SOUZA GONCALVES (ADVOGADO)
+INSS (RÉU)
+JOAO ESTENIO CANGUSSU NETO (PERITO)
+Documentos
+Id. Data da Documento Tipo
+Assinatura
+27051 08/05/2019 12:45 SENTENÇA
+SENTENÇA
+717
+PODER JUDICIÁRIO DO ESTADO DE RONDÔNIA
+T r i b u n a l d e J u s t i ç a d e R o n d ô n i a
+P o r t o V e l h o - 1 0 ª V a r a C í v e l
+Av. Lauro Sodré, nº 1728, Bairro São João Bosco , CEP 76.803-686, Porto Velho, RO
+Processo: 7026447-84.2018.8.22.0001
+Classe: Procedimento Comum
+Assunto: Auxílio-Doença Previdenciário, Auxílio-Acidente (Art. 86), Auxílio-Doença Acidentário, Aposentadoria por Invalidez
+Acidentária, Restabelecimento
+AUTOR: FRANCISCO ORLEILSON GOMES DA SILVA
+ADVOGADO DO AUTOR: TAIS SOUZA GONCALVES OAB nº RO7122
+RÉU: INSS - INSTITUTO NACIONAL DO SEGURO SOCIAL
+ADVOGADO DO RÉU: PROCURADORIA FEDERAL EM RONDÔNIA
+SENTENÇA
+FRANCISCO ORLEISON GOMES DA SILVA ajuíza ação de restabelecimento de
+auxílio-doença e conversão em aposentadoria por invalidez e tutela antecipada em face de
+INSTITUTO NACIONAL DE SEGURIDADE SOCIAL – INSS, ambos devidamente qualificados
+nos autos.
+Alega ter sofrido acidente de trabalho em abril/2011, recebendo auxílio-acidente por sentença
+(0021690-79.2012.8.22.0001), o qual foi implantado como auxílio-doença previdenciário. Em
+30/05/2017 teve o benefício cessado indevidamente, mas, ante o agravamento da doença, está
+atualmente incapacitado total e permanentemente para o trabalho. Junta procuração e
+documentos. Requer a concessão dos benefícios da justiça gratuita e da tutela provisória de
+urgência para determinar o restabelecimento do benefício n. 5476047030 com pagamento
+retroativo à data de cessação e julgamento procedente para conversão em aposentadoria por
+invalidez.
+DESPACHO – Deferida a gratuidade da justiça e a medida liminar. Determinada a realização
+de perícia.
+CITAÇÃO/CONTESTAÇÃO – O requerido argumenta que o requerente já recebeu assistência
+devida e que atualmente não preenche os requisitos para o restabelecimento do auxílio-doença
+ou concessão da aposentadoria por invalidez. Postula a improcedência dos pedidos.
+LAUDO – O perito concluiu que o autor está incapacitado total e permanentemente para o
+exercício de atividade laboral, mas que a lesão não é decorrente de acidente de trabalho ou
+doença ocupacional.
+É o relatório. Decido.
+F U N D A M E N T O S D O J U L G A D O
+O autor demonstrou fato constitutivo de seu direito (art. 373, I, CPC) ao apresentar laudos
+Assinado eletronicamente por: DUILIA SGROTT REIS - 08/05/2019 12:42:33
+Num. 27051717 - Pág. 1
+http://pje.tjro.jus.br:80/pg/Processo/ConsultaDocumento/listView.seam?x=19050812452900000000025389715
+Número do documento: 19050812452900000000025389715
+médicos recentes que atestam o agravamento da lesão na coluna e clavícula mesmo após
+cirurgia, assim como comprovante de concessão de auxílio-doença previdenciário de
+22/08/2011 a 30/05/2017 e sentença que determinou a concessão de auxílio-acidente a partir
+de 04/09/2012.
+O requerido, incumbido do ônus de demonstrar fato impeditivo, modificativo ou extintivo do
+direito autoral (art. 373, II, CPC), limitou-se a pontuar os requisitos de concessão dos benefícios
+de auxílio-doença acidentário/previdenciário, auxílio-acidente e aposentadoria por invalidez,
+além de afimar que já prestara assistência devida ao autor.
+O Tribunal de Justiça de Rondônia tem jurisprudência no sentido de que para concessão da
+aposentadoria por invalidez, além do segurado ser considerado incapaz e insusceptível de
+reabilitação para o exercício de atividade que lhe garanta subsistência, deve-se levar em conta
+os aspectos socioeconômicos do segurado, além do baixo nível de escolaridade e o
+impedimento para realizar trabalhos que demandem esforço físico, a incapacidade definitiva
+para o trabalho que executava no momento do acidente e a impossibilidade de reabilitação
+(Apelação, 0018326-31.2014.822.0001, Rel. Des. Oudivanil de Marins, j. 11/05/2017).
+Depreende-se do conjunto probatório que o autor não possui condições de reabilitação para o
+mercado de trabalho, considerando sua idade, grau de escolaridade e condições de saúde.
+Nesse sentido, assente o TJRO que comprovada a incapacidade definitiva para o trabalho e a
+impossibilidade de reabilitação para o exercício de atividade que garanta a subsistência do
+obreiro, é devida conversão do auxílio-doença em aposentadoria por invalidez (Apelação,
+0021891-03.2014.822.0001, Rel. Des. Gilberto Barbosa, j. 11/05/2017).
+Conclui-se, portanto, que o autor não possui condições de ser reabilitado em outra função e
+que sua invalidez é permanente para a atividade que sabe exercer e exercia ao tempo da
+incapacidade, a qual garantia o sustento de sua família. Logo, não há outro entendimento
+senão de que é devida sua aposentadoria por invalidez, segundo o art. 42 da Lei n. 8.213/91.
+O pagamento retroagirá desde o dia seguinte ao da cessação do benefício de auxílio-doença e
+deverá ser acrescido de correção monetária a partir do vencimento de cada prestação e juros
+de 1% ao mês desde a citação até o efetivo pagamento. Ressalte-se que o autor vem
+recebendo o auxílio-doença previdenciário por força de medida liminar, de modo que é cabível
+o pagamento retroativo com abatimento dos valores recebidos mediante tutela antecipada.
+D I S P O S I T I V O
+Ante o exposto, com fundamento no art. 487, I do Código de Processo Civil, JULGO
+PROCEDENTE o pedido formulado na inicial para condenar o requerido INSS a:
+a) Conceder aposentadoria por invalidez ao autor, com pagamento retroativo ao dia seguinte à
+cessação do benefício n. 5476047030, acrescido de correção monetária a partir do vencimento
+de cada prestação e juros de 1% ao mês desde a citação até o efetivo pagamento, com
+abatimento dos valores recebidos por força de tutela;
+b) Pagamento de honorários advocatícios no importe de 10% do valor da condenação, a ser
+l iquidado mediante cálculos (art . 85, §3º, I , CPC)
+c) Pagamento de honorários periciais ao médico João Estênio Cangussú Neto (CRM/RO 3171),
+no valor de R$600,00.
+Sem custas nos termos do art. 6º, III do Regimento de Custas do Tribunal de Justiça de
+Rondônia (Lei Estadual n. 3.896/2016).
+Revogo a medida liminar (ID20070045).
+Transitado em julgado, arquivem-se com as baixas e anotações necessárias.
+Assinado eletronicamente por: DUILIA SGROTT REIS - 08/05/2019 12:42:33
+Num. 27051717 - Pág. 2
+http://pje.tjro.jus.br:80/pg/Processo/ConsultaDocumento/listView.seam?x=19050812452900000000025389715
+Número do documento: 19050812452900000000025389715
+Publique-se. Registre-se. Intimem-se.
+Porto Velho/RO,  8 de maio de 2019 .
+Duília Sgrott Reis
+Juiz (a) de Direito
+Tribunal de Justiça do Estado de Rondônia
+ Av. Lauro Sodré, nº 1728, Bairro São João Bosco , CEP 76.803-686, Porto Velho, RO
+Assinado eletronicamente por: DUILIA SGROTT REIS - 08/05/2019 12:42:33
+Num. 27051717 - Pág. 3
+http://pje.tjro.jus.br:80/pg/Processo/ConsultaDocumento/listView.seam?x=19050812452900000000025389715
+Número do documento: 19050812452900000000025389715

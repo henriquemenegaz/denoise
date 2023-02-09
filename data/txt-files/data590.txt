@@ -1,0 +1,57 @@
+PODER JUDICIÁRIO
+ Tribunal de Justiça de Rondônia
+ Porto Velho - 9ª Vara Cível
+Avenida Lauro Sodré, 1728, São João Bosco, Porto Velho - RO - CEP: 76803-686 - Fone:(69) .
+  Processo: 7029022-02.2017.8.22.0001
+Classe: PROCEDIMENTO ORDINÁRIO (7)
+Data da Distribuição: 03/07/2017 16:58:55
+Requerente: MARINALVA OLINDA DA CONCEICAO
+Advogado do(a) AUTOR: JOSE ASSIS - RO0002332
+Requerido: INSS - INSTITUTO NACIONAL DO SEGURO SOCIAL
+Advogado do(a) RÉU:
+  SENTENÇA
+  Vistos e examinados,
+  I - RELATÓRIO
+  PETIÇÃO INICIAL: MARINALVA OLINDA DA CONCEIÇÃO ajuizou a presente ação visando a concessão do benefício de auxílio-doença por acidente de trabalho c/c pedido de aposentadoria por invalidez em face de INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, ambos qualificados nos autos.
+  A requerente afirma que é segurada da Previdência Social, exercendo atividade de empregada doméstica, conforme registro na CTPS. Que em março do ano de 2017, quando desempenhava suas funções de doméstica, escorregou vindo a sofrer lesão na coluna que a impede de realizar qualquer atividade fato que a levou a requerer junto à Autarquia Previdenciária a concessão de benefício por incapacidade, tendo negada a concessão do benefício.
+  Requereu em sede de tutela provisória de urgência a implantação do benefício (auxílio doença acidentário) e ao final, a procedência do pedido inicial.
+  Com a inicial apresentou documentos.
+  TUTELA DE URGÊNCIA: pela decisão de Id 1164183, páginas 1/3 foi indeferida a tutela vindicada e deferido os benefícios da gratuidade da justiça.
+  CITAÇÃO/DEFESA: a requerida apresentou contestação (Id 12926640, páginas 1/7), alegando que os requisitos exigidos à concessão do auxílio-doença previdenciário, quais sejam, qualidade de segurado, cumprimento de carência e incapacidade para o trabalho, devem estar presentes cumulativamente, o que não restou demonstrado nestes autos.
+  Pugnou pela realização de exame pericial. Requereu a improcedência dos pedidos iniciais, condenando o requerente ao pagamento de custas e honorários advocatícios.
+  Depósito dos Honorários periciais (Id 15906129).
+  O feito foi incluído no sistema de Mutirão (Id 1683079, páginas 1/2), com realização de perícia e apresentação do laudo pericial (Id 17878706, páginas 3/8).
+  As partes foram intimadas a se manifestar quanto ao laudo (Id 19060306).
+  A requerente se manifestou quanto ao laudo (Id 19308278, páginas 1/3) e a requerida (Id 19513635).
+  É o relatório. Fundamento e Decido.
+  II - FUNDAMENTAÇÃO
+   II.2. Do mérito
+  Trata-se de ação em que a autora pleiteia a implantação do benefício (auxílio doença acidentário).
+  A parte ré, por sua vez, assevera que o requerente não faz jus ao recebimento do benefício pleiteado.
+  Pois bem.
+  Em que pesem as alegações autorais e os documentos apresentados, a análise dos autos, notadamente do laudo pericial de Id 17878706, páginas 3/8 conduz à conclusão de inexistência de moléstia decorrente de acidente de trabalho, senão vejamos:
+  b) Doença, lesão ou deficiência diagnosticada por ocasião da perícia (com CID)?
+  R. Discopatia degenerativa lombar, L2, L3; L3-L4; L4-L-5
+  d) Doença/moléstia ou lesão decorrem do trabalho exercido? Justifique indicando o agente de risco ou agente nocivo causador.
+  R. Não. Discopatia degenerativa com predisposição genética.
+  e) A doença/moléstia ou lesão decorrem de acidente de trabalho? Em caso positivo, circunstanciar o fato, com data e local, bem como se reclamou assistência médica e/ou hospitalar.
+  R. Não
+  Portanto, ainda que exista a incapacidade, verifica-se a ausência de nexo de causalidade com a atividade exercida pela autora.
+  Corroborando esse entendimento, bem ainda por similitude jurídica, destaco jurisprudência do Tribunal de Justiça de Rondônia, que diz:
+  Previdenciário. Doença ocupacional. Ausência de nexo causal com atividade laboral. Aposentadoria por invalidez não concedida.
+  1. A concessão de aposentadoria por invalidez só é possível, quando feita a demonstração clara do nexo de causalidade entre a doença que acomete o segurado e suas atividades laborais.
+  2. Apelo não provido.
+  Apelação, Processo nº 0024836-94.2013.822.0001, Tribunal de Justiça do Estado de Rondônia, 1ª Câmara Especial, Relator(a) do Acórdão: Des. Gilberto Barbosa, Data de julgamento: 12/05/2017
+  Ação acidentária. Doença degenerativa. Benefício Acidentário. Aposentadoria por invalidez acidentária. Relação de causa-efeito entre a doença e atividade laboral desempenhada. Ausência. Laudo médico pericial. Recurso não provido.
+  Para a concessão de benefício acidentário (auxílio doença acidentário, auxílio-acidente) e aposentadoria por invalidez decorrente de acidente do trabalho é imprescindível a ocorrência de redução da capacidade laborativa, bem como a comprovação do nexo de causalidade entre a lesão e a limitação determinante para o déficit funcional do segurado.
+  Evidenciado que a moléstia apresentada pela parte é de natureza degenerativa e não possui nexo de causalidade com as atividades laborativas exercidas, incabível se mostra o deferimento de auxílio-acidente ou de aposentadoria por invalidez acidentária.
+  Apelação, Processo nº 0002782-08.2011.822.0001, Tribunal de Justiça do Estado de Rondônia, 2ª Câmara Especial, Relator(a) do Acórdão: Des. Renato Martins Mimessi, Data de julgamento: 30/07/2014
+  Desta forma, tenho que os pedidos iniciais merecem a improcedência.
+  III - DISPOSITIVO
+  Diante do exposto, não tendo sido preenchidos os requisitos legais para concessão dos benefícios pleiteados pelo requerente, com fundamento no art. 487, I, do CPC JULGO IMPROCEDENTE o pedido inicial.
+  Revogo a tutela anteriormente concedida (1689928, páginas 1/3).
+  Condeno a parte autora no pagamento das custas, despesas processuais, bem como em honorários advocatícios, que fixo em 15% do valor atribuído à causa (art.85, §3º, I), cuja obrigação ficará em condição suspensiva de exigibilidade (art. 98, §3º do CPC).
+  TRANSFIRA-SE para conta indicada pelo perito a importância que se encontra depositada a título de honorários periciais.
+  Transitada em julgado, arquivem-se.
+  P.R.I.
+  Porto Velho, Segunda-feira, 06 de Agosto de 2018

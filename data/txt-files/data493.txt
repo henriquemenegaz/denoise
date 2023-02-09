@@ -1,0 +1,18 @@
+PODER JUDICIÁRIO DO ESTADO DE RONDÔNIA
+  Tribunal de Justiça de Rondônia
+ {{orgao_julgador.nome}}
+ {{orgao_julgador.endereco}}
+ Endereço eletrônico: cwl3civel@tjro.jus.br
+  Número do processo: 7006110-22.2019.8.22.0007
+  AUTOR: MANOEL LUIZ DA SILVA CPF nº 206.553.639-04, RUA MARINGÁ 3151, - DE 2750/2751 A 3340/3341 NOSSA SENHORA DE FÁTIMA - 76909-818 - JI-PARANÁ - RONDÔNIA
+  ADVOGADO DO AUTOR: MARCO ANTONIO DE OLIVEIRA LOPES OAB nº RO1706
+  RÉU: ADELAIDE MARTINS JERONIMO CPF nº 139.583.722-87, AVENIDA PORTO VELHO 2493, - DE 2341 A 2649 - LADO ÍMPAR CENTRO - 76963-877 - CACOAL - RONDÔNIA
+  ADVOGADO DO RÉU: POLLYANNA DE SOUZA SILVA OAB nº RO7340
+  A parte autora informou a desistência da ação e requereu a extinção do processo sem resolução do mérito  (Id.28275797).
+  Não houve citação da contraparte, sendo desnecessária a sua anuência ao pedido de extinção.
+  HOMOLOGO a desistência e extingo o processo sem resolução do mérito, com fundamento no art. 485, VIII, do CPC.
+  Defiro a gratuidade, sem custas e honorários.
+  Intime-se e arquivem-se.
+  Cacoal/RO,  5 de julho de 2019.
+  Elson Pereira de Oliveira Bastos
+  Juiz de Direito

@@ -1,0 +1,71 @@
+Poder Judiciário
+JUSTIÇA FEDERAL DE PRIMEIRO GRAU
+24ª Vara Cível Federal de São Paulo
+  MANDADO DE SEGURANÇA CÍVEL (120) Nº 5001849-32.2020.4.03.6100
+  IMPETRANTE: MAXIHOST SERVICOS E INFRAESTRUTURA DE DATACENTER LTDA
+  Advogados do(a) IMPETRANTE: LUCAS PRATES RODRIGUES - RJ220900, VINICIUS LIMA MENDES DA CUNHA - RJ208810
+  IMPETRADO: UNIAO FEDERAL - FAZENDA NACIONAL, DELEGADO DA DELEGACIA DE ADMINISTRAÇÃO TRIBUTÁRIA DA RECEITA FEDERAL DO BRASIL (DERAT/SPO)
+  SENTENÇA
+  Vistos, etc.
+  Trata-se de mandado de segurança impetrado por MAXIHOST SERVIÇOS E INFRAESTRUTURA DE DATACENTER LTDA. contra ato do DELEGADO DA RECEITA FEDERAL DE ADMINISTRAÇÃO TRIBUTÁRIA EM SÃO PAULO, com pedido de medida liminar para suspender a exigibilidade do crédito tributário decorrente da inclusão do ISS na base de cálculo das contribuições para os Programas de Integração Social (PIS) e para o financiamento da Seguridade Social (Cofins).
+  Ao fim, requer, além da confirmação da liminar, com o afastamento do ISS da base de cálculo de PIS/Cofins, também a declaração do direito ao aproveitamento do indébito decorrente do pagamento a maior a este título no período a partir do quinquênio antecedente à impetração, devidamente atualizado pela Selic, mediante compensação administrativa.
+  Fundamentando a sua pretensão, aduz a impetrante ser pessoa jurídica obrigada ao recolhimento da contribuição ao PIS/Cofins, cuja apuração leva em conta parcelas relativas ao ISS, o que entende ser manifestamente inconstitucional.
+   Atribuído à causa o valor de R$ 45.000,00. Procuração e documentos acompanham a inicial. Custas no ID 27946578.
+  O sistema PJe apontou suspeita de prevenção em relação ao processo nº 5001867-53.2020.4.03.6100, afastada na decisão ID 28006798.
+  Deferida a liminar requerida (ID 28006798).
+  Devidamente notificada, a autoridade impetrada prestou informações (ID 28437520), arguindo em preliminar a inadequação da via eleita, e aduzindo, no mérito, que o ISS, como parcela componente do preço do serviço, integra o faturamento/receita bruta da pessoa jurídica, devendo compor a base de cálculo das exações em comento.
+  A União Federal requereu o seu ingresso no feito (ID 28189656).
+  O Ministério Público Federal manifestou-se pelo prosseguimento do feito (ID 41784299).
+  FUNDAMENTAÇÃO
+  Trata-se de mandado de segurança por meio do qual se objetiva o reconhecimento do direito de deduzir o valor do ISS das bases de cálculo de PIS/Cofins, assim como à compensação dos valores recolhidos a tal título nos últimos cinco anos desde a impetração.
+  Inicialmente, consigne-se que a preliminar arguida se confunde com o mérito, e como tal será analisada.
+  O tema sobre a cobrança de PIS/Cofins sobre tributos indiretos como o ICMS e o ISS tem sido objeto de constantes debates e decisões, inclusive no âmbito do Supremo Tribunal Federal, que, inicialmente, no dia 08 de outubro de 2014 deu provimento ao Recurso Extraordinário nº 240.785/MG para reconhecer a inconstitucionalidade da inclusão do ICMS na base de cálculo da Cofins, autorizada pelo artigo 2º, parágrafo único, da Lei Complementar nº 70/1991, em julgamento que restou assim ementado:
+  "TRIBUTO - BASE DE INCIDÊNCIA - CUMULAÇÃO - IMPROPRIEDADE. Não bastasse a ordem natural das coisas, o arcabouço jurídico constitucional inviabiliza a tomada de valor alusivo a certo tributo como base de incidência de outro. COFINS - BASE DE INCIDÊNCIA - FATURAMENTO - ICMS. O que relativo a título de Imposto sobre a Circulação de Mercadorias e a Prestação de Serviços não compõe a base de incidência da Cofins, porque estranho ao conceito de faturamento."
+  Entretanto, com a entrada em vigor da Lei nº 12.973/2014, em 01 de janeiro de 2015, foi inserido novo panorama nesta discussão, já que em seu teor ficou expressamente consignado que se incluem na receita bruta os tributos sobre ela incidentes:
+  "Art. 12. A receita bruta compreende:
+  […]
+  § 5º Na receita bruta incluem-se os tributos sobre ela incidentes e os valores decorrentes do ajuste a valor presente, de que trata o inciso VIII do caput do Art. 183 da Lei n. 6.404, de 15 de dezembro de 1976, das operações previstas no caput, observado o disposto no § 4º."
+  E a mesma Lei nº 12.973/2014, no seu artigo 52, também alterou o artigo 3º da Lei nº 9.718/1998 que trata da base de cálculo do PIS e da Cofins não cumulativos. O artigo 3º passou a ter a seguinte redação:
+   "Art. 3º O faturamento a que se refere o art. 2º compreende a receita bruta de que trata o artigo 12 do Decreto-lei nº 1598, de 26 de dezembro de 1977" (redação dada pela lei 12.973/2014).
+  O artigo 12 do Decreto-lei nº 1.598, de 26 de dezembro de 1977, prevê: "A receita bruta das vendas e serviços compreende o produto da venda de bens nas operações de conta própria e o preço dos serviços prestados".
+  Diante disso, o tema voltou a ser objeto de discussão no âmbito da Suprema Corte, que, nos autos do Recurso Extraordinário nº 574.706, e com repercussão geral, decidiu em 15 de março de 2017 por maioria de votos, dar provimento ao recurso para fixar a tese:
+  "O ICMS não compõe a base de cálculo para a incidência do PIS e da COFINS".
+  Referido julgado, publicado no DJE nº 223, de 02/10/2017, foi proferido nos seguintes termos:
+  "RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL. EXCLUSÃO DO ICMS NA BASE DE CÁLCULO DO PIS E COFINS. DEFINIÇÃO DE FATURAMENTO. APURAÇÃO ESCRITURAL DO ICMS E REGIME DE NÃO CUMULATIVIDADE. RECURSO PROVIDO. 1. Inviável a apuração do ICMS tomando-se cada mercadoria ou serviço e a correspondente cadeia, adota-se o sistema de apuração contábil. O montante de ICMS a recolher é apurado mês a mês, considerando-se o total de créditos decorrentes de aquisições e o total de débitos gerados nas saídas de mercadorias ou serviços: análise contábil ou escritural do ICMS. 2. A análise jurídica do princípio da não cumulatividade aplicado ao ICMS há de atentar ao disposto no art. 155, § 2º, inc. I, da Constituição da República, cumprindo-se o princípio da não cumulatividade a cada operação. 3. O regime da não cumulatividade impõe concluir, conquanto se tenha a escrituração da parcela ainda a se compensar do ICMS, não se incluir todo ele na definição de faturamento aproveitado por este Supremo Tribunal Federal. O ICMS não compõe a base de cálculo para incidência do PIS e da COFINS. 3. Se o art. 3º, § 2º, inc. I, in fine, da Lei n. 9.718/1998 excluiu da base de cálculo daquelas contribuições sociais o ICMS transferido integralmente para os Estados, deve ser enfatizado que não há como se excluir a transferência parcial decorrente do regime de não cumulatividade em determinado momento da dinâmica das operações. 4. Recurso provido para excluir o ICMS da base de cálculo da contribuição ao PIS e da COFINS."
+   Na decisão prevaleceu o voto da relatora, ministra Cármen Lúcia, no sentido de que "a forma de apuração do ICMS devido pelo contribuinte demonstra que o regime da não cumulatividade impõe concluir, embora se tenha a escrituração da parcela ainda a se compensar do ICMS, todo ele, não se inclui na definição de faturamento aproveitado por este Supremo Tribunal Federal, pelo que não pode ele compor a base de cálculo para fins de incidência do PIS e da COFINS.."
+  Embora referido julgado restrinja-se ao ICMS, e que a inclusão do ISS na base de cálculo de PIS/Cofins seja objeto do Recurso Extraordinário nº 592.616/RS, é certo que mesma argumentação se aplica ao tributo municipal.
+  Isso porque, no bojo do RE 592.616/RS, que se encontra em vias de julgamento, foi inclusive proferido despacho, nos seguintes termos:
+   "Ouçam-se as partes, considerado o julgamento, pelo Plenário do Supremo Tribunal Federal, do RE 574.706-RG/PR, Rel. Min. CÁRMEN LÚCIA, no qual esta Suprema Corte reconheceu a inconstitucionalidade da inclusão do valor do ICMS na base de cálculo do PIS e da COFINS . Prazo : 10 (dez) dias". (Despacho de 27.03.2017).
+  Ressalte-se que a decisão que reconheceu a existência de repercussão geral no referido recurso, publicada no DJE nº 202, de 24.10.2008, expressamente consignou que "a fundamentação aplicada ao ICMS se aplica integralmente ao ISS, tendo em vista que referido tributo integra, da mesma forma, o preço dos serviços, e, consequentemente, o faturamento ou a receita bruta da empresa".
+  Portanto, ainda que tenhamos entendido de forma diversa, com base no reconhecimento pelo STF da inconstitucionalidade do conceito ampliado de receita bruta para fins de PIS/COFINS introduzido pela Lei nº 12.973/2014, rendo-me ao referido julgamento proferido pela Suprema Corte nos autos do RE 574.706-RG/PR para rever o posicionamento anteriormente adotado em relação à inclusão do ISS na base de cálculo da contribuição ao PIS e da COFINS.
+  Dessa forma, a base de cálculo do PIS e da COFINS não pode extravasar, sob o ângulo do faturamento, o valor do negócio, ou seja, a parcela recebida com a operação mercantil ou similar.
+  Destarte, descabe assentar que contribuintes da COFINS faturem, em si, o ISS, haja vista que o valor deste tributo configura um desembolso à entidade de direito público que tem a competência para cobrá-lo.
+  Assim, se o ISS é despesa do sujeito passivo das contribuições sociais previstas no artigo 195, inciso I, da Constituição Federal, e receita do Erário Municipal, revela-se injurídico tentar englobá-lo na hipótese de incidência destas exações, haja vista configurar tributação de riqueza que não pertence ao contribuinte.
+  Da Compensação
+  Como o STF ainda não discutiu a modulação dos efeitos da decisão, e em decorrência do caráter de indébito tributário, a impetrante faz jus à compensação, da importância recolhida indevidamente a título de PIS e Cofins incidentes sobre o ISS incluído em suas bases de cálculo.
+  Há que se reconhecer que os valores recolhidos nos últimos cinco anos anteriores ao ajuizamento da ação não foram atingidos pela prescrição.
+  A compensação das contribuições sociais administradas pela Secretaria da Receita Federal vinha disposta no artigo 74, da Lei Federal nº 9.430/1996, com redação imprimida pela Lei federal nº 10.637/2002:
+  "Art. 74. O sujeito passivo que apurar crédito, inclusive os judiciais com trânsito em julgado, relativo a tributo ou contribuição administrado pela Secretaria da Receita Federal, passível de restituição ou de ressarcimento, poderá utilizá-lo na compensação de débitos próprios relativos a quaisquer tributos e contribuições administrados por aquele Órgão."
+  À luz desta norma citada, a compensação devia ser realizada com outros tributos e contribuições administradas pela própria Secretaria da Receita Federal.
+  Mais recentemente, houve considerável alteração legislativa promovida pela Lei nº 13.670/2018, que dispôs em seu artigo 8º:
+  Art. 8º: A Lei nº 11.457, de 16 de março de 2007, passa a vigorar com as seguintes alterações:
+  (...)
+  "Art. 26-A. O disposto no art. 74 da Lei nº 9.430, de 27 de dezembro de 1996 :
+  I - aplica-se à compensação das contribuições a que se referem os arts. 2º e 3º desta Lei efetuada pelo sujeito passivo que utilizar o Sistema de Escrituração Digital das Obrigações Fiscais, Previdenciárias e Trabalhistas (eSocial), para apuração das referidas contribuições, observado o disposto no § 1º deste artigo;
+  II - não se aplica à compensação das contribuições a que se referem os arts. 2º e 3º desta Lei efetuada pelos demais sujeitos passivos;
+  (...)
+  Assim, ressalte-se que para os créditos e débitos de períodos de apuração posteriores à utilização do Sistema de Escrituração Digital das Obrigações Fiscais, Previdenciárias e Trabalhistas (eSocial) (art. 26-A, §1º, I "a") fica possibilitada a compensação tributária unificada ou cruzada (créditos fazendários e previdenciários), observadas as restrições impostas pela legislação decorrentes da transição entre os regimes.
+  Consigne-se que a própria Receita Federal, por meio da Instrução Normativa IN RFB n. 1810/2018 regulamentou a unificação dos regimes jurídicos de compensação tributária para as pessoas jurídicas que se utilizarem do e-Social.
+  Os valores deverão ser corrigidos exclusivamente pela taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, nos termos do artigo 39, § 4º, da Lei Federal nº 9.250/1995 (combinado com o artigo 73 da Lei federal nº 9.532/1997), porque são todos posteriores à 1º/01/1996.
+  Os valores passíveis de compensação deverão ser integralmente comprovados, na via administrativa, após o trânsito em julgado, observadas as diretrizes desta sentença, sendo que a fiscalização dos valores e verificação da regularidade caberá à Fazenda Nacional.
+  DISPOSITIVO
+  Ante o exposto, julgo  PROCEDENTE o pedido inicial, CONCEDENDO A SEGURANÇA e resolvendo o mérito da causa, nos termos do artigo 487, inciso I, do Código de Processo Civil, para confirmar a liminar concedida (ID 28006798) e afastar da base de cálculo da contribuição para o PIS e COFINS todo o montante de ISS incorporado ao faturamento da impetrante, e reconhecer o direito da impetrante à compensação dos valores indevidamente recolhidos a tal título, nos termos da supra fundamentação, corrigidos desde a data de cada pagamento indevido pela taxa SELIC, e respeitada a prescrição quinquenal.
+  A compensação somente poderá ser efetuada após o trânsito em julgado desta sentença, nos termos do artigo 170-A do CTN.
+  Fica assegurado à Fazenda Nacional exercer a fiscalização quanto à exatidão dos valores objeto da compensação, bem como quanto à regularidade desta.
+  Custas ex lege.
+  Honorários advocatícios indevidos, a teor do que dispõe o artigo 25 da Lei 12.016/2009.
+  Sentença sujeita ao duplo grau de jurisdição obrigatório nos termos do artigo 14, §1º da Lei nº 12.016/2009. Oportunamente, encaminhem os presentes autos ao Egrégio Tribunal Regional Federal da 3ª Região.
+  Publique-se. Registre-se. Intimem-se. Oficie-se.
+  São Paulo, 20 de abril de 2021
+  VICTORIO GIUZIO NETO
+  Juiz Federal

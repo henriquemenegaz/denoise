@@ -1,0 +1,235 @@
+ADVOCACIA-GERAL DA UNIÃO
+ PROCURADORIA-GERAL FEDERAL
+ 1° POLO PREVIDENCIÁRIO DO ESTADO DE SÃO PAULO
+ EATE - EQUIPE DE ATUAÇÃO TÉCNICA ESPECIALIZADA
+  EXCELENTÍSSIMO(A) SENHOR(A) JUIZ(A) DO(A) 3ª VARA FEDERAL DE SOROCABA
+  NÚMERO: 5007775-61.2020.4.03.6110
+  REQUERENTE(S): CLAUDINEI JOSE MARCHIOLI
+  REQUERIDO(S): INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS
+  INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, pessoa jurídica de direito público, representado(a) pelo membro da Advocacia-Geral da União infra assinado(a), vem, respeitosamente, à presença de Vossa Excelência, apresentar
+  CONTESTAÇÃO
+  à pretensão da parte autora, com fulcro no artigo 335 e ss. do Código de Processo Civil, pelos motivos de fato e de direito a seguir aduzidos.
+  DOS FATOS
+  Trata-se de ação previdenciária em que a parte autora requer o reconhecimento de períodos de trabalho em condições especiais para fins de concessão/revisão de aposentadoria por tempo de contribuição, por meio de sua conversão em tempo comum, ou para concessão de aposentadoria especial.
+  Razão não lhe assiste, pelas razões a seguir demonstradas.
+  PRELIMINARMENTE
+  PRESCRIÇÃO QUINQUENAL
+  Na remota hipótese de procedência, o que se admite apenas a título de argumentação e em função do princípio da eventualidade, o INSS requer o reconhecimento da prescrição de eventuais valores devidos referentes ao período anterior aos últimos cinco anos, contados da data da propositura da ação, com fundamento no art. 103, parágrafo único, da Lei 8.213/91.
+  DO mérito
+  CASO CONCRETO: MOTIVOS DO INDEFERIMENTO ADMINISTRATIVO
+  Não é possível o reconhecimento da especialidade da atividade profissional pelos seguintes motivos.
+  	Período	Formulário	Agente Nocivo	Razões para o não enquadramento
+	De 01/04/1984 a 30/08/1985	 PPP de fls.44/45 do PA
+NB186.298.433-3
+- cópia nos autos ID 43727893 - Pág.45/46
+(data de emissão: 29/05/2017)
+	categoria profissional
+→ "Extrusor" (indústria têxtil):
+Não há enquadramento por categoria profissional.
+	ruído
+1. Não há responsável técnico pelos registros ambientais no período analisado (vide Campo 16 do PPP), informação esta sempre exigível para o ruído.
+2. A técnica de análise utilizada para a mensuração do agente, registrada no PPP, não atende à metodologia de avaliação conforme legislação em vigor.
+♦ períodos anteriores a 19/11/2003: as aferições de ruído contínuo ou intermitente efetuadas até 18/11/2003 (véspera da publicação do Decreto nº 4.882/03) devem atender ao disposto no "anexo 1 da NR-15", não sendo suficiente a menção genérica à NR-15. Destaque-se, ainda, que são vedadas a medição pontual, a medição instantânea e a medição em picos (item 06 do anexo I da NR-15).
+  	Período	Formulário	Agente Nocivo	Razões para o não enquadramento
+	De 11/11/1985 a 13/03/1989	 PPP de fls.46/47 do PA
+NB 186.298.433-3
+- cópia nos autos ID 43727893 - Págs.47/48
+(data de emissão: 26/12/2016)
+	categoria profissional
+→ "Ajudante geral" / "Operador de máquina":
+Não há enquadramento por categoria profissional.
+	ruído
+- De 11/11/1985 a 31/10/1986
+Não há responsável técnico pelos registros ambientais no período acima analisado (vide Campo 16 do PPP), informação esta sempre exigível para o ruído.
+- De 01/11/1986 a 13/03/1989
+Enquadrado na via administrativa por exposição ao "ruído" - fls.507 do PA (NB 186.298.433-3) - cópia nos autos ID 43728251 - Pág. 102
+  DO ENQUADRAMENTO POR CATEGORIA PROFISSIONAL:
+  Quanto ao pedido de reconhecimento da atividade especial por "categoria profissional" - admitido pela legislação até 28/04/1995 (véspera da vigência da Lei n.9.032/1995) -, as atividades mencionadas pelo autor devem se enquadrar nos Anexos dos Decretos nº 53.831/64 e nº 83.080/79 (Quadro II do Anexo III do Decreto nº 53.831, de 1964, e Quadro II do Anexo ao Regulamento aprovado pelo Decreto nº 83.080, de 24 de janeiro de 1979), o que não ocorreu no caso dos autos.
+  	TRABALHO EM INDÚSTRIAS DE TECELAGEM:
+  Alega a parte autora ter exercido atividade profissional em indústria de tecelagem, razão pela qual faria jus ao reconhecimento daquele período como de atividade especial, eis que haveria, segundo aduz, hipótese de enquadramento por categoria profissional.
+  Ocorre, Excelência, que a única referência aos trabalhadores da indústria da tecelagem (têxtil) ocorre no código 1.2.11 do anexo I do Decreto nº 83.080/79, senão veja:
+  	1.2.11
+	Outros tóxicos:
+Associação de agentes
+	Indústrias têxteis: alvejadores, tintureiros, lavadores e estampadores a mão.
+	25 anos
+  Com efeito, apenas alvejadores, tintureiros, lavadores e estampadores a mão possuíam previsão legal de enquadramento e, mesmo assim, por exposição a "agentes nocivos" (associação de agentes), não por "categoria profissional".
+  Ressalte-se que o Parecer MT-SSMT nº 85/78 - muitas vezes mencionado, mas JAMAIS apresentado pelos advogados -, não é norma cogente, mas mera orientação administrativa, não mais seguida pelo INSS, senão veja:
+   RECURSO DE SENTENÇA CÍVEL Nº 2007.72.95.009635-1/SC
+   RELATOR: Juiz ANDREI PITTEN VELLOSO
+   RECORRENTE: INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS
+   ADVOGADO: DEBRA MATOS BONFIM SILVA
+   RECORRIDO: CESARINA INGRACIA DOS SANTOS
+   ADVOGADO: CLAUDIO JOSE DE CAMPOS
+   EMENTA:
+   PREVIDENCIÁRIO. ATIVIDADE ESPECIAL. TRABALHADOR EM INDÚSTRIA TÊXTIL. ENQUADRAMENTO DE TEMPO ESPECIAL POR ATIVIDADE. AUSÊNCIA DE PREVISÃO LEGAL. NECESSIDADE DE PROVA DA EXPOSIÇÃO A AGENTE INSALUBRE.
+   1. Não há enquadramento especial pelo exercício da atividade de tecelão ou de trabalhador em indústria têxtil, pois o Parecer MT-SSMT nº 085/78 não é norma cogente, mas mero enunciado de orientação administrativa, a qual, inclusive, há muito não é mais seguida pelo INSS.
+   2. O motivo da orientação dada pelo citado parecer é a usual exposição a ruídos dos trabalhadores em questão, que na maioria dos casos extrapola o limite de tolerância. Contudo, ela não torna prescindível a realização de laudo técnico para se aferir a intensidade e o tempo de exposição ao agente ruído, sobretudo porque esta pode ser inferior aos limites de tolerância, afastando a insalubridade pretendida, como ocorre no caso dos autos.
+   3. O pretenso enquadramento das atividades desenvolvidas em indústrias têxteis como insalubre não é similar à situação dos vigias, por exemplo, equiparados aos guardas para fins de reconhecimento de especialidade por atividade. Para estes a equiparação se dá pela similitude de atividades e pela exposição ao mesmo risco, usualmente caracterizado pelo porte de arma de fogo no exercício de suas atribuições. Já os trabalhadores em tecelagens não têm atividade similar elencada nos Decretos 53.831/64 e 83.080/79, mas tão-somente a orientação administrativa dada pelo Parecer MT-SSMT nº 085/78.
+   4. No caso concreto, afastado o enquadramento de atividade especial com base no Parecer MT-SSMT nº 085/78, não subsiste o reconhecimento da insalubridade, visto que o autor, no período pretendido, esteve exposto a ruídos em níveis inferiores ao limite de tolerância.
+   5. Recurso do INSS a que se dá provimento para afastar o reconhecimento da atividade especial e julgar improcedente a pretensão inicial.
+  Logo, com exceção dos profissionais listados no código 1.2.11 acima referido, o reconhecimento da atividade especial para os profissionais da indústria têxtil somente é possível caso comprovada a exposição a "agentes nocivos".
+  DO ENQUADRAMENTO POR "AGENTES NOCIVOS":
+  Cabíveis algumas considerações acerca dos agentes nocivos previstos na legislação de regência:
+  	RUÍDO:
+  ⇒ Responsável Técnico pelos Registros Ambientais (campo 16 do PPP):
+  Especificamente quanto ao ruído, para a sua identificação e mensuração no ambiente de trabalho, sempre foi necessária a confecção de demonstrações ambientais (LTCAT, PPRA, PGR, PCMAT, PCMSO), por engenheiro de segurança do trabalho ou por médico do trabalho, mesmo antes do advento da Lei nº 9.032/95.
+  Com efeito, a Lei nº 6.514, de 22 de dezembro de 1977, ao modificar o art.195 da CLT (Capítulo V do Título II - Da Segurança e Da Medicina do Trabalho), preceituava:
+   Art.195
+   - A caracterização e a classificação da insalubridade e da periculosidade, segundo as normas do Ministério do Trabalho, far-se-ão através de perícia a cargo de Médico do Trabalho ou Engenheiro do Trabalho, registrados no Ministério do Trabalho. (destaquei)
+  No mesmo sentido, a Lei nº 8.213/91, que teve incluído o §1º ao seu art.58 pela Lei nº 9.528, de 10 de dezembro de 1997, exigindo que o laudo técnico das condições ambientais de trabalho (LTCAT) fosse confeccionado por  engenheiro de segurança do trabalho ou por médico do trabalho. O §1º do art.58 da Lei nº 8.213/91, mesmo sendo alterado, mais tarde, pela Lei nº 9.732, de 11 de dezembro de 1998, manteve a exigência da qualificação profissional:
+   Art. 58. A relação dos agentes nocivos químicos, físicos e biológicos ou associação de agentes prejudiciais à saúde ou à integridade física considerados para fins de concessão da aposentadoria especial de que trata o artigo anterior será definida pelo Poder Executivo.
+   (Redação dada pela Lei nº 9.528, de 1997)
+§ 1º A comprovação da efetiva exposição do segurado aos agentes nocivos será feita mediante formulário, na forma estabelecida pelo Instituto Nacional do Seguro Social - INSS, emitido pela empresa ou seu preposto, com base em laudo técnico de condições ambientais do trabalho expedido por médico do trabalho ou engenheiro de segurança do trabalho nos termos da legislação trabalhista.
+   (Redação dada pela Lei nº 9.732, de 11.12.98)
+   (destaquei)
+  ⇒ Limites de tolerância (Tema 694 STJ):
+  "O limite de tolerância para configuração da especialidade do tempo de serviço para o agente ruído deve ser de 90 dB no período de 6.3.1997 a 18.11.2003, conforme Anexo IV do Decreto 2.172/1997 e Anexo IV do Decreto 3.048/1999, sendo impossível aplicação retroativa do Decreto 4.882/2003, que reduziu o patamar para 85 dB, sob pena de ofensa ao art. 6º da LINDB (ex-LICC)."
+  ⇒ Metodologia de aferição:
+  ♦ períodos anteriores a 19/11/2003: as aferições de ruído contínuo ou intermitente efetuadas até 18/11/2003 (véspera da publicação do Decreto nº 4.882/03) devem atender ao disposto no "anexo 1 da NR-15", não sendo suficiente a menção genérica à NR-15.
+  Destaque-se, ainda, serem vedadas as medições pontual, a instantânea ou a em picos, justamente por não refletirem a exposição durante toda a jornada de trabalho.
+  Outrossim, o item nº 6 do anexo I da NR-15 exige a apuração da dose de ruído no ambiente de trabalho - "dosimetria", o que não se traduz na apuração de uma média arimética simples, senão veja:
+   6. Se durante a jornada de trabalho ocorrerem dois ou mais períodos de exposição a ruído de diferentes níveis, devem ser considerados os seus efeitos combinados, de forma que, se a soma das seguintes frações:
+ci
+TI
++ €C2
+T2
++
+c3
+T3
++ Cn
+Tn
+exceder a unidade, a exposição estará acima do limite de tolerância.
+   Na equação acima, Cn indica o tempo total que o trabalhador fica exposto a um nível de ruído específico, e Tn indica a máxima exposição diária permissível a este nível, segundo o Quadro deste Anexo.
+  ♦ períodos a partir de 19/11/2003: é obrigatória a indicação dos níveis de ruído em "Nível de Exposição Normalizado - NEN", conforme as metodologias e procedimentos definidos na NHO - 01 da FUNDACENTRO, por força do Decreto nº 4.882/03.
+  Destaque-se que a mera indicação do uso da metodologia da "NHO-01", sem que haja a menção por escrito do uso do "NEN", não poderá ser aceita, vez que, dentre as metodologias da NHO-01, encontram-se outras, tais como Leq e TWA. Estas aferições não representam necessariamente a jornada padrão de oito horas, ao contrário do NEN, que se trata de um nível de exposição convertido para uma jornada padrão de oito horas diárias, para fins de comparação com o limite de exposição, sendo, portanto, mais representativo.
+  O Decreto nº 4.882, de 18/11/2003, ao alterar o Anexo IV do Decreto nº 3.048/99 (RPS), mencionou expressamente o "NEN", não se limitando a mencionar qualquer metodologia da FUNDACENTRO. Senão, veja o art.2º do Decreto nº 4.882/03, in verbis:
+   Art. 2
+   o  Os itens 2.0.1, 3.0.1 e 4.0.0 do Anexo IV do Regulamento da Previdência Social, aprovado pelo Decreto n
+   o 3.048, de 1999, passam a vigorar com as seguintes alterações:
+   "2.0.1  .............................................................
+   a) exposição a
+   Níveis de Exposição Normalizados (NEN) superiores a 85 dB(A)." (NR) (
+   destaquei)
+   ÔNUS DA PROVA EM CASO DE ATIVIDADE ESPECIAL:
+   Importante destacar que o ônus da prova, para os casos de atividade especial, é atribuído legalmente ao segurado, conforme disposto no art. 57, §§ 3º e 4º, da Lei 8213/1991:
+    Lei nº 8.213/1991.Art.57 (...) § 3º A concessão da aposentadoria especial
+    dependerá de comprovação pelo segurado, perante o Instituto Nacional do Seguro Social-INSS, do tempo de trabalho permanente, não ocasional nem intermitente, em condições especiais que prejudiquem a saúde ou a integridade física, durante o período mínimo fixado. (Redação dada pela Lei nº 9.032, de 1995)
+    § 4º
+     O segurado deverá comprovar, além do tempo de trabalho, exposição aos agentes nocivos químicos, físicos, biológicos ou associação de agentes prejudiciais à saúde ou à integridade física, pelo período equivalente ao exigido para a concessão do benefício. (Redação dada pela Lei nº 9.032, de 1995)  (
+    Destaquei)
+   Para além disso, a comprovação da efetiva exposição a agentes nocivos será feita através de formulários de atividade especial, na forma estabelecida pelo INSS, senão veja:
+    Lei nº 8.213/1991.Art.58. A relação dos agentes nocivos químicos, físicos e biológicos ou associação de agentes prejudiciais à saúde ou à integridade física considerados para fins de concessão da aposentadoria especial de que trata o artigo anterior será definida pelo Poder Executivo.
+    (Redação dada pela Lei nº 9.528, de 1997)
+    § 1º A comprovação da efetiva exposição do segurado aos agentes nocivos será feita mediante formulário, na forma estabelecida pelo Instituto Nacional do Seguro Social - INSS, emitido pela empresa ou seu preposto, com base em laudo técnico de condições ambientais do trabalho expedido por médico do trabalho ou engenheiro de segurança do trabalho nos termos da legislação trabalhista.
+    (Redação dada pela Lei nº 9.732, de 11.12.98)
+      (Destaquei)
+   Logo, é dever da parte autora apresentar administrativamente todos os documentos necessários - em conformidade com a legislação previdenciária - para a comprovação do exercício de atividade caracterizada como especial.
+   Nesta toada, não cabe ao INSS adotar qualquer providência, mas apenas analisar a documentação apresentada pelo segurado, verificando sua regularidade formal e material, e indeferindo, motivadamente, a contagem de tempo especial, quando não cumpridas as exigências da legislação previdenciária.
+  NECESSÁRIO AFASTAMENTO DAS ATIVIDADES CONSIDERADAS ESPECIAIS
+  Por fim, eventual concessão do benefício deve respeitar o constante no artigo 57, § 8º, c/c artigo 46 da Lei 8.213/91, objeto do Tema 709/STF, sob regime de Repercussão Geral  (RE 791961), tendo sido firmada a seguinte tese em julgamento realizado em 08/06/2020: "I) É constitucional a vedação de continuidade da percepção de aposentadoria especial se o beneficiário permanece laborando em atividade especial ou a ela retorna, seja essa atividade especial aquela que ensejou a aposentação precoce ou não. II) Nas hipóteses em que o segurado solicitar a aposentadoria e continuar a exercer o labor especial, a data de início do benefício será a data de entrada do requerimento, remontando a esse marco, inclusive, os efeitos financeiros. Efetivada, contudo, seja na via administrativa, seja na judicial a implantação do benefício, uma vez verificado o retorno ao labor nocivo ou sua continuidade, cessará o benefício previdenciário em questão".
+  VEDAÇÃO DE CONVERSÃO DE TEMPO ESPECIAL EM COMUM PARA PERÍODOS APÓS EC 103/19
+  Na remota hipótese de ser considerado tempo posterior a 13/11/2019, há que ser observada também a proibição da conversão de tempo especial em comum para períodos trabalhados após a entrada em vigor da Emenda Constitucional 103/2019, o que está em perfeita sintonia com o disposto no artigo 201, § 14, da Constituição Federal, que proíbe expressamente qualquer hipótese de contagem fictícia de tempo de contribuição para efeitos previdenciários:
+   EC 103/2019
+   Art. 25. Será assegurada a contagem de tempo de contribuição fictício no Regime Geral de Previdência Social decorrente de hipóteses descritas na legislação vigente até a data de entrada em vigor desta Emenda Constitucional para fins de concessão de aposentadoria, observando-se, a partir da sua entrada em vigor, o disposto no
+   § 14 do art. 201 da Constituição Federal.
+   CF/88:
+   Art. 201 (..)
+   § 14. É vedada a contagem de tempo de contribuição fictício para efeito de concessão dos benefícios previdenciários e de contagem recíproca.
+   (Incluído
+   pela Emenda Constitucional nº 103, de 2019)
+  Observe-se, que a vedação à contagem de tempo de contribuição fictício, dentre o que se inclui a conversão de tempo
+  especial, constitui verdadeiro valor constitucional presente na Constituição. A contagem de tempo ficto é totalmente incompatível com o equilíbrio financeiro e atuarial (art. 201, caput, da Constituição).
+  Por fim,  sob o ponto de vista jurídico, cumpre registrar que as alterações perpetradas pela Emenda Constitucional n° 103/2019 não representam retrocesso social, mas, pelo contrário, se fundam em modificações necessárias para continuidade da garantia dos direitos fundamentais de proteção previdenciária aos cidadãos trabalhadores diante de conjunturas sociais, econômicas e demográficas da sociedade brasileira, bem como da conservação do equilíbrio financeiro e atuarial do sistema de previdência social.
+  A busca pela interpretação mais adequada do princípio do não retrocesso social ou da irreversibilidade social deve
+  pautar-se pelo princípio da proporcionalidade, de modo que a diretriz do não retrocesso é a vedação ao Estado de exercer "proteção insuficiente" dos direitos fundamentais aos cidadãos (In, MENDES, Gilmar Ferreira & BRANCO, Paulo Gustavo Gonet. Curso de Direito Constitucional. 10. ed. São Paulo: Saraiva, 2015, pág. 228) .
+  Nesse contexto, admitir a contagem diferenciada de tempo, com a conversão de tempo especial em comum após a vedação estabelecida pela EC n 103/2019, acarreta explicita e inquestionável violação ao princípio da prévia fonte de custeio (art. 195, § 5, da CRFB/88), e por consequência , o princípio do equilíbrio financeiro e atuarial que rege a Previdência Social ( art. 201, caput, da CRFB/88. Isto porque se estaria a desconsiderar todo o arcabouço normativo estruturado do RGPS, a partir dos quais se concretiza a manutenção do equilíbrio financeiro e atuarial, para permitir a extensão de benefício sem a devida fonte de custeio.
+  15/05/1990 a 12/03/1993
+   SENTENÇA TRABALHISTA
+   OS EFEITOS SUBJETIVOS DA COISA JULGADA VINCULAM APENAS AS PARTES DA DEMANDA
+  Uma vez que o INSS não figurou como parte na relação jurídica processual trabalhista, e como a coisa julgada somente produz efeitos entre as partes, seus efeitos não podem atingir juridicamente o INSS, motivo pelo qual não há como se reconhecer o período de 15/05/1990 a 12/03/1993.
+  Há de se transcrever, por oportuno, trecho do PARECER CONJUNTO PROCGER CGMT/DCMT e CGMB nº /2003, o qual vincula o INSS ante ao princípio da legalidade:
+  "Preliminarmente, devemos ter clara a distinção necessária a ser feita entre a relação jurisdicional trabalhista (empregado/empregador), a relação tributária ou fiscal do contribuinte (empregado/empregador) e o Fisco e a relação previdenciária do segurado e a Previdência Social, frente à independência que ocorre entre as mesmas.
+  A primeira, isto é, a relação trabalhista - decorrente da tutela jurisdicional pleiteada pelo empregado ou trabalhador, cuja decisão, cognitiva ou homologatória de acordo, declara ou reconhece a relação de emprego e conseqüente determinação de anotação de CTPS - tem o seu efeito adstrito apenas aos direitos trabalhistas dela decorrentes, não vinculando terceiros e não podendo gerar efeitos diversos da competência trabalhista, vez que o INSS não figura como parte no referido processo. Assim, o vínculo empregatício reconhecido pela Justiça do Trabalho não tem o condão de produzir efeitos em relação ao vínculo previdenciário, ainda que transitada em julgado a decisão que homologou o acordo firmado entre as partes, visto que o INSS não figurou como parte na relação jurídica processual, e como a coisa julgada somente produz efeitos entre as partes, seus efeitos não podem ser estendidos, atingindo juridicamente esta autarquia previdenciária. Acrescente-se, ainda, a incompetência absoluta da Justiça Laboral para conhecer e julgar questões previdenciárias, cuja competência, consoante preceitua o art. 109, §3º, da Constituição Federal, é atribuída à Justiça Federal. Portanto, as decisões exaradas pelo juiz trabalhista acarretam efeitos imediatos tão-somente para as questões que abrangem relações de trabalho, nos termos da competência constitucional da qual foi investido (art. 114, CF) e assim exercendo o seu ofício jurisdicional, nenhum reparo merece a decisão trabalhista que reconhecer a existência da relação de emprego sem qualquer prova material, ou seja, baseada apenas na prova oral ou nos efeitos próprios da contumácia do réu, até porque o contrato de trabalho resulta do ajuste tácito ou expresso, não havendo norma processual trabalhista que indique algum meio de prova como único ou adequado para a formação da convicção do juiz(...).
+  Nesse passo, é de se observar que, da indagação sobre qual o objeto do pedido em tal espécie de ação, a resposta não se afastará de sê-lo o reconhecimento da relação de emprego entre o(a) requerente e o empregador.
+  Desse reconhecimento da relação jurídica, a priori, não decorre obrigação direta para a autarquia previdenciária, mas deita reflexos diretos apenas nos direitos trabalhistas, impondo ao empregador obrigações de fazer e dar, tudo restrito ao processo do trabalho.
+  Não se questiona aqui, por evidente, que o reconhecimento da citada relação jurídica poderá ser usado, quando do posterior pedido de benefício, como elemento de prova, como, aliás, observa-se agora no caso presente.
+  Denota-se, assim, que só reflexamente interessa ao INSS a demanda relativa à declaração do tempo de serviço questionado.
+  Assim o é porque, tanto o pedido imediato, quando o mediato daquela ação trabalhista, não visam a compelir o ente previdenciário a efetuar qualquer prestação (positiva ou negativa) em favor da requerente.
+  Reforça, inclusive, essa visão, a seguinte decisão, que, mutatis mutandi, amolda-se à situação em debate, proferida pelo Egrégio Tribunal Regional Federal da 5ª Região. Verbis:
+  "PREVIDENCIÁRIO. COMPANHEIRA. AÇÃO DECLARATÓRIA. DE RECONHECIMENTO DE UNIÃO ESTÁVEL. DISCUSSÃO RESTRITA A DIREITO DE FAMÍLIA. APELAÇÃO. INSS. FALTA DE INTERESSE. APELO NÃO CONHECIDO.
+  - Conquanto a autora objetive na ação declaratória o reconhecimento de união estável para posteriormente pleitear a pensão por morte junto à Autarquia Previdenciária, a matéria versada nos autos é restrita ao Direito de Família, sendo despicienda a participação do INSS na lide, porquanto se a convivência de fato subsistiu, a presença desta Autarquia não afetará a constatação da referida situação fática.
+  - 'O interesse indireto do INSS ou da Fazenda Nacional não justifica a sua intervenção para discutir Direito de Família dessa espécie. Exclusão da Autarquia da lide.'(STJ, CC Nº 27208/AL, Rel. Min. Aldir Passarinho, DJU 05/02/2001, pág. 501.)
+  - Precedentes jurisprudenciais.
+  - Apelação não conhecida."
+  TRIBUNAL - QUINTA REGIAO Classe: AC - Apelação Cível - 316663 Processo: 200305990005218 UF: CE Órgão Julgador: Primeira Turma Data da decisão: 06/05/2004 Documento: TRF500080488 DJ - Data::03/06/2004 - Página::559 - Nº.::106 Desembargador Federal Francisco Wildo
+  Resta, assim, evidente, que o INSS não poderia ocupar posição como parte no processo.
+  E não sendo parte, como, aliás, não poderia mesmo ser, cabe analisar a carga normativa que a sentença de reconhecimento de vínculo teria sobre a autarquia.
+  De começo, deve-se reconhecer que não se pode desconsiderar, pura e simplesmente, a decisão judicial que reconhece o vínculo laboral e consequente tempo de contribuição do requerente.
+  Entretanto, não foi o INSS parte na lide, e como tal não está abarcado pela autoridade da coisa julgada material, ou seja, os limites subjetivos da coisa julgada material não o alcançam, de modo que não se encontra impedido de insurgir-se contra o decidido naquele processo.
+   Registre-se, mais uma vez, que essa insurgência não significa mera desconsideração da sentença, como fosse ela um "nada jurídico".
+  Há que se distinguir, nesse passo, a autoridade da coisa julgada material (que é qualidade da sentença, ou mesmo efeito, como se escreve no CPC), com a eficácia natural da sentença, que, como ato estatal que é, fincado no princípio do estado democrático de direito, tem, a priori, eficácia que se estabelece para além das partes do processo, mas com carga de normatividade bem inferior do que a verificada em relação aos litigantes.
+  Não se olvida que aquela decisão ostenta o caráter de presunção relativa (iuris tantum) da relação jurídica declarada, o que não impede, entretanto, que um terceiro, estranho ao processo, deixe de reconhecê-la, desde que demonstre que a mesma seria equivocada ou viciada, a ensejar o seu não acatamento como meio de prova.
+  Assim ocorre porque a imutabilidade e intangibilidade da sentença, após o trânsito em julgado, atingem apenas as partes entre as quais é proferida, como se deflui do art. 506 do Código de Processo Civil:
+  Art. 506. A sentença faz coisa julgada às partes entre as quais é dada, não prejudicando terceiros..
+  Indiscutivelmente, não tendo sido o INSS parte stricto sensu, no processo de conhecimento trabalhista, não há falar em imposição da autoridade da coisa julgada. Outro não é o magistério de Daniel Machado da Rocha, verbis:
+  "(...) Na verdade, muitas reclamatórias trabalhistas são ajuizadas com desvirtuamento da finalidade, ou seja, não visam a dirimir controvérsia entre empregador e empregado, mas sim com o escopo de obter direitos perante a Previdência Social. A SUA ADMISSIBILIDADE POSSUI, A NOSSO VER, UM ÓBICE INTRANSPONÍVEL: A EFICÁCIA SUBJETIVA DA COISA JULGADA. NÃO TENDO O INSTITUTO INTEGRADO A LIDE, NÃO PODERÁ SOFRER OS EFEITOS DA DECISÃO NELA PROFERIDA. Além disso, a competência para conhecer de questões relativas à contagem do tempo de serviço destinado à obtenção de benefícios é da Justiça Federal"
+  (In "Direito previdenciário - aspectos materiais, processuais e penais", Vladimir Passos de Freitas - coordenador -, 2ª ed., Porto Alegre: Livraria do Advogado, 1999, p. 115).
+  Como então pretender que se dê efeito vinculante ao reconhecimento do vínculo efetuado por julgado no qual não foi dada oportunidade de defesa e contraditório à autarquia? Entendimento este que, frise-se, viola os princípios constitucionais do contraditório e da ampla defesa, em clara ofensa ao inciso LV do artigo 5º da Constituição da República de 1988.
+  De fato, o INSS não foi citado para integrar a lide, não participou da instrução probatória, simplesmente é, ou melhor, era intimado para intervir no processo e concordar ou não quanto à classificação e montante das verbas consignadas pela sentença ou acordo trabalhista para fins de recolhimento das contribuições sociais. Como poderia atuar no sentido de "verificar prejuízo aos cofres previdenciários decorrente de conluio entre as partes com o objetivo de reconhecimento de tempo de serviço para fins previdenciários", se sequer é chamado a participar da fase instrutória, não tendo oportunidade para oferecer contestação, ofertar perguntas às testemunhas?
+  Nesse sentido é a jurisprudência pacífica dos tribunais pátrios:
+  PREVIDENCIÁRIO. TEMPO DE SERVIÇO. SENTENÇA TRABALHISTA. Não produz efeitos de coisa julgada, para fins previdenciários, a relação de emprego reconhecida em reclamatória trabalhista com o objetivo de comprovar tempo de serviço, se o INSS não integrou a lide.
+  (TRF 4a Região, 5a Turma. AMS 9704631480/PR. Rel. Juiz: Tadaaqui Hirose. DJ 04/11/98, p. 532.)
+  PREVIDENCIARIO. SENTENÇA PROFERIDA EM RECLAMATORIA TRABALHISTA. CONTAGEM DE TEMPO DE SERVIÇO. INEFICÁCIA PERANTE O INSS. VIA MANDAMENTAL. INADEQUAÇÃO. IMPROVIMENTO DO RECURSO. 1 - A SENTENÇA PROFERIDA EM RECLAMAÇÃO TRABALHISTA SÓ FAZ COISA JULGADA ENTRE AS PARTES NELA LITIGANTES. 2 - A SENTENÇA TRABALHISTA QUE RECONHECE RELAÇÃO DE EMPREGO, COM O FIM DE COMPROVAR TEMPO DE SERVIÇO, NÃO PRODUZ EFEITOS PERANTE O INSS SE A AUTARQUIA PREVIDENCIÁRIA NÃO FIGUROU NO PÓLO PASSIVO DA DEMANDA. 3 - [...]
+  (TRF 3a Região. 2a Turma. MAS 94030754850-SP. Rei. Juíza Sylvia Steiner. DJ 18/02/98, p. 352)
+  BENEFÍCIO PREVIDENCIÁRIO. PENSÃO POR MORTE.  PROVA DE TEMPO DE SERVIÇO. SENTENÇA TRABALHISTA. PROVA TESTEMUNHAL. INSUFICIÊNCIA. RECURSO IMPROVIDO. [...]
+  A Turma já decidiu que a sentença proferida em ação trabalhista não serve para a demonstração de tempo de serviço, não podendo produzir efeitos na esfera previdenciária em vista de não ter participado o INSS da relação processual (Processo 2003.35.00.708520-3, Rel. Lindoval Marques de Brito, DJ/GO 12/09/2003). No caso, a questão é mais grave uma vez que o processo correu à revelia, não tendo sido produzidas provas sobre a relação de trabalho (fl.60). A prova meramente testemunhal não tem sido admitida pela jurisprudência para a comprovação de tempo de serviço, a teor do art. 55, §3º, da Lei 8.213/90.
+   (RESP-446285-STJ - Superior Tribunal de Justiça-DJ-01/03/04).
+  (Origem: JEF - Classe: RECURSO CÍVEL - Processo: 200435007027102 UF: GO Órgão Julgador: 1ª Turma Recursal - GO - Data da decisão: 06/04/2004)
+  Ora, não seria lógico admitir que terceiros estivessem condenados a cumprir resignadamente o que se decidiu sem o seu concurso, como se atingidos fossem pela autoridade da coisa julgada.
+   A peculiaridade é que, podendo não aceitar a sentença, devem fazê-lo de forma justificada, ou, na dicção de Liebman, demonstrar a injustiça da decisão, exatamente como a Autarquia o faz quando recusa tempo de serviço reconhecido na Justiça não FUNDAMENTADO em início de prova material!
+   ASSIM, COMO PARA A CONCESSÃO/REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO HÁ A NECESSIDADE DE APRESENTAÇÃO DE ELEMENTOS QUE SIRVAM COMO INÍCIO DE PROVA MATERIAL, SENDO QUE, NOS AUTOS DAS RECLAMATÓRIAS, NÃO HÁ QUALQUER PROVA QUE POSSA SER ASSIM CONSIDERADA, O PLEITO DO AUTOR NÃO TEM COMO SUBSISTIR.
+  Vejamos o entendimento do Superior Tribunal de Justiça acerca da matéria:
+  PREVIDENCIÁRIO. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. CARTEIRA DE TRABALHO E PREVIDÊNCIA SOCIAL. ANOTAÇÕES FEITAS POR ORDEM JUDICIAL. SENTENÇA TRABALHISTA NÃO FUNDAMENTADA EM PROVAS DOCUMENTAIS E TESTEMUNHAIS. INÍCIO DE PROVA MATERIAL NÃO-CARACTERIZADO.
+  1. A sentença trabalhista será admitida como início de prova material, apta a comprovar o tempo de serviço, caso ela tenha sido fundada em elementos que evidenciem o labor exercido na função e o período alegado pelo trabalhador na ação previdenciária. Precedentes das Turmas que compõem a Terceira Seção.
+  2. No caso em apreço, não houve produção de qualquer espécie de prova nos autos da reclamatória trabalhista, tendo havido acordo entre as partes.
+  3. Embargos de divergência acolhidos.
+  (EREsp 616.242,3ª Seção - STJ,  Rel. Min. Laurita Vaz, DJ 24.10.2005)
+  PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO. EXISTÊNCIA. TEMPO DE SERVIÇO. RECONHECIMENTO. IMPOSSIBILIDADE. CARTEIRA DE TRABALHO E PREVIDÊNCIA SOCIAL. ANOTAÇÕES FEITAS POR ORDEM JUDICIAL. SENTENÇA TRABALHISTA NÃO FUNDAMENTADA EM PROVAS DOCUMENTAIS. AUSÊNCIA DE  INÍCIO DE PROVA MATERIAL.
+  1. A sentença trabalhista será admitida como início de prova material apta a comprovar o tempo de serviço, caso seja fundada em elementos que evidenciem o labor exercido na função e o período alegado pelo trabalhador na ação previdenciária, o que não ocorre na hipótese em apreço. Precedente da Terceira Seção.
+  2. Embargos acolhidos com efeitos modificativos.
+  (Embargos de Declaração nos Embargos de Declaração no Recurso Especial n. 517032 / RN, 5ª Turma STJ, Rel. ª Min. LAURITA VAZ, DJ  de 19/6/2006.
+  Assim, o entendimento do STJ apenas corrobora o posicionamento administrativo desta Autarquia: a) o comando contido em sentença trabalhista constitui início de prova material, ensejando a concessão de benefício previdenciário, quando baseado em elementos que evidenciem o labor na função e no período alegado pelo trabalhador; b) não observada esta exigência, o comando da sentença e as anotações em CTPS dela decorrentes não servem como início de prova material.
+  Neste mesmo sentido, o magistério de DANIEL MACHADO DA ROCHA, verbis:
+  "(...) Na verdade, muitas reclamatórias trabalhistas são ajuizadas com desvirtuamento da finalidade, ou seja, não visam a dirimir controvérsia entre empregador e empregado, mas sim com o escopo de obter direitos perante a Previdência Social. A sua admissibilidade possui, a nosso ver, um óbice intransponível: a eficácia subjetiva da coisa julgada. Não tendo o instituto integrado a lide, não poderá sofrer os efeitos da decisão nela proferida. Além disso, a competência para conhecer de questões relativas à contagem do tempo de serviço destinado à obtenção de benefícios é da Justiça Federal"
+  (In "Direito previdenciário - aspectos materiais, processuais e penais", Vladimir Passos de Freitas - coordenador -, 2ª ed., Porto Alegre: Livraria do Advogado, 1999, p. 115).
+   O mesmo entendimento é perfilhado pelo Egrégio Tribunal Regional Federal da 1ª Região:
+  PREVIDENCIÁRIO. COMPROVAÇÃO DE TEMPO DE SERVIÇO. ANOTAÇÃO EM CTPS DETERMINADA POR SENTENÇA TRABALHISTA. VÍNCULO EMPREGATÍCIO RECONHECIDO COM BASE NA REVELIA DA EMPRESA RECLAMADA. AUSÊNCIA DE ELEMENTOS COMPROBATÓRIOS DA ATIVIDADE LABORATIVA NO PERÍODO. INEXISTÊNCIA DO DIREITO À CERTIDÃO DE TEMPO DE SERVIÇO PARA AVERBAÇÃO NO SERVIÇO PÚBLICO.
+  1. Trata-se de Mandado de Segurança objetivando a contagem do tempo de serviço relativo aos períodos de 06.12.1979 a 31.12.1981 e 20.01.1984 a 31.07.1992, já reconhecidos pela Justiça do Trabalho, e expedição de certidão para averbação no Serviço Público. 2. Alegou o impetrante que ajuizou uma reclamação trabalhista contra a antiga empregadora em 10/04/2002, já extinta desde 03/04/2000 conforme certidão da JUCEG, nas pessoas dos sócios proprietários, objetivando declaração de reconhecimento do tempo laborado para a Reclamada para fins previdenciários. Com a inicial, juntou apenas cópia da CTPS, C.I., CIC e certidão da JUCEG (fls. 41/43). O pedido do Reclamante foi julgado procedente para o fim de condenar a reclamada a anotar a CTPS do reclamante, tendo em vista a revelia da reclamada. A sentença transitou em julgado em 12/06/2002, conforme certidão lançada à fl. 50 e, posteriormente, inerte a reclamada, a própria Secretaria da Vara do Trabalho efetuou as anotações pertinentes na CTPS do reclamante, conforme certidão de fl. 61, arquivando-se os autos.
+  3. A jurisprudência tem entendido que por ter sido prolatada por juízo competente, desde que fundamentada em elementos que comprovem o real exercício da atividade laboral e após o trânsito em julgado, pode a sentença trabalhista ser considerada prova material do tempo de serviço. Não obstante, a sentença trabalhista, neste caso concreto, não se fundou em nenhuma prova ou elemento que evidenciasse o trabalho exercido na função e no período alegado, mas tão-somente na revelia da empresa reclamada e de seus sócios proprietários, razão pela qual não pode ser considerada prova ou início de prova da relação de trabalho, essencial para o reconhecimento do tempo de serviço ou contribuição para fins previdenciários.
+  4. Apelação e remessa oficial providas. Segurança denegada. Prejudicada a análise da demais questões levantadas no recurso.
+  (TRF1 - Apelação em Mandado de Segurança 2003.35.00.008162-7/GO, 1ª Turma, Rel. Des. Federal Antônio Sávio de Oliveira Chaves, Publicada no e-DJF1 em 15/4/2008)
+  PREVIDENCIÁRIO. REVISÃO DE APOSENTADORIA. RECONHECIMENTO DE RELAÇÃO DE EMPREGO EM SENTENÇA PROFERIDA PELA JUSTIÇA DO TRABALHO. EFEITO MERAMENTE DECLARATÓRIO. AUSÊNCIA DE INÍCIO DE PROVA MATERIAL. ART. 55, § 3º, DA LEI 8.213/91.
+  1. A sentença proferida pela Justiça do Trabalho, em ação meramente declaratória, que reconhece a relação de emprego do segurado, somente constitui prova do tempo de serviço para fins de revisão de aposentadoria quando gera efeitos concretos contra o empregador ou quando a Autarquia Previdenciária tenha participado da lide trabalhista. 2. Impossibilidade de se reconhecer o tempo de serviço indicado na inicial diante da ausência de início de prova material, corroborado com prova testemunhal, nos termos do § 3º do art. 55 da Lei 8.213/91.
+  3. Apelação e remessa oficial providas.
+  (TRF1 - Apelação Cível n. 2000.01.00.109173-6/DF, 1
+  ª Turma, Rel. Des. Federal Antônio Sávio de Oliveira Chaves, DJ de 18/9/2006).
+  PREVIDENCIÁRIO. COMPROVAÇÃO DE DE SERVIÇO. AVERBAÇÃO PARA FINS DE APOSENTADORIA. IMPOSSIBILIDADE. AUSÊNCIA DE INÍCIO DE PROVA MATERIAL. SENTENÇA TRABALHISTA. REVELIA DO EMPREGADOR. INEXISTÊNCIA DE DOCUMENTOS COMPROBATÓRIOS DO VÍNCULO.
+  1. Para que a sentença trabalhista que declarou a existência de vínculo empregatício pudesse servir como elemento de prova para a averbação previdenciária do vínculo nela declarado, seria imprescindível que ela tivesse sido proferida com base em início de prova material da existência do referido vínculo.
+  2. Todavia, tal situação é inocorrente na espécie, visto que o decisum trazido aos autos decorreu, única e expressamente, da revelia do então empregador.
+  3. Desatendida, assim, a regra inserta no art. 55, § 3º, da Lei nº 8.213/91, não se pode dar guarida à pretensão recursal do impetrante, facultando-se, contudo, o socorro das vias ordinárias. 4. Precedentes.
+  5. Apelação a que se nega provimento.
+  (TRF1 - Apelação em Mandado de Segurança n. 2001.33.01.000571-3/BA, 2ª Turma, Rel. Des. Federal Neuza Maria Alves da Silva, DJ de 13/1/2006)
+   Assim, considerando que os efeitos da coisa julgada não abrangem terceiros, bem como o autor não apresentou qualquer início de prova material que demonstre a sua real prestação de serviço, o pedido inicial seve ser julgado improcedente.
+  requerimentos finais
+  Caso sejam julgados procedentes os pedidos da parte autora, o que se admite tão somente para argumentar, a matéria fica desde já PREQUESTIONADA para fins recursais, requerendo expressa manifestação quanto à violação dos dispositivos constitucionais e legais invocados em sede de defesa.
+  Por todo o exposto, requer a Autarquia o julgamento improcedente da presente ação, com fundamento no artigo 487, inciso I, do Código de Processo Civil.
+  Em atenção ao princípio da eventualidade, requer-se, ainda, em caso de procedência:
+  	a observância da prescrição quinquenal;
+	a fixação dos juros moratórios nos termos do art. 1º-F da Lei 9.494/97, alterado pela lei 11.960/09;
+	a fixação dos índices de correção monetária conforme Tema 905/STJ;
+	honorários advocatícios nos termos da Súmula 111 do STJ, sendo indevidos nas hipóteses da Lei 9.099/95.
+  Protesta o réu pela produção de todas as provas admitidas em direito, a serem oportunamente especificadas se assim for necessário.
+  São Paulo, 16 de março de 2021.
+  LEONARDO VIEIRA CASSINI
+  PROCURADOR FEDERAL

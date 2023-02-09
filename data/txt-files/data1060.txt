@@ -1,0 +1,39 @@
+Poder Judiciário
+JUSTIÇA FEDERAL DE PRIMEIRO GRAU
+MANDADO DE SEGURANÇA (120) Nº 5008596-39.2018.4.03.6109 / 1ª Vara Federal de Piracicaba
+  IMPETRANTE: CERAMICA SAVANE LTDA
+  Advogados do(a) IMPETRANTE: FLAVIO RICARDO FERREIRA - SP198445, UMBERTO PIAZZA JACOBS - SP288452
+  IMPETRADO: DELEGADO DA DELEGACIA DA RECEITA FEDERAL EM PIRACICABA -SP, UNIAO FEDERAL - FAZENDA NACIONAL
+         S E N T E N Ç A
+  Trata-se de mandado de segurança impetrado por CERÂMICA SAVANE LTDA., contra ato do DELEGADO DA RECEITA FEDERAL DO BRASIL EM PIRACICABA-SP, objetivando a concessão da segurança para excluir o ICMS da base de cálculo do PIS e da COFINS em relação às parcelas vincendas das referidas contribuições, assegurando-lhe a compensação das contribuições indevidamente recolhidas nos últimos cinco anos.
+  Aduz que a COFINS foi originalmente instituída pela LC n. 70/91 e o PIS pela LC n. 7/70.
+  Assevera que as bases de cálculo da contribuição para o financiamento da Seguridade Social - COFINS e da contribuição para os programas de integração social - PIS eram o faturamento, encontrando-se previstas na Constituição Federal no artigo 195, inciso I, b e no artigo 239.
+  Sustenta que a Lei 9.718/98 em seu artigo 3º e parágrafo 1º promoveu o alargamento da base de cálculo tributária para a apuração das contribuições ao PIS e à COFINS, passando a incluir a totalidade das receitas da pessoa jurídica, o que se manteve posteriormente com a adoção do modelo não cumulativo para o PIS na lei 10.637/02 e COFINS na lei 10.833/03.
+  Por fim, menciona que, independentemente da legislação infraconstitucional, a parcela do ICMS na base de cálculo das contribuições é inconstitucional, pois se tratar de mero ingresso, de modo que não pode ser alterado o conceito que a Constituição Federal adotou para faturamento e receitas, ferindo o princípio da estrita legalidade.
+  O pedido liminar foi deferido para suspender a exigibilidade do crédito tributário, correspondente ao ICMS na base de cálculo da PIS e do COFINS nas Leis 9.718/98, 10.833/03 e 10.637/02, inclusive com as alterações promovidas pela Lei 12.973/2014 (fls. 74/75).
+  Notificada, a autoridade coatora prestou informações. Em preliminar, sustentou a necessidade de sobrestamento do feito e no mérito, pugnou pela improcedência do pedido (fls. 82/92).
+  O Ministério Público Federal entende não existir interesse que justifique sua manifestação expressa sobre a matéria discutida no writ (fls. 93/95).
+  A União federal interpôs agravo de instrumento. (fls. 96/118).
+  Nestes termos, vieram os autos conclusos para sentença.
+  É a síntese do necessário.
+  Decido.
+  Preliminar
+  Afasto o requerimento de suspensão do feito, considerando que os embargos de declaração, ofertados na ação em que se fixou a tese de Repercussão Geral, não impedem o prosseguimento das demais ações que versam sobre o mesmo tema.
+  Analiso o mérito.
+  No caso em análise, assiste razão à impetrante, uma vez que o valor do ICMS não tem natureza de faturamento, tratando-se de mero "ingresso" na escrituração contábil da empresa.
+  Acerca da distinção entre "receita" e "ingresso", a primeira é definida como "a quantia recebida, apurada ou arrecadada, que acresce ao conjunto de rendimentos da pessoa física, em decorrência direta ou indireta da atividade por ela exercida", enquanto que "ingressos envolvem tanto as receitas como as somas pertencentes a terceiros (valores que integram o patrimônio de outrem). São aqueles valores que não importam em modificação no patrimônio de quem os recebe, para posterior entrega a quem pertencem ".
+  Dessa forma, verifica-se que o Imposto sobre Circulação de Mercadorias e Serviços - ICMS para a empresa é mero ingresso, para posterior destinação ao Fisco, aqui entendido como terceiro titular de tais valores.
+  Nesse sentido se manifestou o relator Marco Aurélio no Recurso Especial 240.785, conforme trecho a seguir transcrito:
+  "... Óptica diversa não pode ser emprestada ao preceito constitucional, revelador da incidência sobre o faturamento. Este decorre, em si, de um negócio jurídico, de uma operação, importando, por tal motivo, o que percebido por aquele que a realiza, considerada a venda de mercadoria ou mesmo a prestação de serviços. A base de cálculo da Cofins não pode extravasar, desse modo, sob o ângulo do faturamento, o valor do negócio, ou seja, a parcela percebida com a operação mercantil ou similar. O conceito de faturamento diz com riqueza própria, quantia que tem ingresso nos cofres de quem procede à venda de mercadorias ou à prestação dos serviços, implicando, por isso mesmo, o envolvimento de noções próprias ao que se entende como receita bruta. Descabe assentar que os contribuintes da Cofins faturam, em si, o ICMS. O valor deste revela, isto sim, um desembolso a beneficiar a entidade de direito público que tem a competência para privá-lo..."
+  Dessa forma, o valor correspondente ao ICMS não pode integrar a base de cálculo do PIS, pois não tem natureza de faturamento, mas mero "ingresso" na escrituração contábil das empresas.
+  Outrossim, não revela, por certo, medida de riqueza de acordo com preceituado na alínea "b" do inciso I do artigo 195 da Constituição Federal.
+  Conclui-se, assim, que o PIS só pode incidir sobre o faturamento, que corresponde ao somatório dos valores das operações negociais realizadas, de modo que qualquer valor diverso não pode ser inserido em base de cálculo.
+  Nesse sentido, oportuno o artigo 110 do Código Tributário Nacional que prevê: "A lei tributária não pode alterar a definição, o conteúdo e o alcance de institutos, conceitos e formas de direito privado utilizados, expressa ou implicitamente, pela Constituição Federal, pelas Constituições dos Estados, ou pelas Leis Orgânicas do Distrito Federal ou dos Municípios para definir ou limitar competências tributárias."
+  Insta salientar que o Supremo Tribunal Federal em 15.03.2017 por seu TRIBUNAL PLENO em sede de repercussão geral fixou a seguinte tese: "O ICMS não compõe a base de cálculo para a incidência do PIS e da COFINS."(RE 574706)
+  Diante do exposto, com fundamento no artigo 487, inciso I do Código de Processo Civil, JULGO PROCEDENTE o pedido, CONCEDO A SEGURANÇA para determinar a exclusão do ICMS da base de cálculo do PIS e da COFINS, nas Leis 9.718/98, 10.833/03 e 10.637/02, inclusive com as alterações promovidas pela Lei 12.973/2014, confirmando a liminar anteriormente concedida e assegurando a impetrante o direito à compensação dos valores indevidamente recolhidos, nos últimos cinco anos antes do ajuizamento da ação, atualizados pela aplicação da taxa SELIC, nos termos do art. 170-A, do Código Tributário Nacional, com quaisquer tributos e contribuições administrados pela Receita Federal, com exceção das contribuições previdenciárias, nos termos do artigo 26 da lei 11.457/2007.
+  Fica facultada a Secretaria da Receita Federal do Brasil a verificação da exatidão dos valores compensados.
+  Honorários advocatícios indevidos, nos termos do art. 25, da Lei nº 12.016/2009.
+  Custas na forma da lei.
+  Publique-se. Registre-se. Intimem-se. Oficie-se ao E. TRF da 3ª Região, informando a prolação de sentença.
+  Decorrido o prazo para recursos voluntários, remetam-se os autos ao E. Tribunal Regional Federal da 3ª Região para o reexame necessário.
+  PIRACICABA, 22 de fevereiro de 2019.

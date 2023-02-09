@@ -1,0 +1,2335 @@
+PAGINA_CAPA_PROCESSO_PJE_1000130-72.2020.5.02.0007
+Poder Judiciário
+Justiça do Trabalho
+Tribunal Regional do Trabalho da 2ª Região
+CUMPRIMENTO DE SENTENÇA
+CumSen 1000130-72.2020.5.02.0007
+PARA ACESSAR O SUMÁRIO, CLIQUE AQUI
+Processo Judicial Eletrônico
+Data da Autuação: 04/02/2020
+Valor da causa: R$ 50.000,00
+Partes:
+AUTOR: CLAUDIO ROBERTO BAPTISTA PETRONE - CPF: 003.447.328-94
+ADVOGADO: FELIPE BASTOS DE PAIVA RIBEIRO - OAB: SP0238063
+RÉU: IBM BRASIL-INDUSTRIA MAQUINAS E SERVICOS LIMITADA - CNPJ:
+33.372.251/0001-56
+PAGINA_CAPA_PROCESSO_PJE_1000555-17.2017.5.02.0036
+Poder Judiciário
+Justiça do Trabalho
+Tribunal Regional do Trabalho da 2ª Região
+AÇÃO TRABALHISTA - RITO ORDINÁRIO
+ATOrd 1000555-17.2017.5.02.0036
+PARA ACESSAR O SUMÁRIO, CLIQUE AQUI
+Processo Judicial Eletrônico
+Data da Autuação: 03/04/2017
+Valor da causa: R$ 50.000,00
+Partes:
+RECLAMANTE: CLAUDIO ROBERTO BAPTISTA PETRONE - CPF: 003.447.328-94
+ADVOGADO: FELIPE BASTOS DE PAIVA RIBEIRO - OAB: SP0238063
+ADVOGADO: JORGE LUIZ DE SOUZA CARVALHO - OAB: SP0177555
+RECLAMADO: IBM BRASIL-INDUSTRIA MAQUINAS E SERVICOS LIMITADA - CNPJ:
+33.372.251/0001-56
+ADVOGADO: JOÃO PAULO FOGAÇA DE ALMEIDA FAGUNDES - OAB: SP154384
+ADVOGADO: RONALDO RAYES - OAB: SP0114521
+PJê
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 1
+Número do documento: 20020418500888500000167321739
+RAYESG&. FAGUNDES
+ADVOGADOS ASSOCIADOS
+EXCELENTÍSSIMO SENHOR DOUTOR JUIZ FEDERAL DA 36ª DA VARA DO
+TRABALHO DE SÃO PAULO – SP (2ª REGIÃO).
+Processo n.º 1000555-17.2017.5.02.0036
+Ref.: Contestação
+ IBM BRASIL – INDÚSTRIA, MÁQUINAS E SERVIÇOS LTDA.,
+pessoa jurídica de direito privado inscrita no CNPJ/MF sob nº 33.372.251/0001-56, com sede na
+Avenida Pasteur, 138/146, Botafogo – RJ, CEP nº. 22.290-240, nos autos da presente Ação
+Trabalhista movida por CLAUDIO ROBERTO BAPTISTA PETRONE, vem
+respeitosamente à presença de V. Excelência, apresentar sua Contestação, com
+fundamento no artigo 5º, incisos LIV e LV, da CF/88, no art. 847, da CLT, no art. 335 do
+CPC e nas razões fáticas e jurídicas a seguir aduzidas.
+1.
+BREVE SÍNTESE DA INICIAL
+ O Reclamante pleiteia em sua Reclamação Trabalhista, em síntese: i) tutela
+antecipada para complementação do benefício previdenciário; ii) reconhecimento da dispensa
+discriminatória; iii) estabilidade decorrente da dispensa discriminatória; iv) reintegração e
+pagamento dos salários desde então; v) honorários advocatícios; e vi) benefícios da justiça
+gratuita.
+Atribui à causa o valor de R$ 50.000,00 (cinquenta mil e reais).
+Av. Chedid Jafet, 222 - 3º Andar – BL.C Rua Líbero Badaró, 425 – 11º Andar Rua da Assembléia, 10 - Cj.  3108/9 Av. Contorno, 7.069 - Sl. 102 www.rfaa.com.br
+São Paulo – SP – 04551-065 São Paulo - SP – 01009-905 Rio de Janeiro - RJ - 20011-901  Belo Horizonte - MG - 30110-043
+Tel.: ( 55 11 ) 3050-2150 Tel.: (55 11) 2165-2000 Tel./Fax: (55 21) 2221-5470 Tel.: (55 31) 3318-6563
+Fax.: ( 55 11 ) 3050-2151 Fax: (55 11) 2165-2022  Fax: (55 31) 3317-9757
+PJê
+Assinado eletronicamente por: JOÃO PAULO FOGAÇA DE ALMEIDA FAGUNDES - 04/10/2017 14:11 - a7f08cf
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=17100414053200000000083ID76.9 a4740f08cf - Pág. 1
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 17100414053200000000083769440
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 2
+Número do documento: 20020418500888500000167321739
+RAYESG&. FAGUNDES
+ADVOGADOS ASSOCIADOS
+No entanto, conforme a seguir será demonstrado, razão não assiste à
+Reclamante, sendo que os pedidos formulados na presente Reclamação Trabalhista deverão
+ser julgados inteiramente improcedentes.
+2.
+CONTRATO DE TRABALHO
+A Contestante contratou o Reclamante em 01.03.2004, na função de Gerente
+de Soluções Técnicas, para trabalhar 08 horas diárias e 44 horas semanais, de segunda a sexta-
+feira, das 8:00h às 17:00h, com 1:00h hora de intervalo para refeição e descanso, tendo um
+horário flexível, conforme contrato, em anexo, tendo sido imotivadamente dispensado em
+03.08.2016, quando então recebia salário mensal de R$ 14.563,97.
+Entretanto, o Reclamante ficou por muito tempo afastado em decorrência de
+licenças médicas, conforme relatório médico e afastamentos do INSS acostados. Vejamos:
+MATRICULA [7] NOME DT. INICIO, LICENC =| DT. FIM LICENCA (7) MOTIVO LICENCA E
+89127 CLAUDIO ROBERTO BAPTISTA PETRONE 13/06/2013, 11/01/2015 INTEGRALIZAÇÃO SUSPENSA
+89127 CLAUDIO ROBERTO BAPTISTA PETRONE 29/05/2013 12/06/2013 LICENÇA MENOR 15 DIAS
+89127 CLAUDIO ROBERTO BAPTISTA PETRONE 28/06/2012 01/03/2013 LICENCA MAIOR QUE 15 DIAS
+89127 CLAUDIO ROBERTO BAPTISTA PETRONE 13/06/2012, 27/06/2012 LICENÇA MENOR 15 DIAS.
+89127 CLAUDIO ROBERTO BAPTISTA PETRONE 15/12/2001 16/12/2011 LICENÇA MENOR 15 DIAS
+89127 CLAUDIO ROBERTO BAPTISTA PETRONE 28/10/2008 26/02/2011 LICENCA MAIOR QUE 15 DIAS
+89127 CLAUDIO ROBERTO BAPTISTA PETRONE 13/10/2008 27/10/2008 LICENÇA MENOR 15 DIAS.
+89127 CLAUDIO ROBERTO BAPTISTA PETRONE 26/04/2006 16/08/2006 LICENCA MAIOR QUE 15 DIAS.
+89127 CLAUDIO ROBERTO BAPTISTA PETRONE 11/04/2006 25/04/2006 LICENÇA MENOR 15 DIAS
+Assim, em 20.01.2015, o Reclamante realizou exame médico de retorno ao
+trabalho com conclusão de aptidão ao trabalho, retomando suas atividades, até ser desligado
+em 03.08.2016.
+A Reclamada efetuou o correto e tempestivo pagamento das verbas rescisórias,
+na quantia líquida de R$ 59.363,36 em obediência ao prazo previsto no art. 477, § 6º, da CLT,
+conforme indica o incluso Termo de Rescisão do Contrato de Trabalho.
+3.
+HISTÓRICO DA OUTRA AÇÃO.
+Como bem esclareceu o Reclamante na exordial, sem, contudo, juntar
+documentos mencionados por ele, foi proposta reclamação trabalhista em face da Reclamada,
+sob o número 0002436-29.2013.5.02.0087, perante a 87ª Vara do Trabalho de São Paulo, a
+2
+PJê
+Assinado eletronicamente por: JOÃO PAULO FOGAÇA DE ALMEIDA FAGUNDES - 04/10/2017 14:11 - a7f08cf
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=17100414053200000000083ID76.9 a4740f08cf - Pág. 2
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 17100414053200000000083769440
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 3
+Número do documento: 20020418500888500000167321739
+RAYESG&. FAGUNDES
+ADVOGADOS ASSOCIADOS
+qual foi julgada improcedente e transitou em julgado, conforme documentos anexos
+(petição inicial, defesa, sentença e certidão de trânsito em julgado).
+Naquela ação, o Reclamante pleiteou em suma:
+• Garantia de emprego. Reconhecimento de doença profissional. Indenização por
+danos morais e materiais. Pensão vitalícia;
+• Complementação de benefício previdenciário;
+• Dispensa discriminatória;
+• Férias não gozadas; e
+• Indenização por danos morais. Assédio moral. Perda da chance.
+Assim, apenas para elucidar o caso, a Reclamada resume o histórico do contrato
+de trabalho do reclamante que coincide com a narração da outra ação.
+O Reclamante não sofreu o AVC – H em 11.04.06, mas tal incidente não se deu
+dentro das dependências da Reclamada, e, logo na sequência, foi encaminhado ao Órgão
+Previdenciário e afastado das atividades laborais. Assim que teve alta médica pelo INSS, em
+16.08.06, passou pelo médico do trabalho da Reclamada, em 22.08.06, tendo sido atestado que
+estava apto para o trabalho, mas com restrições.
+Em virtude do AVC – H, cujas sequelas afetaram a mobilidade do seu braço
+direito, o Reclamante foi adaptado na empresa e enquadrado na cota para deficientes da
+Reclamada (PWD ou PCD), havendo inclusive uma prescrição com relação às suas atividades,
+para que não houvesse sobrecarga de trabalho, bem como orientação de que seria
+acompanhado pelo departamento médico e RH, para que sua adaptação ocorresse da melhor
+forma possível, posto que estava se adequando a digitar com a mão esquerda.
+O Reclamante, como gerente de soluções técnicas, atuava como um arquiteto de
+soluções e trabalhava diretamente com a entrega do projeto ao cliente, porém, após o AVC –
+H, continuou a exercer a mesma função, mas não estava mais trabalhando com a entrega do
+projeto, razão pela qual a função que exercia nos contratos estava adaptada sua nova realidade.
+Ademais, o Reclamante, em virtude da doença que fora acometido, fazia sessões
+de fisioterapia, que se davam durante a jornada de trabalho, sobre a qual sempre teve total
+liberdade, bem como incentivo, por parte da empresa, posto que a fisioterapia era importante
+na sua melhora e adaptação.
+A Reclamada oferece a possibilidade de trabalho em home office a quase todos
+os seus profissionais, uma vez que lida com a atividade intelectual e de alta tecnologia que na
+3
+PJê
+Assinado eletronicamente por: JOÃO PAULO FOGAÇA DE ALMEIDA FAGUNDES - 04/10/2017 14:11 - a7f08cf
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=17100414053200000000083ID76.9 a4740f08cf - Pág. 3
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 17100414053200000000083769440
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 4
+Número do documento: 20020418500888500000167321739
+RAYESG&. FAGUNDES
+ADVOGADOS ASSOCIADOS
+maioria das vezes consegue se operar de forma remota. E não foi diferente com o Reclamante,
+pois para facilitar o  seu serviço a adaptação, foi oferecida a possibilidade de trabalhar em home
+office, com uso de notebook.
+No entanto, todas as vezes que  o Reclamante quis trabalhar do site da empresa,
+inclusive para se ressocializar, teve o apoio da Reclamada também, tendo ficado a critério dele
+a opção de ir para a empresa ou trabalhar de casa ou revezar entre um e outro.
+Quanto ao labor, o Reclamante jamais teve suas funções esvaziadas dentro da
+Reclamada, muito pelo contrário, participou de projetos, inclusive mencionados por ele mesmo
+em sua exordial, como PAMCARY e GVS, ambos em 2007, ELETROPAULO e ULTRA,
+ambos em 2008, VALE DO RIO DOCE, FIAT  E ORBITALL, estes últimos em 2011 e metade
+de 2012, tendo em vista o seu afastamento.
+Tampouco prospera a alegação de teria sido colocado em ostracismo, por ter
+perdido um voo para o Rio de Janeiro, tendo em vista que, como demonstrado, o Reclamante
+se ativou em vários projetos, após o AVC – H, como PAMCARY, GVS, ambos em 2007,
+ELETROPAULO e ULTRA, ambos em 2008.
+Quanto à possibilidade de mudança para Hortolândia, a Reclamada esclarece
+que o fato de trabalhar em Hortolândia não implicaria na mudança de domicílio, uma vez que
+a Reclamada disponibiliza ônibus fretado diariamente e em todos os turnos que leva para
+empresa sediada nesta cidade. No entanto, não houve qualquer confirmação de que haveria
+vaga em Hortolândia, como mencionado pelo Reclamante.
+No tocante ao Projeto da Vale do Rio Doce, o contrato que a Reclamada tem
+com a referida empresa é de Outsourcing, ou seja, não é de venda de um produto que pudesse
+gerar um treinamento para os funcionários do cliente, muito pelo contrário, são os próprios
+empregados da Reclamada que vão atuar na prestação de serviços de TI.
+Sobre as avaliações do PBC e promoções, é importante repisar que as
+promoções decorrem da somatória do bom resultado da avaliação do PBC, certificações.
+Entretanto, o Reclamante não cumpriu nem um nem outro requisito, não fazia
+certificações, como já mencionado, tampouco teve boa avaliação de desempenho.
+Além disso, a atividade, que o Reclamante realizava, consistia em desenhar a
+solução do projeto e o seu custeio, razão pela qual é uma atividade 100% intelectual, que
+demanda estudo, pesquisa, portanto, em nada interfere o fato do empregado ser deficiente ou
+não para receber promoção, até porque a Reclamada conta, inclusive, com empregados
+portadores deficiência em altos níveis, como o próprio Reclamante (banda 8).
+4
+PJê
+Assinado eletronicamente por: JOÃO PAULO FOGAÇA DE ALMEIDA FAGUNDES - 04/10/2017 14:11 - a7f08cf
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=17100414053200000000083ID76.9 a4740f08cf - Pág. 4
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 17100414053200000000083769440
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 5
+Número do documento: 20020418500888500000167321739
+RAYESG&. FAGUNDES
+ADVOGADOS ASSOCIADOS
+Ademais, o Reclamante mesmo antes do AVC – H nunca teve notas altas, tendo
+em vista que a nota 2 significa “atendeu as expectativas” e 3 significa “ficou abaixo das
+expectativas”.
+Esclarece ainda que, para ser um arquiteto de soluções banda 9, como pretendia
+o Reclamante é preciso fazer uma certificação, que dura, no mínimo, 2 anos, em torno de 500
+horas, chamada “IT Architect”, a qual é 100% disponibilizada na intranet, tratando-se de um
+curso interno, sem custo, mas que precisa de dedicação, tanto que poucos empregados no
+departamento a detém, e o Reclamante não está incluso neste grupo.
+Sobre as complementações do salário, como esclarecido pela Reclamada, o
+Acordo Coletivo garante este direito ao trabalhador por um período estipulado no próprio
+acordo, em suas cláusulas 10ª (2009) e 11ª (2013/2015), estabelecem prazos para a
+integralização, de 12 meses, e depois até 18 meses.
+Desta forma, somados os 27 meses de salário integralizados mais os 5 meses de
+salário pagos de forma integral em 2006, são 32 meses que a Reclamada possibilitou que o
+Reclamante recebesse seu salário de R$ 12.888,32, sem qualquer redução.
+E, por derradeiro, com relação ao episódio narrado sobre a demissão do
+Reclamante em 2014, faz-se imperioso demonstrar que é fantasiosa a alegação que teria seu
+gerente, após comunicar a sua demissão, ao ser informado de novo atestado, ter rasgado
+referido documento. Pelo contrário, nessa oportunidade, em decorrência do exame medico
+demissional, acabou cancelando o desligamento e encaminhando o Reclamante ao Orgão
+Previdenciario.
+Esses foram os fatos tratados na ação anterior, que se fizeram necessários serem
+retomados para melhor elucidação dos fatos atuais, inclusive para análise de coisa julgada.
+4.
+DA COISA JULGADA.
+Antes de mais nada, como se observa, o Reclamante propôs reclamação
+trabalhista em face desta Reclamada, cuja sentença já transitou em julgado, conforme
+documento anexo.
+Entretanto, acaba o Reclamante incidindo em coisa julgada com relação à
+dispensa discriminatória e complementação ao benefício previdenciário. Vejamos como
+5
+PJê
+Assinado eletronicamente por: JOÃO PAULO FOGAÇA DE ALMEIDA FAGUNDES - 04/10/2017 14:11 - a7f08cf
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=17100414053200000000083ID76.9 a4740f08cf - Pág. 5
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 17100414053200000000083769440
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 6
+Número do documento: 20020418500888500000167321739
+RAYESG&. FAGUNDES
+ADVOGADOS ASSOCIADOS
+já decidiu o MM. Juiz da 87ª Vara do Trabalho de São Paulo, Dr. Luiz Gustavo Ribeiro
+Augusto:
+a) Complementação do Benefício Previdenciário – Pág. 5 e 6 da
+Sentença:
+“Tampouco há falar na complementação do benefício
+previdenciário, inclusive no tocante à gratificação natalina e
+demais parcelas, nos períodos em que a reclamada teria deixado
+de fazê-lo, e também na indenização referente ao empréstimo
+bancário contraído em virtude de sua supressão. Isso porque, da
+interpretação das cláusulas dos acordos coletivos que preveem o
+benefício, tal complementação poderia vir a perdurar por até 42
+meses (cláusulas 27 a 29, do ACT 2008/2009; 10ª, do ACT
+2010/2011 e 2011/2012 e 11, do ACT 2013/2015), não havendo
+qualquer extrapolação das previsões coletivas se o benefício fora
+concedido por 36 meses, como alegado pelo autor (fl. 217 verso),
+a afastar a interpretação do autor neste particular. Portanto,
+regular a atuação da ré, improcede o pedido de item “b”, do rol
+da inaugural.
+Além disso, entendo que eventual prorrogação da vantagem por
+período superior ao previsto nas normas coletivas, o que não
+ocorrera, como acima indicado, não garantiria ao autor o direito
+por ele perseguido nem configuraria alteração contratual, como
+pretendido pelo autor, devendo ser entendida como mera
+liberalidade da empresa, que teria ajudado o reclamante em
+momento de dificuldade, não podendo ser penalizada por favorecer
+o reclamante, além do que estava obrigada, em momento no qual
+ele mais estaria precisando. Trata-se de uma das vertentes da
+função social da empresa, tal qual previsto na Carta Maior.
+Do contrário, estaríamos a desestimular as empresas de ajudar os
+seus empregados em
+momentos de crise pessoal, por temor de ver-se obrigada a
+incorporar tal benesse ao contrato de emprego.
+Portanto, não há na conduta da empresa qualquer irregularidade,
+e nem infração ao artigo 468, da CLT, motivo pelo qual, também
+6
+PJê
+Assinado eletronicamente por: JOÃO PAULO FOGAÇA DE ALMEIDA FAGUNDES - 04/10/2017 14:11 - a7f08cf
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=17100414053200000000083ID76.9 a4740f08cf - Pág. 6
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 17100414053200000000083769440
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 7
+Número do documento: 20020418500888500000167321739
+RAYESG&. FAGUNDES
+ADVOGADOS ASSOCIADOS
+sob essa óptica, improcede o pedido formulado no item “b”, do rol
+da exordial.”
+b) Dispensa discriminatória – pág. 8 da sentença:
+“Resta afastada também a alegação de que a dispensa do
+reclamante fora discriminatória, pois a prontidão da reclamada
+em reintegrá-lo, tão logo constatada sua inaptidão, e subsequente
+afastamento junto ao órgão previdenciário, conforme noticiado
+pelo próprio autor na exordial, e demonstrado pelos documentos
+de fls. 92/94, revelam a regularidade da conduta empresarial, não
+havendo qualquer elemento a demonstrar a prática de atos de
+discriminação por parte da ré. “
+Assim, não restam dúvidas que estamos diante de coisa julgada, sendo
+vedada a sua discussão, nos termos do art. 502 do CPC, acarretando desta forma, na
+extinção do processo sem resolução mérito, nos termos do art. 485, V do CPC.
+5.
+DAS INÉPCIAS.
+Não obstante a alegação de coisa julgada, a inicial é inepta quanto aos seguintes
+pedidos:
+a) Dados Contratuais
+Note-se que o Reclamante, às fls. 10, aduz, sem juntara qualquer comprovante,
+que “encontra-se com o contrato de emprego suspendido em virtude de recebimento de
+benefício previdenciário, auxílio-doença por incapacidade laborativa (DOC. ANEXO),
+tendo renda mensal de R$ 4.000,00.”
+Contudo, às fls. 08, aduz o contrário, que foi desligado em 01.08.2016.
+“Decorre que o demandante depois de retornado fora novamente
+demitido no dia 01/08/2016, mesmo estando totalmente incapaz
+para a demissão conforme laudo médico anexo (DOC. ANEXO).”
+Como já narrado, o Reclamante retornou ao trabalho em 20.01.2015 e, desde
+então estava trabalhando, até seu efetivo desligamento em 03.08.2016.
+7
+PJê
+Assinado eletronicamente por: JOÃO PAULO FOGAÇA DE ALMEIDA FAGUNDES - 04/10/2017 14:11 - a7f08cf
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=17100414053200000000083ID76.9 a4740f08cf - Pág. 7
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 17100414053200000000083769440
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 8
+Número do documento: 20020418500888500000167321739
+RAYESG&. FAGUNDES
+ADVOGADOS ASSOCIADOS
+De cara verifica-se o equívoco quanto ao lapso temporal, pois na frase “depois
+de retornado fora novamente demitido no dia 01/08/2016”, decorreu mais de um ano e
+meio.
+Assim, flagrante a inépcia de que da narração dos fatos não decorre conclusão
+lógica, pois confusa a narração dos fatos, dos quais decorrem diversos outros pedidos.
+b) Complementação do Benefício Previdenciário.
+Pleiteia o Reclamante em tutela antecipada, às fls. 11, “determinar a
+reclamada proceder a complementação do benefício previdenciário enquanto perdurar
+a lide até final decisão, cominando-se multa diária sem limitação de teto de R$ 1.000,00
+por dia.”
+ Como pode haver pedido de complementação do benefício previdenciário se
+não está afastado o Reclamante?
+Não obstante, ainda que o Reclamante pleiteie a complementação do benefício
+em tutela antecipada e haja pedido alínea “a”, não há causa de pedir para a complementação
+do beneficiário como mérito.
+Desta forma, além de nítida inépcia por não decorrer da narração dos fatos
+conclusão lógica, não há causa de pedir para referido pedido.
+c) Das Cotas
+Evidente, mais uma vez, a inépcia, pois embora haja causa de pedir, às fls. 8,
+resta claro que não há pedido pertinente referente às cotas, mas apenas à dispensa
+discriminatória (alíneas “b” e “c”), consubstanciada na Súmula 443 do C.TST, conforme fls.
+9.
+Assim, na falta da especificação dos requisitos legais previstos no art. 840, da
+CLT, como pontuado pela Reclamada nos referidos pontos, impossível é a formulação
+adequada da defesa, o que impede os princípios constitucionais do contraditório e da ampla
+defesa, conforme artigo 5º, LV CF. Portanto, é incontroversa a inépcia da petição inicial.
+Assim, requer a reclamada seja a inicial declarada inepta e indeferida, nos
+termos do art. 330, I do CPC, tendo em vista que além da narração dos fatos não decorre
+conclusão lógica, verifica-se, também, a ausência de pedido e causa de pedir nos pontos
+8
+PJê
+Assinado eletronicamente por: JOÃO PAULO FOGAÇA DE ALMEIDA FAGUNDES - 04/10/2017 14:11 - a7f08cf
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=17100414053200000000083ID76.9 a4740f08cf - Pág. 8
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 17100414053200000000083769440
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 9
+Número do documento: 20020418500888500000167321739
+RAYESG&. FAGUNDES
+ADVOGADOS ASSOCIADOS
+mencionados, conforme estabelecido no inciso I e III, do § 1º do art.330 do NCPC, com a
+extinção do processo, sem julgamento de mérito (art. 485, NCPC).
+6.
+PREJUDICIAL DE MÉRITO. PRESCRIÇÃO.
+Incide no caso a prescrição quinquenal, prevista no artigo 7.º, XXIX, alínea “a”,
+da Constituição Federal e na Súmula 308, I, do C. TST, restando prescritos todos os valores
+anteriores a 05 (cinco) anos, contados da data do ajuizamento da presente reclamação.
+Com efeito, a distribuição da presente ação se deu em 03.04.2017, razão pela
+qual estão prescritos todos os direitos anteriores a 03.04.2012, inclusive os referentes ao
+FGTS, conforme recente julgamento do STF, Recurso Extraordinário (RE) 709212, julgado
+em 13.11.14.
+Por todo o exposto, a Reclamada requer o acolhimento da prescrição,
+considerando-se prescritas as parcelas anteriores ao quinquênio, conforme apontado, e, por
+conseguintes, extintas com resolução do mérito, nos moldes do art. 487, II, do CPC.
+7.
+MÉRITO
+A Contestante impugna todos os fatos e documentos colacionados aos autos pelo
+Reclamante, requerendo sejam julgados improcedentes os pedidos formulados através da
+presente demanda.
+Outrossim, nos itens subsequentes serão contestados todos os pedidos
+articulados na peça de ingresso, os quais, por conseguinte, ora serão transformados de pontos
+em questões, o que os tornam necessariamente objeto de prova pela obreira, conforme prevê o
+artigo 818 da CLT, sob pena de improcedência.
+7.1.
+DA ESTABILIDADE COTISTA E REINTEGRAÇÃO.
+Muito embora seja patente a inépcia desta causa de pedir, pois ausente pedido
+relacionado à estabilidade do cotista, a qual foi foi ventilada em preliminar e que se espera o
+acolhimento, a Reclamada passa a enfretar o mérito nos termos que é apresentado pela
+exordial.
+9
+PJê
+Assinado eletronicamente por: JOÃO PAULO FOGAÇA DE ALMEIDA FAGUNDES - 04/10/2017 14:11 - a7f08cf
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=17100414053200000000083ID76.9 a4740f08cf - Pág. 9
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 17100414053200000000083769440
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 10
+Número do documento: 20020418500888500000167321739
+RAYESG&. FAGUNDES
+ADVOGADOS ASSOCIADOS
+Alega o Reclamante que ‘que quando demitido, deveria ser recontratado um
+empregado com as mesmas qualidades e funções do reclamante, o que não ocorreu,
+viciando a demissão, conforme §1º, do art. 93 da Lei de Benefícios.”, por fazer parte da
+cota de deficientes.
+E insiste que deveria ter sido afastado para gozo do auxílio-saúde, para ser
+encaminhado ao INSS para afastamento, pois, conforme sua fundamentação, “o empregado
+com incapacidade laboral há mais de 30 dias (redação recente atribuída pela MP da
+minirreforma previdenciária), deve ser afastado, sendo obstado ao empregado a rescisão
+do contrato de emprego.”
+Primeiramente, NÃO existe afastamento do Reclamante pelo INSS, com gozo
+de qualquer benefício, no momento da rescisão contratual, tampouco o Reclamante acosta
+qualquer documento nesse sentido, apenas um laudo médio particular às fls. 20 ,de 01.08.2016,
+o qual NÃO foi apresentado no momento da rescisão, em 03.08.2016, sendo incapaz infirmar
+o ASO demissional, que concluiu pela aptidão ao trabalho.
+Todavia, o pedido para ser declarada nula a sentença com imediata reintegração,
+recebimento dos salários desde a demissão, e o encaminhamento do Reclamante ao INSS para
+afastamento, não se encontra consubstanciada no referido atestado, mas, tão somente, na
+estabilidade provisória do cotista, pois referido atestado é para a sequência, no caso de acolhida
+a reintegração, ser o Reclamante encaminhado ao INSS.
+Entretanto, sem razão o Reclamante.
+Primeiro, há que se repisar que a rescisão contratual foi devidamente
+homologada pelo Sindicato da Categoria sem qualquer ressalva, o que torna o ato praticado
+perfeito.
+Segundo, que independentemente da contratação de um substituto, a
+Reclamada, cumpre corretamente a legislação de cotas para portadores de necessidades
+especiais, de modo que quando da rescisão contratual esta possuia em seu quadro de
+empregados a quantidade mínima exigida devidamente contratada.
+Assim, tem-se que a rescisão contratual de um trabalhador com deficiência
+somente gera a obrigatoriedade na contratação de outro, quando a empresa não tiver atingido
+o percentual mínimo legal, sendo certo que do contrário, como no caso da Reclamada
+permanecem válidas as regras gerais que disciplinam a rescisão do contrato de trabalho, haja
+vista que ao contrário do que alegado, o empregado portador de deficiência não possui
+estabilidade de emprego.
+10
+PJê
+Assinado eletronicamente por: JOÃO PAULO FOGAÇA DE ALMEIDA FAGUNDES - 04/10/2017 14:11 - a7f08cf
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=1710041405320000000008I3D7.6 9a474f08cf - Pág. 10
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 17100414053200000000083769440
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 11
+Número do documento: 20020418500888500000167321739
+RAYESG&. FAGUNDES
+ADVOGADOS ASSOCIADOS
+Terceiro, contudo, ainda assim, a Reclamada procedeu a substituição para a
+vaga do Reclamante outro funcionário com deficiência, Sr. Eugênio Veronezzi Junior, cujos
+ASO e Laudo Médico se anexam, nos exatos termos do § 1º do art. 93 da Lei 8.213/91.
+E, sem prejuízo, contratou a funcionária Sra. Patricia de Jesus Cunha,
+portadora de deficiência, em 01.11.2016, conforme ASO e Laudo Médico acostados, nos
+exatos termos do § 1º do art. 93 da Lei 8.213/91.
+Diante do exposto, não há que se falar em declaração de nulidade da demissão
+e tampouco reintegração com pagamento dos salários em decorrência da estabilidade do
+cotista, pois cuidou a Reclamada de atender os requisitos da legislação pertinente para proceder
+ao desligamento do Reclamante, devendo, portanto, ser julgado improcedente.
+7.2.
+DISPENSA DISCRIMINATÓRIA. ESTABILIDADE.
+Como abordado em preliminar, a qual se espera o acolhimento, o pedido foi
+alcançado pela coisa julgada, uma vez que já abordada e decidida na outra ação sobre a
+dispensa discriminatória decorrente da doença, nos termos da Súmula 443 do C.TST.
+Todavia, caso não seja este o entendimento de V.Exa., o que não se espera,
+passemos à análise do mérito.
+Depreende-se da causa de pedir do Reclamante que ele apresenta, em virtude de
+ser portador de doença, duas fundamentações para alcançar a nulidade da demissão e obter a
+reitegração: (i) por ser cotista de PCD e (ii) dispensa discriminatória por ser PCD.
+Como a primeira hipótese já foi tratada no tópico anterior, passaremos a abordar
+o fato do Reclamante ser PCD e a dispensa discriminatória.
+A Súmula 443 do TST, que serviu para calcar o pedido do Reclamante, aplica-
+se em casos em que houve dispensa discriminatória, dando ao empregado o direito à
+reintegração.
+Entretanto, referida súmula não se aplica ao caso em comento, pois o
+Reclamante, no momento da sua rescisão contratual, encontrava-se ativo e readaptado ao seu
+posto de trabalho, há 1 ano e meio, após a última alta do INSS e exame médico de retorno ao
+trabalho em 20.01.2015.
+11
+PJê
+Assinado eletronicamente por: JOÃO PAULO FOGAÇA DE ALMEIDA FAGUNDES - 04/10/2017 14:11 - a7f08cf
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=1710041405320000000008I3D7.6 9a474f08cf - Pág. 11
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 17100414053200000000083769440
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 12
+Número do documento: 20020418500888500000167321739
+RAYESG&. FAGUNDES
+ADVOGADOS ASSOCIADOS
+Que dispensa discriminatória é esta que falta imediatidade? Se realmente fosse
+a deficiência, que acometeu o Reclamante há 10 anos, motivo ensejador da demissão
+certamente não haveria esse lapso temporal.
+Evidente que a dispensa do Reclamante está ligada à performance no trabalho,
+que não estava a contento, somado ao fato de redução de custos e restruturação interna que a
+empresa passava, nos exatos termos potestativo que a lei lhe garante.
+Desta forma, em que pese toda argumentação do Reclamante, é certo que não
+houve dispensa discriminatória, não havendo que se falar em nulidade da demissão,
+reintegração, e pagamento dos salários desde a demissão.
+7.3.
+TUTELA ANTECIPADA. REINTEGRAÇÃO.
+COMPLEMENTAÇÃO DO BENEFÍCIO
+PREVIDENCIÁRIO.
+Como já debatido em preliminar, a qual se espera o acolhimento, o pedido é
+inepto, pois não existe afastamento pelo INSS, que possa ensejar a complementação do
+benefício e tampouco há causa  causa de pedir no mérito, sendo abordada a questão apenas
+para a tutela antecipada.
+E, não obstante, há coisa julgada quanto à complementação do benefício
+previdenciário, pois, como destacou a Reclamada, em preliminar, o MM. Juiz da 87ª Vara do
+trabalho já decidiu sobre a questão.
+Contudo, caso não seja este o entendimento de V.Exa., o que não se espera, é de
+se pontuar que não estão preenchidos os requisitos para deferimento da tutela antecipada, pois
+não se verifica o periculum in mora e fumus bonus iuris, pois a análise da reitegração decorre
+da análise do mérito.
+Ademais, importante ponderar que a Reclamada cumpriu exatamente o que
+determina o Acordo Coletivo, assegurando, dentro do período estipulado, a integralização do
+salário do Reclamante.
+Os acordos coletivos, em sua cláusula 11ª (2013/2015), estabelecem prazos para
+a integralização, de 12 meses, e depois até 18 meses, ou seja, totalizando 30 meses, conforme
+regras vigentes da empresa e avaliação do departamento médico da Reclamada.
+12
+PJê
+Assinado eletronicamente por: JOÃO PAULO FOGAÇA DE ALMEIDA FAGUNDES - 04/10/2017 14:11 - a7f08cf
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=1710041405320000000008I3D7.6 9a474f08cf - Pág. 12
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 17100414053200000000083769440
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 13
+Número do documento: 20020418500888500000167321739
+RAYESG&. FAGUNDES
+ADVOGADOS ASSOCIADOS
+Durante o afastamento decorrente do AVC – H em 2006, entre abril a agosto, o
+Reclamante recebeu seu salário normalmente, mesmo já estando nesta época afastado e
+percebendo o benefício auxílio-doença da Previdência, sem que houvesse qualquer
+integralização e tampouco descontos.
+No entanto, assim que se deu o segundo afastamento, em 2008, o qual foi mais
+longo, o Reclamante passou a ser avaliado pelo Médico do Trabalho da empresa para obter a
+integralização do seu salário bem como a prorrogação dela, e conforme pode-se apurar dos
+contracheques acostados, o Reclamante teve a integralização do seu salário em dezembro/2008
+a março de 2009 (4 meses), de agosto/2009 a março/2011 (22 meses) e de setembro/2012 a
+março/2013 (8 meses), totalizando 34 meses de salário integralizado.
+Resta claro que estes 4 meses a mais foram mera liberalidade da Reclamada e
+assim que novamente o benefício foi prorrogado até janeiro de 2015 e tendo atingido o limite
+do prazo para integralização do salário, a integralização foi cessada.
+Desta forma, por ser um benefício oferecido pela Reclamada, por meio de
+Regulamento Interno, portanto, sem previsão legal, suas normas devem ser interpretadas de
+forma restritiva, assim como dispõe o art. 114 do Código Civil Brasileiro, aplicável ao Direito
+do Trabalho por força do disposto no art. 8º da norma consolidada, sendo indevida a
+complementação do benefício previdenciário, uma vez que a Reclamada já pagou até a mais
+do que se comprometeu a fazer.
+8.
+HONORÁRIOS ADVOCATÍCIOS
+ É sabido que o Reclamante poderia ter se utilizado do jus postulandi, bem como
+da assistência judiciária gratuita por meio de seu Sindicato, ao invés de contratar um advogado.
+Ao optar pela assistência de um advogado constituído, deverá arcar com seus honorários,
+independentemente do êxito ou não da demanda.
+Ad argumentandum, conforme legislação e súmulas vigentes referentes aos
+honorários advocatícios, esses só são devidos ao Sindicato que atua no processo, desde que
+preenchidos alguns requisitos, nos termos da Lei 5584/70 e Súmula 219 do TST.
+ O Reclamante, como consta da inicial, não preencheu um dos requisitos, vez
+que não está assistido por Sindicato, o que inviabiliza a pretensão ao pagamento de honorários
+advocatícios.
+13
+PJê
+Assinado eletronicamente por: JOÃO PAULO FOGAÇA DE ALMEIDA FAGUNDES - 04/10/2017 14:11 - a7f08cf
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=1710041405320000000008I3D7.6 9a474f08cf - Pág. 13
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 17100414053200000000083769440
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 14
+Número do documento: 20020418500888500000167321739
+RAYESG&. FAGUNDES
+ADVOGADOS ASSOCIADOS
+ Assim, seja porque não deverá haver sucumbência da Reclamada, seja porque
+o Reclamante não preenche os requisitos legais impõe-se o indeferimento do pedido de
+honorários advocatícios.
+9.
+DOS BENEFÍCIOS DA JUSTIÇA GRATUITA
+No que tange ao pedido de justiça gratuita, importante observar que o
+Reclamante não preencheu os pressupostos legais para fazer jus a tal benefício, previstos no
+artigo 14 e parágrafos da Lei n.º 5.584/70. Isto porque recebia remuneração em valor bastante
+superior ao dobro do mínimo legal.
+ Destarte, por não terem sido atendidos os pressupostos legais, improcede o
+pedido de gratuidade de Justiça.
+Além disso, conforme estabelece a Lei n.º 5.584/70, a comprovação de
+impossibilidade de demandar sem prejuízo do próprio sustento deverá ser feita por atestado
+fornecido por autoridade local do Ministério do Trabalho e Previdência Social ou, não havendo
+autoridade referida, o atestado deverá ser expedido pelo Delegado de Polícia da circunscrição
+onde resida o empregado, o que não se verificou no presente caso.
+ Todavia, caso esse não seja o entendimento desse Juízo, o que se admite apenas
+para argumentar, a Justiça Gratuita não poderá atingir a pretensão de verba honorária,
+limitando-se a isenção no pagamento de custas processuais.
+10.
+DOS JUROS E CORREÇÃO MONETÁRIA
+ Na hipótese de ser imposta condenação à Reclamada, requer-se que a
+correção monetária seja aplicada considerando os índices que respeitem a época própria,
+ou seja, quando realmente o débito passou a ser exigido, conforme artigo 2º, I do Decreto-
+lei n.º 75/66.
+ Especialmente, no que tange à época própria para a correção monetária, a
+observância do disposto nas Leis n.ºs 7.738/89, artigo 6º e 8.177/91, bem como a aplicação
+do art. 459 da CLT e do entendimento consubstanciado na Súmula 381 do C. Tribunal
+Superior do Trabalho, isto é, a partir do 5.º dia útil do mês subseqüente ao mês da
+prestação de serviços, pois, caso contrário, corrigir-se-iam os valores antes mesmos que
+passassem a ser devidos.
+14
+PJê
+Assinado eletronicamente por: JOÃO PAULO FOGAÇA DE ALMEIDA FAGUNDES - 04/10/2017 14:11 - a7f08cf
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=1710041405320000000008I3D7.6 9a474f08cf - Pág. 14
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 17100414053200000000083769440
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 15
+Número do documento: 20020418500888500000167321739
+RAYESG&. FAGUNDES
+ADVOGADOS ASSOCIADOS
+ Requer-se, ainda, que os juros sejam apurados na forma da Lei n.º 8.177/91
+- 1,0% ao mês simples e “pro rata die” contados do ajuizamento da presente reclamatória
+(Súmula n.º 200 do TST).
+Por fim, em eventual arbitramento de honorários advocatícios, os valores
+deferidos somente poderão ser atualizados e corrigidos a partir do trânsito em julgado da ação
+ou, quando menos, da data em que for proferida a última decisão de arbitramento, na medida
+em que eventual arbitramento de valor contemplará montante atualizado.
+11.
+DOS DESCONTOS PREVIDENCIÁRIOS E FISCAIS
+Deverão, em caso de procedência da ação em curso, o que se admite apenas em
+atenção ao princípio da eventualidade, ser efetuados os descontos previdenciários e fiscais de
+eventual crédito da reclamante, conforme entendimento consolidado na Súmula nº 368 do
+Tribunal Superior do Trabalho.
+Nesse sentido, resta devidamente impugnado o pedido da Autora quanto a
+indenização por perdas e danos decorrentes de eventual tributação em caso de deferimento das
+verbas requeridas pelo Reclamante.
+ A obrigação de custear a seguridade social recai tanto sobre o empregado como
+sobre o seu empregador, pois o custeio dos benefícios previdenciários é dever de ambos. Em
+não se determinando o desconto da parcela do INSS que cabe aa reclamante, quando do
+recebimento do seu crédito, estar-se-ia incentivando o enriquecimento ilícito, exceção que não
+comporta justificação jurídica. Outro não é o entendimento das cortes trabalhistas, conforme
+os julgados abaixo transcritos:
+ Quanto ao imposto de renda, a responsabilidade da Reclamada engloba, apenas
+e tão-somente, a sua retenção e a comprovação, nos autos, do recolhimento do tributo, como
+forma de contribuição passiva indireta.
+ Na dificuldade de atingir o contribuinte natural, o legislador admite, como
+sujeito passivo indireto, o empregador. Mas, nem por isso, ele há de arcar com o ônus fiscal
+em qualquer momento, o qual deve ser descontado na fonte de quem faz jus ao pagamento,
+conforme o comando do art. 46 da Lei nº 8.541/92.
+15
+PJê
+Assinado eletronicamente por: JOÃO PAULO FOGAÇA DE ALMEIDA FAGUNDES - 04/10/2017 14:11 - a7f08cf
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=1710041405320000000008I3D7.6 9a474f08cf - Pág. 15
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 17100414053200000000083769440
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 16
+Número do documento: 20020418500888500000167321739
+RAYESG&. FAGUNDES
+ADVOGADOS ASSOCIADOS
+ Resta claro, portanto, que a matéria é objeto de norma de ordem pública, não
+sendo suscetível furtar-se ao seu cumprimento. Assim, qualquer determinação em sentido
+contrário, estaria dando amparo ao enriquecimento ilícito, sem causa, que a lei veda, nos termos
+do art. 964, do Código Civil Brasileiro.
+ Cabe ressaltar que o intenso debate que se instaurou após a edição das referidas
+leis, deu azo à publicação dos Provimentos 01/93 e 02/93, da Corregedoria Geral da Justiça do
+Trabalho, que corrobora a tese acima defendida.
+ Diante do exposto, requer a Reclamada, desde já, em atenção ao princípio da
+eventualidade, sejam determinados os devidos descontos à Seguridade Social e à Receita
+Federal que couberem à Reclamante, em caso de procedência de qualquer verba, o que não se
+acredita, diante da improcedência dos pleitos.
+12.
+DAS PROVAS E DOS DOCUMENTOS
+Em conformidade com o que dispõem os artigos 818, da Consolidação das
+Leis do Trabalho, e 333, I, do Código de Processo Civil, deverá o Reclamante provar os
+fatos alegados na exordial.
+Outrossim, os subscritores da presente declaram a autenticidade dos
+documentos juntados com a presente defesa, nos termos do disposto pelo artigo 830, da
+Consolidação das Leis do Trabalho.
+13.
+DA COMPENSAÇÃO
+ A Reclamada requer a aplicação do instituto da compensação, sob pena de
+enriquecimento sem causa, com base nos artigos 767 da CLT e 368 do vigente Código
+Civil Brasileiro, relativos aos valores pagos sob os mesmos títulos ou, ainda, reconhecidos
+pela Reclamante.
+14.
+CONCLUSÃO
+Pelo exposto, requer a Reclamada que os pedidos contidos na presente
+Reclamação Trabalhista sejam julgados improcedentes.
+16
+PJê
+Assinado eletronicamente por: JOÃO PAULO FOGAÇA DE ALMEIDA FAGUNDES - 04/10/2017 14:11 - a7f08cf
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=1710041405320000000008I3D7.6 9a474f08cf - Pág. 16
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 17100414053200000000083769440
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 17
+Número do documento: 20020418500888500000167321739
+RAYESG&. FAGUNDES
+ADVOGADOS ASSOCIADOS
+ Protesta a Reclamada provar o alegado por todos os meios de prova em
+direito admitidos, em especial, o depoimento pessoal do Reclamante, sob pena de
+confissão, além de inquirição de testemunhas, juntada de novos documentos, exames,
+vistorias, perícias, etc.
+Protesta-se pelo direito de apresentar os originais dos documentos em
+cópias simples, em caso de impugnação quanto à forma, se não aplicada a nova regra do
+art. 830, da CLT.
+ Por fim, requer a reclamada que todas as publicações e/ou intimações
+referentes a este feito sejam realizadas exclusivamente em nome de seu advogados
+RONALDO RAYES, inscrito na OAB/SP 114.521 e OAB/RJ nº 147.949 e JOÃO PAULO
+FOGAÇA DE ALMEIDA FAGUNDES, OAB/SP 154.384  com escritório localizado na
+Av. Chedid Jafet, nº 222, bloco C, 3º andar, Vila Olímpia, CEP 04551-065, São Paulo-SP.
+  Nesses termos,
+Pede deferimento.
+  São Paulo, 04 de outubro de 2017.
+Ronaldo Rayes     João Paulo F. de Almeida Fagundes
+OAB/SP 114.521     OAB/SP 154.384
+OAB/RJ 147.949
+Amanda Cristina Leite Prado                                Arthur Rizk Stuhr Coradazzi
+OAB/SP 252.727                                                       OAB/SP 259.784
+17
+PJê
+Assinado eletronicamente por: JOÃO PAULO FOGAÇA DE ALMEIDA FAGUNDES - 04/10/2017 14:11 - a7f08cf
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=1710041405320000000008I3D7.6 9a474f08cf - Pág. 17
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 17100414053200000000083769440
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 18
+Número do documento: 20020418500888500000167321739
+Documento assinado pelo Shodo
+PODER JUDICIÁRIO ||| JUSTIÇA DO TRABALHO
+TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO
+36ª Vara do Trabalho de São Paulo ||| ATOrd 1000555-17.2017.5.02.0036
+RECLAMANTE: CLAUDIO ROBERTO BAPTISTA PETRONE
+RECLAMADO: IBM BRASIL-INDUSTRIA MAQUINAS E SERVICOS LIMITADA
+SENTENÇA
+I - RELATÓRIO
+CLAUDIO ROBERTO BAPTISTA PETRONE ajuizou reclamação trabalhista contra IBM
+BRASIL-INDUSTRIA MAQUINAS E SERVICOS LIMITADA, formulando as pretensões elencadas na
+petição inicial.
+Juntou documentos. Requereu o benefício da justiça gratuita. Atribuiu à causa o valor de
+R$50.000,00.
+O polo reclamado apresentou defesa escrita. Juntou documentos.
+Apresentado laudo pericial.
+Não foi colhida prova oral.
+Razões finais apresentadas ou remissivas.
+Infrutíferas as tentativas de conciliação.
+É o relatório.
+II - FUNDAMENTAÇÃO
+INÉPCIA
+Em consonância com a simplicidade do processo laboral, o art. 840 da CLT exige apenas um
+breve relato dos fatos e o pedido. Basta que estes sejam compatíveis entre si e não prejudiquem o direito
+de defesa.
+A exigência de indicação de valor (art. 818, §1º, da CLT), seguindo a diretriz da
+simplicidade, envolve apenas a estimativa do valor de cada pedido, não havendo necessidade de sua
+indicação exata ou apresentação de planilha de cálculos, e não implicando, por isso, limitação "a priori"
+ao valor da condenação.
+O relato dos fatos que a reclamada entende incompleto ou controverso não produz, por si só,
+inépcia dos pedidos, e a adequação entre fatos e normas deve ser avaliada no mérito. Nesse sentido, não
+se verifica inépcia pela simples narrativa de fatos relacionados pelo autor a complementação de benefício,
+PJê
+Assinado eletronicamente por: JOAO PAULO GABRIEL DE CASTRO DOURADO - 09/10/2019 18:12 - b02e688
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=1907290848413960000014I6D3.5 0b30926e688 - Pág. 1
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 19072908484139600000146350396
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 19
+Número do documento: 20020418500888500000167321739
+Documento assinado pelo Shodo
+cota de vagas destinadas à pessoas com deficiência e sua relação com a alegação de dispensa
+discriminatória.
+A forma como expostos os pedidos não impediu o exercício do direito de defesa.
+A análise dos fundamentos fáticos e jurídicos dos pedidos, bem como do ônus e valoração da
+prova, deverá ser realizada eventualmente no mérito.
+Rejeito.
+COISA JULGADA
+Incontroverso que o autor propôs ação anterior (proc. 00024362920135020087, que tramitou
+na 87ª VT/SP), relacionada ao mesmo contrato de trabalho, que foi julgada improcedente - como, aliás, o
+autor informa na inicial.
+A reclamada afirma haver coisa julgada quanto aos pedidos de complementação de benefício
+previdenciário e de reconhecimento de dispensa discriminatória.
+Em réplica, o autor repisa que a presente ação trata apenas dos fatos relacionados à segunda
+dispensa, ocorrida em 2016, e posterior aos fatos tratados na ação já julgada, e que os pedidos ora em
+análise restringem-se aos pleitos de reconhecimento de estabilidade por aplicação da lei de cotas, e por
+dispensa discriminatória em razão de doença estigmatizante (fl. 624).
+Trata-se, portanto, de fatos ocorridos após a decisão proferida na ação anterior, e por ela não
+analisados.
+Rejeito.
+PRESCRIÇÃO QUINQUENAL
+Ajuizada a ação em 3.4.2017, estão prescritas as pretensões surgidas anteriormente a
+3.4.2012 (art. 7º, XXIX, CRFB; art. 11, CLT).
+Desse modo, julgo-as extintas com resolução de mérito, nos termos do art. 487, II, do CPC.
+ESTABILIDADE - COTA E DISPENSA DISCRIMINATÓRIA
+O autor narra, em síntese, ter sofrido AVC em 2006, que lhe deixou sequelas, após período de
+afastamento; que foi vítima de perseguição na reclamada, avaliado negativamente sem considerar-se a sua
+condição de saúde; que foi dispensado em 2013, mas imediatamente reintegrado, em razão de
+incapacidade parcial para o trabalho; que foi novamente afastado do labor, e diagnosticado com leucemia;
+que após retornar de afastamento foi dispensado, quando havia incapacidade para o labor, em agosto de
+2016.
+Pleiteia sua reintegração ao emprego, com dois fundamentos: o cumprimento, pela reclamada,
+da cota de vagas destinadas a pessoas com deficiência, e a alegada dispensa discriminatória, em razão de
+sua incapacidade.
+A reclamada afirma que alguns pedidos - especialmente a alegação de dispensa
+discriminatória - foram analisados em ação anterior; que o caso não é de doença ocupacional e, por esse
+motivo, não há estabilidade a ser reconhecida; que contratou empregado PCD após a dispensa do autor,
+cumprindo a cota, e que não houve dispensa discriminatória, pois o reclamante estava apto para o labor
+quando dispensado em 2016.
+PJê
+Assinado eletronicamente por: JOAO PAULO GABRIEL DE CASTRO DOURADO - 09/10/2019 18:12 - b02e688
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=1907290848413960000014I6D3.5 0b30926e688 - Pág. 2
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 19072908484139600000146350396
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 20
+Número do documento: 20020418500888500000167321739
+Documento assinado pelo Shodo
+O autor distribuiu ação anterior, e nela, de fato, constou pedido de reconhecimento de
+dispensa discriminatória, que foi rejeitado. Ocorre que a dispensa analisada naqueles autos foi a intentada
+em 2013, enquanto nestes autos debate-se a dispensa realizada em 2016. Assim, não se trata do mesmo
+fundamento fático, como já anotado no tópico referente à alegação de coisa julgada.
+Realizada perícia para apuração de incapacidade à época da dispensa, conclui o perito que o
+autor sofre de
+"doença cerebrovascular aguda (CID: I64), sequelas de doença cerebrovascular
+(CID: I69) e leucemia mieloide crônica (CID: C91). - fl. 770
+Caracterizadas restrições/limitações parciais e permanentes para atividades que
+deambulação excessiva, permanecer de pé por longos períodos, movimentos com
+o membro superior direito e situações desfavoráveis.
+Considerando-se o retorno ao trabalho em 17/08/2006 - restrições/limitações
+parciais e permanentes caracterizadas nesta data, tendo prognóstico favorável ao
+retorno ao trabalho em consonância aos registros e enquadramento como portador
+de deficiência e readaptação na mesma função.
+Sequelas parciais e permanentes estimadas em 70% pelo quadro apresentado.
+Sendo que para a função exercida, pela perda da função do membro superior
+direito caracterizada restrição funcional de 50%.
+Não foi estabelecido o nexo causal nem concausal do quadro com as atividades no
+reclamado.
+(...)
+A paralisia irreversível e incapacitante no membro superior direito (cotovelo e
+mão) + parcial do membro inferior direito, e o quadro de leucemia diagnosticada
+em 2012 são definidas como
+doença grave nos termos da lei 7713/88.
+7) Não foi caracterizada inaptidão para as atividades na época da demissão -
+03/08/2016 (fls. 784/785)".
+Assim, em que pese a existência de sequelas parciais e permanentes, e a existência de doença
+grave que acomete o autor, o perito concluiu que, quando realizada a dispensa em agosto de 2016, ele não
+estava incapacitado para o exercício das suas funções. No entanto, havia restrição para o exercício de suas
+funções, em razão de paralisia irreversível e incapacitante de mão e cotovelo direitos (sendo que o autor é
+destro), paralisia parcial do membro inferior direito, além da leucemia diagnosticada em 2012, que é
+considerada doença grave nos termos da Lei 7713/88.
+É certo que o juiz não está adstrito às conclusões do laudo pericial, podendo, nos termos do
+art. 479 do CPC, deixar de considerá-las pelo cotejo com os demais elementos dos autos. Contudo, não há
+outras provas que permitam afastar a conclusão do laudo. Assim, a tese pericial é suficientemente
+fundamentada, merecendo ser acolhida pelo juízo.
+Portanto, em que pese não tenha sido constatada incapacidade para o labor (em geral), mas
+apenas parcial para a função desenvolvida, quando o autor foi dispensado em agosto de 2016, ele estava
+acometido de sequelas permanentes (que promovem estigma social e preconceito: paralisação de cotovelo
+e mão direitos) e de doença grave, fatores que certamente interferem na possibilidade de nova colocação
+profissional.
+Noto, ainda, que o autor contava com quase 57 anos quando dispensado, e não consta que
+tenha conseguido obter benefício de aposentadoria.
+Conforme entendimento consubstanciado na súmula n. 443 do TST, presume-se
+discriminatória a despedida de empregado com vírus HIV ou portador de doença grave que suscite
+estigma ou preconceito.
+PJê
+Assinado eletronicamente por: JOAO PAULO GABRIEL DE CASTRO DOURADO - 09/10/2019 18:12 - b02e688
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=1907290848413960000014I6D3.5 0b30926e688 - Pág. 3
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 19072908484139600000146350396
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 21
+Número do documento: 20020418500888500000167321739
+Documento assinado pelo Shodo
+Nesses casos, o empregador tem o ônus de demonstrar que o ato de dispensa não teve relação
+com a doença do empregado.
+Não se desincumbindo desse ônus, o ato de dispensa é inválido, e tem o trabalhador direito à
+reintegração no emprego.
+Além disso, incidirá o disposto na Lei n. 9.029/95 que dispõe sobre práticas discriminatórias
+na relação jurídica de trabalho.
+Prevê o art. 1º da referida lei:
+Art. 1º. É proibida a adoção de qualquer prática discriminatória e limitativa para
+efeito de acesso à relação de trabalho, ou de sua manutenção, por motivo de sexo,
+origem, raça, cor, estado civil, situação familiar, deficiência, reabilitação
+profissional, idade, entre outros, ressalvadas, nesse caso, as hipóteses de proteção à
+criança e ao adolescente previstas no inciso XXXIII do art. 7o da Constituição
+Federal.
+Por seu turno, dispõe o art. 4º:
+Art. 4º. O rompimento da relação de trabalho por ato discriminatório, nos moldes
+desta Lei, além do direito à reparação pelo dano moral, faculta ao empregado
+optar entre:
+I - a reintegração com ressarcimento integral de todo o período de afastamento,
+mediante pagamento das remunerações devidas, corrigidas monetariamente e
+acrescidas de juros legais;
+II - a percepção, em dobro, da remuneração do período de afastamento, corrigida
+monetariamente e acrescida dos juros legais.
+Note-se que a lei prevê expressamente que a indenização pelo período de afastamento, seja
+simples ou em dobro, não se compensa com eventual valor devido a título de compensação por dano
+moral decorrente do ato discriminatório.
+Como registrado acima, o autor foi dispensado quando em tratamento de leucemia, e portador
+de sequelas permanentes.
+A referida súmula não delimita quais doenças devem ser consideradas "graves" para fins de
+sua aplicação. Trata-se, portanto, de conceito aberto, a ser analisado caso a caso. A situação do autor
+amolda-se à hipótese da súmula. Nesse sentido, veja-se decisão do TST:
+"AGRAVO DE INSTRUMENTO DA RECLAMADA PRESUNÇÃO DA
+DISPENSA DISCRIMINATÓRIA. DOENÇA GRAVE. CONTRARIEDADE À
+SÚMULA Nº 443. PROVIMENTO . Diante de possível contrariedade à Súmula
+nº 443, o processamento do recurso de revista é medida que se impõe. Agravo de
+instrumento a que se dá provimento, ficando sobrestado o julgamento do recurso
+de revista do reclamante. RECURSO DE REVISTA DA RECLAMADA
+PRESUNÇÃO DA DISPENSA DISCRIMINATÓRIA. DOENÇA GRAVE.
+CONTRARIEDADE À SÚMULA Nº 443. PROCTITE CRÔNICA ULCERADA.
+NÃO CONHECIMENTO. Segundo o entendimento preconizado na Súmula nº
+443, "Presume-se discriminatória a despedida de empregado portador do vírus
+HIV ou de outra doença grave que suscite estigma ou preconceito. Inválido o ato,
+o empregado tem direito à reintegração no emprego". Esse verbete jurisprudencial
+não especifica quais doenças serão consideradas graves para fins de aplicação da
+presunção nela preconizada, cabendo ao julgador examinar o caso concreto. É
+cediço que esta colenda Corte tem reconhecido como "doença grave", para fins de
+aplicação do entendimento consubstanciado na referida súmula, não só aquelas
+PJê
+Assinado eletronicamente por: JOAO PAULO GABRIEL DE CASTRO DOURADO - 09/10/2019 18:12 - b02e688
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=1907290848413960000014I6D3.5 0b30926e688 - Pág. 4
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 19072908484139600000146350396
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 22
+Número do documento: 20020418500888500000167321739
+Documento assinado pelo Shodo
+previstas em texto de lei, a exemplo do preceito insculpido no artigo 6º, XIV, da
+Lei nº 7.713/88, ou de normativos como a Portaria Interministerial MPAS/MS nº
+2.998/2001, citada pela reclamada. Tem-se que o conteúdo essencial do aludido
+verbete não é classificar a doença, mas sim proteger o empregado que venha a ser
+discriminado no ambiente de trabalho pelo fato de ser portador de doença. Desse
+modo, o determinante é que a doença seja capaz de suscitar estigma ou
+preconceito. Na hipótese, o Tribunal Regional assinalou que o reclamante foi
+diagnosticado com proctite crônica ulcerada e inespecífica, da qual resultou
+"realização de procedimento cirúrgico para a extração de praticamente a totalidade
+do seu intestino grosso. Indene de dúvida que este tipo de enfermidade além de
+um desconforto físico e social, constrangeu o autor em seu ambiente de trabalho,
+sendo alvo de 'brincadeiras' preconceituosas e desrespeitosas por parte dos demais
+colegas de trabalho." (fl. 242). E ainda, consta do acórdão: "Assim, presume-se
+discriminatória a despedida, a qual somente pode ser afastada se houver prova
+concludente e decisiva em contrário, o que não veio aos autos, qual seja, a de que
+tenha sido dispensado todos os demais empregados envolvidos no trabalho
+realizado em Imperatriz - MA, em razão do fim da atividade laborativa lá
+desenvolvida." (fl. 242). Portanto, não há contrariedade à Súmula nº 443, tendo
+em vista que a reclamada tinha conhecimento que o reclamante era portador de
+doença grave, a qual demandava cuidados, razão pela qual se presume
+discriminatória a sua dispensa. Recurso de revista de que não se conhece.
+RECURSO DE REVISTA DO RECLAMANTE DISPENSA
+DISCRIMINATÓRIA. INDENIZAÇÃO DOBRADA. TERMO FINAL DO
+PERÍODO DE AFASTAMENTO. PRIMEIRA DECISÃO QUE RECONHECEU
+A DISPENSA DISCRIMINATÓRIA. LIMITAÇÃO DA INDENIZAÇÃO A 12
+MESES. PAGAMENTO SIMPLES. PROVIMENTO . O artigo 4º da Lei nº
+9.029/95 assegura ao empregado dispensado por ato discriminatório optar pela
+reintegração, com o ressarcimento integral de todo o período de afastamento
+(inciso I), ou o recebimento de indenização correspondente ao dobro da
+remuneração do período de afastamento (inciso II). Além disso, a indenização
+prevista neste dispositivo corresponde à remuneração do período de afastamento,
+que compreende desde a data da rescisão contratual até a data da primeira decisão
+reconhecendo a dispensa discriminatória, nos termos da Súmula nº 28. A
+aplicação desse verbete jurisprudencial, no caso de dispensa discriminatória, tem
+servido como orientação para fixar o termo final da reparação, como se confere
+em vários precedentes. Na hipótese , em decorrência da dispensa discriminatória
+ocorrida, o Tribunal Regional decidiu " arbitrar a indenização por dano material
+em 12 parcelas remuneratórias, considerando-se a remuneração média dos últimos
+12 meses que antecederam a dispensa " . Assim, a Corte Regional , ao limitar a
+condenação à indenização substitutiva, em decorrência da dispensa
+discriminatória, ao período de 12 meses, e na forma simples, violou o artigo 4º, II,
+da Lei nº 9.029/95 e contrariou a Súmula nº 28. Recurso de revista de que se
+conhece e a que se dá provimento" (RR-500385-29.2014.5.17.0121, 5ª Turma,
+Relator Ministro Guilherme Augusto Caputo Bastos, DEJT 11/10/2018) - grifo
+acrescido.
+O autor foi dispensado depois de completado um ano de seu último retorno de afastamento
+previdenciário, e quando já contava com doze anos de prestação de serviços à reclamada. Mesmo com
+ciência da condição de saúde do empregado, ainda assim a ré optou por dispensá-lo. Preferiu descartar o
+empregado doente e substituí-lo e não produziu qualquer prova de que dispensa decorreu de fatores
+técnicos ou disciplinares, ou qualquer outro fator que indicasse não se tratar de mero descarte do
+empregado com condição estigmatizante.
+Aliás, a defesa afirma que "a dispensa do reclamante está ligada à performance no trabalho,
+que não estava a contento, somado ao fato de redução de custos e reestruturação interna que a empresa
+passava" (fl. 57). O efeito das sequelas deve ser considerado na análise de produtividade do autor.
+Quanto a necessária demonstração de que a dispensa não teve fundamento discriminatório,
+segue decisão do TST, que analisa caso de reclamante portadora da mesma doença grave que acomete o
+autor.
+PJê
+Assinado eletronicamente por: JOAO PAULO GABRIEL DE CASTRO DOURADO - 09/10/2019 18:12 - b02e688
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=1907290848413960000014I6D3.5 0b30926e688 - Pág. 5
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 19072908484139600000146350396
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 23
+Número do documento: 20020418500888500000167321739
+Documento assinado pelo Shodo
+"I - AGRAVO DE INSTRUMENTO DA RECLAMANTE . RECURSO DE
+REVISTA. NULIDADE DA DISPENSA. ATO DISCRIMINATÓRIO. DOENÇA
+GRAVE (LEUCEMIA) . INDENIZAÇÃO POR DANOS MORAIS. Deve ser
+provido o agravo de instrumento por provável contrariedade à Súmula nº 443 do
+TST. Agravo de instrumento a que se dá provimento . II - RECURSO DE
+REVISTA. NULIDADE DA DISPENSA. ATO DISCRIMINATÓRIO. DOENÇA
+GRAVE (LEUCEMIA). INDENIZAÇÃO POR DANOS MORAIS. Embora a
+dispensa sem justa causa seja direito potestativo do empregador, em algumas
+circunstâncias, pode-se configurar o abuso desse direito, principalmente quando o
+empregado é acometido de doença grave. No caso, consta no acórdão do Regional
+que o preposto da reclamada afirmou que " a demissão da reclamante ocorreu
+porque ela não vinha apresentando o mesmo crescimento dos demais gerentes " e
+que no ano de 2007 estava entre os 50% piores gerentes da regional. No entanto,
+também está registrado que o preposto, ao ser reinquirido, confirmou que a
+reclamante atingiu o 1º lugar dentre as agências em 2002 e 3º lugar em 2006 no
+Programa de Objetivos da reclamada. Estabelecido o contexto, não há como
+concluir que apesar de ter apresentado excelentes resultados anteriormente, - tanto
+que ficou em 1º lugar dentre as agências em 2002 e 3º lugar em 2006 no Programa
+de Objetivos da reclamada, sem contar no fato incontroverso de que trabalhou na
+reclamada por trinta e dois anos -, foi demitida por não apresentar o mesmo
+crescimento dos demais gerentes, caracterizando-se como discriminatória a
+dispensa da reclamante, por ser portadora de leucemia (fato incontroverso nos
+autos). Recurso de revista a que se dá parcial provimento "
+(RR-197600-77.2008.5.02.0063, 6ª Turma, Relatora Ministra Kátia Magalhães
+Arruda, DEJT 28/10/2016).
+Diante do exposto, presume-se pelos elementos dos autos que a condição de saúde do autor
+motivou sua dispensa. Trata-se de critério de distinção ilegítimo, violando frontalmente o princípio da
+igualdade. Desse modo, configura dispensa discriminatória.
+Ante o exposto, declaro inválido o ato da dispensa e condeno a parte ré a reintegrar a parte
+autora, nas mesmas condições da data da dispensa, observados eventuais reajustes concedidos
+posteriormente.
+Condeno, ainda, ao pagamento dos salários e demais direitos correspondentes ao período de
+afastamento, vencidos e vincendos, desde a data da dispensa até a data da efetiva reintegração.
+Para que não haja enriquecimento ilícito, autorizo a dedução dos valores rescisórios já
+recebidos pelo trabalhador, incluindo a multa de 40% do FGTS.
+Determinada reintegração em razão da dispensa discriminatória, desnecessário analisar o
+mesmo pedido sob o viés da garantia de emprego em razão do preenchimento da cota destinada à pessoas
+com deficiência.
+Em que pese o autor tenha feito referência, na causa de pedir, a complementação de benefício
+previdenciário, esclareceu em réplica que os pedidos da presente ação dizem respeito apenas à
+reintegração. De todo modo, não há prova de que o autor tenha gozado benefício previdenciário após a
+sua dispensa. Nada a decidir nesse aspecto.
+TUTELA DE URGÊNCIA
+As provas e fundamentos analisados nesta decisão evidenciam a probabilidade do direito.
+Tratando-se de verbas de natureza alimentar, bem como considerando a condição de saúde da
+parte autora, existe perigo de dano irreversível.
+Estão presentes, portanto, os pressupostos que autorizam a concessão de tutela de urgência,
+nos termos do art. 300 do CPC.
+PJê
+Assinado eletronicamente por: JOAO PAULO GABRIEL DE CASTRO DOURADO - 09/10/2019 18:12 - b02e688
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=1907290848413960000014I6D3.5 0b30926e688 - Pág. 6
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 19072908484139600000146350396
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 24
+Número do documento: 20020418500888500000167321739
+Documento assinado pelo Shodo
+Assim, concedo tutela de urgência para determinar que o autor seja reintegrado às funções
+anteriormente desempenhadas (conforme readaptação já realizada) no prazo de 8 dias contados da data da
+publicação desta decisão, sob pena de multa de R$5.000,00.
+JUSTIÇA GRATUITA
+Considerando que o ajuizamento da presente ação se deu em momento anterior à vigência da
+Lei n. 13.467/2017, denominada de Reforma Trabalhista, a análise do requerimento em questão deve ser
+feita de acordo com a redação do art. 790 da CLT vigente no momento da formulação do requerimento,
+ou seja, no ajuizamento da ação, quando a parte autora provocou o Poder Judiciário.
+Nos termos do art. 790, §3º da CLT e súmula n. 463 do TST, basta a simples declaração de
+pobreza ou de impossibilidade de suportar os custos do processo para que a parte faça jus ao benefício da
+justiça gratuita.
+Não há prova que afaste a presunção de veracidade da alegação.
+Defiro o requerimento e concedo à parte reclamante o benefício da justiça gratuita.
+HONORÁRIOS DE ADVOGADO. PERDAS E DANOS
+A despeito da presente sentença ter sido proferida já na vigência da Lei n. 13.467/2017, não
+há falar em aplicação do art. 791-A da CLT ao presente feito. A nova sistemática dos honorários
+advocatícios decorrentes da mera sucumbência, é aplicável, no caso das lides decorrentes das relações de
+emprego, apenas às ações trabalhistas ajuizadas a partir do dia 11/11/2017, data da entrada em vigor da
+referida Lei.
+Pensar diferente seria surpreender o jurisdicionado (decisão surpresa), parte autora e/ou parte
+ré, que, seja quando apresentou petição inicial, seja quando apresentou contestação, o fizeram com base
+na sistemática até então vigente no âmbito da Justiça do trabalho, que exigia, para cabimento de
+honorários advocatícios, no caso das lides decorrentes das relações de emprego, não apenas a mera
+sucumbência, mas também a assistência sindical e a assistência judiciária gratuita (arts. 14 a 16 da Lei n.
+5.584/70; Súmula n. 219, I, do TST), o que não se observou no caso, não estando a parte assistida por
+sindicato.
+Além disso, ainda vigora o jus postulandi, de modo que a contratação de advogado é
+faculdade da parte, não se aplicando o disposto nos art. 389 e 404 do CCB. Nesse sentido, a súmula n. 18
+do TRT2.
+Indefiro o pedido.
+HONORÁRIOS DE PERITO
+Honorários periciais, considerando a complexidade da perícia, no valor de R$3.500,00, a
+cargo da parte reclamada, pois sucumbente no objeto da perícia (art. 790-B da CLT). Havendo depósito
+prévio pela parte reclamada, deverá ser deduzido do valor ora arbitrado.
+DEDUÇÃO
+Autorizo o abatimento dos valores pagos sob igual título àqueles deferidos nesta sentença.
+PJê
+Assinado eletronicamente por: JOAO PAULO GABRIEL DE CASTRO DOURADO - 09/10/2019 18:12 - b02e688
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=1907290848413960000014I6D3.5 0b30926e688 - Pág. 7
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 19072908484139600000146350396
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 25
+Número do documento: 20020418500888500000167321739
+Documento assinado pelo Shodo
+Ressalto que não se trata de compensação, pois não houve comprovação de nenhuma
+obrigação apta a ser extinta em face da posição concomitante de credor e devedor das partes (art. 368 do
+CCB; art. 477, §5º, e art. 767 da CLT).
+BASE DE CÁLCULO DAS VERBAS
+Para o cálculo das verbas e reflexos deferidos na presente decisão, deve ser considerada a
+natureza de cada parcela recebida, na forma do art. 457 da CLT.
+OFÍCIOS
+A própria parte, exercitando seu direito fundamental de petição, pode provocar a atuação dos
+órgãos administrativos indicados, para apuração de irregularidades que alega, sem interveniência do
+Poder Judiciário. Desnecessária, portanto, qualquer determinação deste Juízo.
+JUROS DE MORA. CORREÇÃO MONETÁRIA
+O valor da condenação, parcela a parcela, deverá ser corrigido monetariamente desde a data
+do inadimplemento de cada verba até a do pagamento dos valores devidos, independente da data em que a
+reclamada eventualmente venha a efetuar o depósito da condenação. Sendo assim, para efeito da correção
+monetária, fixa-se o termo inicial no dia do vencimento da obrigação pactuada (artigo 397 do Código
+Civil e Súmula 381 do C. TST).
+Quanto ao índice de atualização, o Pleno do TST, por meio da Arguição de
+Inconstitucionalidade n. 479-60.2011.5.04.0231, declarou inconstitucionalidade da expressão
+"equivalentes à TRD", inscrita no art. 39, "caput", da Lei n. 8.177/91. No mesmo julgamento, definiu o
+IPCA-E como fator de atualização monetária dos débitos trabalhistas. Os fundamentos da declaração de
+inconstitucionalidade alcançam o art. 879, §7º, da CLT, que faz expressa referência à TR e à Lei n.
+8.177/91.
+Assim, e nos termos da modulação fixada na decisão proferida em sede de embargos de
+declaração à arguição de inconstitucionalidade, o IPCA-E incide a partir de 25/03/2015, sendo aplicável o
+"caput" do art. 39 da Lei n. 8.177/91 no período anterior.
+Responderá a reclamada pelo pagamento dos juros de mora até a data do efetivo pagamento
+dos valores devidos, independente da data em que eventualmente venha a efetuar o depósito da
+condenação. Os juros de mora incidirão sobre o valor da condenação já corrigido monetariamente, à base
+de 1% ao mês, de forma simples (não capitalizados), e aplicados pro rata die, a partir da data do
+ajuizamento da ação, nos termos do art. 883 da CLT e do parágrafo 1º do art. 39 da Lei 8.177/91.
+Na eventualidade de haver adimplementos parciais do crédito exequendo, a imputação do
+pagamento deve ser levada a cabo de forma preferencial nos juros de mora, consoante regra do artigo 354
+do Código Civil.
+CONTRIBUIÇÕES PREVIDENCIÁRIAS. IMPOSTO DE RENDA
+Contribuição previdenciária e imposto de renda deverão ser recolhidas pelo empregador e na
+forma da súmula 368 do TST.
+PJê
+Assinado eletronicamente por: JOAO PAULO GABRIEL DE CASTRO DOURADO - 09/10/2019 18:12 - b02e688
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=1907290848413960000014I6D3.5 0b30926e688 - Pág. 8
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 19072908484139600000146350396
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 26
+Número do documento: 20020418500888500000167321739
+Documento assinado pelo Shodo
+O critério de apuração de contribuições previdenciárias encontra-se disciplinado no art. 276,
+§4º, do Decreto n º 3.048/1999, devendo ser calculada mês a mês, aplicando-se as alíquotas previstas no
+art. 198, observado o limite máximo do salário de contribuição.
+Incidirão os descontos previdenciários apenas sobre as verbas que integrem o salário de
+contribuição, conforme art. 28 da Lei 8.212/91.
+O imposto de renda deve incidir sobre o valor das parcelas salariais tributáveis, deduzindo-se
+da base de cálculo a contribuição previdenciária do empregado, devendo ser calculadas, mês a mês, nos
+termos do art. 12-A da Lei n.º 7.713/88 e respectivas instruções normativas da RFB vigentes à época da
+liquidação.
+Atendendo ao disposto no art. 832, §3º, da CLT, indico que não incidem os recolhimentos,
+por sua natureza indenizatória: aviso prévio; férias indenizadas, com 1/3; FGTS e multa de 40%; multa do
+art. 477 da CLT; multa do art. 467 da CLT; compensação por danos morais e materiais; multas
+normativas; astreintes; restituição de descontos; juros de mora (art. 404 do CCB e OJ 400 da SDI1 do
+TST).
+Eventuais hipóteses legais de isenção (entidades beneficentes e congêneres) e modalidades
+diferenciadas de contribuição (Lei 12.546; optantes do simples nacional), deverão ser demonstradas e
+apreciadas em sede de liquidação.
+III - CONCLUSÃO
+Ante o exposto na fundamentação, que integra esta conclusão como se aqui transcrita, decido
+:
+a) Rejeitar as preliminares suscitadas;
+b) Julgar extintas, com resolução de mérito, as pretensões surgidas anteriormente a 3.4.2012,
+nos termos do art. 487, II, do CPC;
+c) Julgar parcialmente procedentes os pedidos para declarar nula a dispensa realizada em
+agosto de 2016 e condenar a IBM BRASIL-INDUSTRIA MAQUINAS E SERVICOS LIMITADA a
+cumprir as seguintes obrigações de pagar:
+- pagamento dos salários e demais direitos correspondentes ao período de
+afastamento, vencidos e vincendos, desde a data da dispensa até a data da efetiva
+reintegração;
+d) Condenar a IBM BRASIL-INDUSTRIA MAQUINAS E SERVICOS LIMITADA a
+cumprir as seguintes obrigações de fazer:
+- reintegrar o autor às funções anteriormente desempenhadas (conforme
+readaptação já realizada) no prazo de 8 dias contados da data da publicação desta
+decisão, sob pena de multa de R$5.000,00.
+ Juros, correção monetária, deduções, recolhimentos previdenciários e fiscais na forma dos
+itens específicos da fundamentação.
+PJê
+Assinado eletronicamente por: JOAO PAULO GABRIEL DE CASTRO DOURADO - 09/10/2019 18:12 - b02e688
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=1907290848413960000014I6D3.5 0b30926e688 - Pág. 9
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 19072908484139600000146350396
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 27
+Número do documento: 20020418500888500000167321739
+Documento assinado pelo Shodo
+Liquidação por simples cálculos.
+Tendo em vista o parágrafo único do art. 26 da Lei 8.036/90, os valores relativos ao
+FGTS+40% deverão ser depositados em conta vinculada do autor.
+Arbitro o valor da condenação em R$400.000,00, sobre o qual serão calculadas
+provisoriamente as custas, à razão de 2%, a encargo da parte reclamada, sujeitas a complementação em
+liquidação, observados os limites máximo e mínimo previsto no art. 789 da CLT.
+Concedido o benefício da justiça gratuita à parte autora.
+Honorários de advogados e peritos na forma da fundamentação.
+Alerto às partes que a oposição de embargos de declaração infundados ensejará a aplicação
+de multa no valor de 2% sobre o valor atualizado da causa, nos termos do art. 1.026, §2º, do CPC.
+Intimem-se as partes.
+JOÃO PAULO GABRIEL DE CASTRO DOURADO
+Juiz do Trabalho
+SAO PAULO,9 de Outubro de 2019
+JOAO PAULO GABRIEL DE CASTRO DOURADO
+Juiz(a) do Trabalho Substituto(a)
+PJê
+Assinado eletronicamente por: JOAO PAULO GABRIEL DE CASTRO DOURADO - 09/10/2019 18:12 - b02e688
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=190729084841396000001I4D63. 5b003296e688 - Pág. 10
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 19072908484139600000146350396
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 28
+Número do documento: 20020418500888500000167321739
+Documento assinado pelo Shodo
+PODER JUDICIÁRIO ||| JUSTIÇA DO TRABALHO
+TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO
+36ª Vara do Trabalho de São Paulo ||| ATOrd 1000555-17.2017.5.02.0036
+RECLAMANTE: CLAUDIO ROBERTO BAPTISTA PETRONE
+RECLAMADO: IBM BRASIL-INDUSTRIA MAQUINAS E SERVICOS LIMITADA
+SENTENÇA
+I - RELATÓRIO
+CLAUDIO ROBERTO BAPTISTA PETRONE ajuizou reclamação trabalhista contra IBM
+BRASIL-INDUSTRIA MAQUINAS E SERVICOS LIMITADA, formulando as pretensões elencadas na
+petição inicial.
+Juntou documentos. Requereu o benefício da justiça gratuita. Atribuiu à causa o valor de
+R$50.000,00.
+O polo reclamado apresentou defesa escrita. Juntou documentos.
+Apresentado laudo pericial.
+Não foi colhida prova oral.
+Razões finais apresentadas ou remissivas.
+Infrutíferas as tentativas de conciliação.
+É o relatório.
+II - FUNDAMENTAÇÃO
+INÉPCIA
+Em consonância com a simplicidade do processo laboral, o art. 840 da CLT exige apenas um
+breve relato dos fatos e o pedido. Basta que estes sejam compatíveis entre si e não prejudiquem o direito
+de defesa.
+A exigência de indicação de valor (art. 818, §1º, da CLT), seguindo a diretriz da
+simplicidade, envolve apenas a estimativa do valor de cada pedido, não havendo necessidade de sua
+indicação exata ou apresentação de planilha de cálculos, e não implicando, por isso, limitação "a priori"
+ao valor da condenação.
+O relato dos fatos que a reclamada entende incompleto ou controverso não produz, por si só,
+inépcia dos pedidos, e a adequação entre fatos e normas deve ser avaliada no mérito. Nesse sentido, não
+se verifica inépcia pela simples narrativa de fatos relacionados pelo autor a complementação de benefício,
+PJê
+Assinado eletronicamente por: JOAO PAULO GABRIEL DE CASTRO DOURADO - 09/10/2019 18:12 - 5221a71
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=1910091812400790000015I4D9.6 15021251a71 - Pág. 1
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 19100918124007900000154961015
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 29
+Número do documento: 20020418500888500000167321739
+Documento assinado pelo Shodo
+cota de vagas destinadas à pessoas com deficiência e sua relação com a alegação de dispensa
+discriminatória.
+A forma como expostos os pedidos não impediu o exercício do direito de defesa.
+A análise dos fundamentos fáticos e jurídicos dos pedidos, bem como do ônus e valoração da
+prova, deverá ser realizada eventualmente no mérito.
+Rejeito.
+COISA JULGADA
+Incontroverso que o autor propôs ação anterior (proc. 00024362920135020087, que tramitou
+na 87ª VT/SP), relacionada ao mesmo contrato de trabalho, que foi julgada improcedente - como, aliás, o
+autor informa na inicial.
+A reclamada afirma haver coisa julgada quanto aos pedidos de complementação de benefício
+previdenciário e de reconhecimento de dispensa discriminatória.
+Em réplica, o autor repisa que a presente ação trata apenas dos fatos relacionados à segunda
+dispensa, ocorrida em 2016, e posterior aos fatos tratados na ação já julgada, e que os pedidos ora em
+análise restringem-se aos pleitos de reconhecimento de estabilidade por aplicação da lei de cotas, e por
+dispensa discriminatória em razão de doença estigmatizante (fl. 624).
+Trata-se, portanto, de fatos ocorridos após a decisão proferida na ação anterior, e por ela não
+analisados.
+Rejeito.
+PRESCRIÇÃO QUINQUENAL
+Ajuizada a ação em 3.4.2017, estão prescritas as pretensões surgidas anteriormente a
+3.4.2012 (art. 7º, XXIX, CRFB; art. 11, CLT).
+Desse modo, julgo-as extintas com resolução de mérito, nos termos do art. 487, II, do CPC.
+ESTABILIDADE - COTA E DISPENSA DISCRIMINATÓRIA
+O autor narra, em síntese, ter sofrido AVC em 2006, que lhe deixou sequelas, após período de
+afastamento; que foi vítima de perseguição na reclamada, avaliado negativamente sem considerar-se a sua
+condição de saúde; que foi dispensado em 2013, mas imediatamente reintegrado, em razão de
+incapacidade parcial para o trabalho; que foi novamente afastado do labor, e diagnosticado com leucemia;
+que após retornar de afastamento foi dispensado, quando havia incapacidade para o labor, em agosto de
+2016.
+Pleiteia sua reintegração ao emprego, com dois fundamentos: o cumprimento, pela reclamada,
+da cota de vagas destinadas a pessoas com deficiência, e a alegada dispensa discriminatória, em razão de
+sua incapacidade.
+A reclamada afirma que alguns pedidos - especialmente a alegação de dispensa
+discriminatória - foram analisados em ação anterior; que o caso não é de doença ocupacional e, por esse
+motivo, não há estabilidade a ser reconhecida; que contratou empregado PCD após a dispensa do autor,
+cumprindo a cota, e que não houve dispensa discriminatória, pois o reclamante estava apto para o labor
+quando dispensado em 2016.
+PJê
+Assinado eletronicamente por: JOAO PAULO GABRIEL DE CASTRO DOURADO - 09/10/2019 18:12 - 5221a71
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=1910091812400790000015I4D9.6 15021251a71 - Pág. 2
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 19100918124007900000154961015
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 30
+Número do documento: 20020418500888500000167321739
+Documento assinado pelo Shodo
+O autor distribuiu ação anterior, e nela, de fato, constou pedido de reconhecimento de
+dispensa discriminatória, que foi rejeitado. Ocorre que a dispensa analisada naqueles autos foi a intentada
+em 2013, enquanto nestes autos debate-se a dispensa realizada em 2016. Assim, não se trata do mesmo
+fundamento fático, como já anotado no tópico referente à alegação de coisa julgada.
+Realizada perícia para apuração de incapacidade à época da dispensa, conclui o perito que o
+autor sofre de
+"doença cerebrovascular aguda (CID: I64), sequelas de doença cerebrovascular
+(CID: I69) e leucemia mieloide crônica (CID: C91). - fl. 770
+Caracterizadas restrições/limitações parciais e permanentes para atividades que
+deambulação excessiva, permanecer de pé por longos períodos, movimentos com
+o membro superior direito e situações desfavoráveis.
+Considerando-se o retorno ao trabalho em 17/08/2006 - restrições/limitações
+parciais e permanentes caracterizadas nesta data, tendo prognóstico favorável ao
+retorno ao trabalho em consonância aos registros e enquadramento como portador
+de deficiência e readaptação na mesma função.
+Sequelas parciais e permanentes estimadas em 70% pelo quadro apresentado.
+Sendo que para a função exercida, pela perda da função do membro superior
+direito caracterizada restrição funcional de 50%.
+Não foi estabelecido o nexo causal nem concausal do quadro com as atividades no
+reclamado.
+(...)
+A paralisia irreversível e incapacitante no membro superior direito (cotovelo e
+mão) + parcial do membro inferior direito, e o quadro de leucemia diagnosticada
+em 2012 são definidas como
+doença grave nos termos da lei 7713/88.
+7) Não foi caracterizada inaptidão para as atividades na época da demissão -
+03/08/2016 (fls. 784/785)".
+Assim, em que pese a existência de sequelas parciais e permanentes, e a existência de doença
+grave que acomete o autor, o perito concluiu que, quando realizada a dispensa em agosto de 2016, ele não
+estava incapacitado para o exercício das suas funções. No entanto, havia restrição para o exercício de suas
+funções, em razão de paralisia irreversível e incapacitante de mão e cotovelo direitos (sendo que o autor é
+destro), paralisia parcial do membro inferior direito, além da leucemia diagnosticada em 2012, que é
+considerada doença grave nos termos da Lei 7713/88.
+É certo que o juiz não está adstrito às conclusões do laudo pericial, podendo, nos termos do
+art. 479 do CPC, deixar de considerá-las pelo cotejo com os demais elementos dos autos. Contudo, não há
+outras provas que permitam afastar a conclusão do laudo. Assim, a tese pericial é suficientemente
+fundamentada, merecendo ser acolhida pelo juízo.
+Portanto, em que pese não tenha sido constatada incapacidade para o labor (em geral), mas
+apenas parcial para a função desenvolvida, quando o autor foi dispensado em agosto de 2016, ele estava
+acometido de sequelas permanentes (que promovem estigma social e preconceito: paralisação de cotovelo
+e mão direitos) e de doença grave, fatores que certamente interferem na possibilidade de nova colocação
+profissional.
+Noto, ainda, que o autor contava com quase 57 anos quando dispensado, e não consta que
+tenha conseguido obter benefício de aposentadoria.
+Conforme entendimento consubstanciado na súmula n. 443 do TST, presume-se
+discriminatória a despedida de empregado com vírus HIV ou portador de doença grave que suscite
+estigma ou preconceito.
+PJê
+Assinado eletronicamente por: JOAO PAULO GABRIEL DE CASTRO DOURADO - 09/10/2019 18:12 - 5221a71
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=1910091812400790000015I4D9.6 15021251a71 - Pág. 3
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 19100918124007900000154961015
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 31
+Número do documento: 20020418500888500000167321739
+Documento assinado pelo Shodo
+Nesses casos, o empregador tem o ônus de demonstrar que o ato de dispensa não teve relação
+com a doença do empregado.
+Não se desincumbindo desse ônus, o ato de dispensa é inválido, e tem o trabalhador direito à
+reintegração no emprego.
+Além disso, incidirá o disposto na Lei n. 9.029/95 que dispõe sobre práticas discriminatórias
+na relação jurídica de trabalho.
+Prevê o art. 1º da referida lei:
+Art. 1º. É proibida a adoção de qualquer prática discriminatória e limitativa para
+efeito de acesso à relação de trabalho, ou de sua manutenção, por motivo de sexo,
+origem, raça, cor, estado civil, situação familiar, deficiência, reabilitação
+profissional, idade, entre outros, ressalvadas, nesse caso, as hipóteses de proteção à
+criança e ao adolescente previstas no inciso XXXIII do art. 7o da Constituição
+Federal.
+Por seu turno, dispõe o art. 4º:
+Art. 4º. O rompimento da relação de trabalho por ato discriminatório, nos moldes
+desta Lei, além do direito à reparação pelo dano moral, faculta ao empregado
+optar entre:
+I - a reintegração com ressarcimento integral de todo o período de afastamento,
+mediante pagamento das remunerações devidas, corrigidas monetariamente e
+acrescidas de juros legais;
+II - a percepção, em dobro, da remuneração do período de afastamento, corrigida
+monetariamente e acrescida dos juros legais.
+Note-se que a lei prevê expressamente que a indenização pelo período de afastamento, seja
+simples ou em dobro, não se compensa com eventual valor devido a título de compensação por dano
+moral decorrente do ato discriminatório.
+Como registrado acima, o autor foi dispensado quando em tratamento de leucemia, e portador
+de sequelas permanentes.
+A referida súmula não delimita quais doenças devem ser consideradas "graves" para fins de
+sua aplicação. Trata-se, portanto, de conceito aberto, a ser analisado caso a caso. A situação do autor
+amolda-se à hipótese da súmula. Nesse sentido, veja-se decisão do TST:
+"AGRAVO DE INSTRUMENTO DA RECLAMADA PRESUNÇÃO DA
+DISPENSA DISCRIMINATÓRIA. DOENÇA GRAVE. CONTRARIEDADE À
+SÚMULA Nº 443. PROVIMENTO . Diante de possível contrariedade à Súmula
+nº 443, o processamento do recurso de revista é medida que se impõe. Agravo de
+instrumento a que se dá provimento, ficando sobrestado o julgamento do recurso
+de revista do reclamante. RECURSO DE REVISTA DA RECLAMADA
+PRESUNÇÃO DA DISPENSA DISCRIMINATÓRIA. DOENÇA GRAVE.
+CONTRARIEDADE À SÚMULA Nº 443. PROCTITE CRÔNICA ULCERADA.
+NÃO CONHECIMENTO. Segundo o entendimento preconizado na Súmula nº
+443, "Presume-se discriminatória a despedida de empregado portador do vírus
+HIV ou de outra doença grave que suscite estigma ou preconceito. Inválido o ato,
+o empregado tem direito à reintegração no emprego". Esse verbete jurisprudencial
+não especifica quais doenças serão consideradas graves para fins de aplicação da
+presunção nela preconizada, cabendo ao julgador examinar o caso concreto. É
+cediço que esta colenda Corte tem reconhecido como "doença grave", para fins de
+aplicação do entendimento consubstanciado na referida súmula, não só aquelas
+PJê
+Assinado eletronicamente por: JOAO PAULO GABRIEL DE CASTRO DOURADO - 09/10/2019 18:12 - 5221a71
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=1910091812400790000015I4D9.6 15021251a71 - Pág. 4
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 19100918124007900000154961015
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 32
+Número do documento: 20020418500888500000167321739
+Documento assinado pelo Shodo
+previstas em texto de lei, a exemplo do preceito insculpido no artigo 6º, XIV, da
+Lei nº 7.713/88, ou de normativos como a Portaria Interministerial MPAS/MS nº
+2.998/2001, citada pela reclamada. Tem-se que o conteúdo essencial do aludido
+verbete não é classificar a doença, mas sim proteger o empregado que venha a ser
+discriminado no ambiente de trabalho pelo fato de ser portador de doença. Desse
+modo, o determinante é que a doença seja capaz de suscitar estigma ou
+preconceito. Na hipótese, o Tribunal Regional assinalou que o reclamante foi
+diagnosticado com proctite crônica ulcerada e inespecífica, da qual resultou
+"realização de procedimento cirúrgico para a extração de praticamente a totalidade
+do seu intestino grosso. Indene de dúvida que este tipo de enfermidade além de
+um desconforto físico e social, constrangeu o autor em seu ambiente de trabalho,
+sendo alvo de 'brincadeiras' preconceituosas e desrespeitosas por parte dos demais
+colegas de trabalho." (fl. 242). E ainda, consta do acórdão: "Assim, presume-se
+discriminatória a despedida, a qual somente pode ser afastada se houver prova
+concludente e decisiva em contrário, o que não veio aos autos, qual seja, a de que
+tenha sido dispensado todos os demais empregados envolvidos no trabalho
+realizado em Imperatriz - MA, em razão do fim da atividade laborativa lá
+desenvolvida." (fl. 242). Portanto, não há contrariedade à Súmula nº 443, tendo
+em vista que a reclamada tinha conhecimento que o reclamante era portador de
+doença grave, a qual demandava cuidados, razão pela qual se presume
+discriminatória a sua dispensa. Recurso de revista de que não se conhece.
+RECURSO DE REVISTA DO RECLAMANTE DISPENSA
+DISCRIMINATÓRIA. INDENIZAÇÃO DOBRADA. TERMO FINAL DO
+PERÍODO DE AFASTAMENTO. PRIMEIRA DECISÃO QUE RECONHECEU
+A DISPENSA DISCRIMINATÓRIA. LIMITAÇÃO DA INDENIZAÇÃO A 12
+MESES. PAGAMENTO SIMPLES. PROVIMENTO . O artigo 4º da Lei nº
+9.029/95 assegura ao empregado dispensado por ato discriminatório optar pela
+reintegração, com o ressarcimento integral de todo o período de afastamento
+(inciso I), ou o recebimento de indenização correspondente ao dobro da
+remuneração do período de afastamento (inciso II). Além disso, a indenização
+prevista neste dispositivo corresponde à remuneração do período de afastamento,
+que compreende desde a data da rescisão contratual até a data da primeira decisão
+reconhecendo a dispensa discriminatória, nos termos da Súmula nº 28. A
+aplicação desse verbete jurisprudencial, no caso de dispensa discriminatória, tem
+servido como orientação para fixar o termo final da reparação, como se confere
+em vários precedentes. Na hipótese , em decorrência da dispensa discriminatória
+ocorrida, o Tribunal Regional decidiu " arbitrar a indenização por dano material
+em 12 parcelas remuneratórias, considerando-se a remuneração média dos últimos
+12 meses que antecederam a dispensa " . Assim, a Corte Regional , ao limitar a
+condenação à indenização substitutiva, em decorrência da dispensa
+discriminatória, ao período de 12 meses, e na forma simples, violou o artigo 4º, II,
+da Lei nº 9.029/95 e contrariou a Súmula nº 28. Recurso de revista de que se
+conhece e a que se dá provimento" (RR-500385-29.2014.5.17.0121, 5ª Turma,
+Relator Ministro Guilherme Augusto Caputo Bastos, DEJT 11/10/2018) - grifo
+acrescido.
+O autor foi dispensado depois de completado um ano de seu último retorno de afastamento
+previdenciário, e quando já contava com doze anos de prestação de serviços à reclamada. Mesmo com
+ciência da condição de saúde do empregado, ainda assim a ré optou por dispensá-lo. Preferiu descartar o
+empregado doente e substituí-lo e não produziu qualquer prova de que dispensa decorreu de fatores
+técnicos ou disciplinares, ou qualquer outro fator que indicasse não se tratar de mero descarte do
+empregado com condição estigmatizante.
+Aliás, a defesa afirma que "a dispensa do reclamante está ligada à performance no trabalho,
+que não estava a contento, somado ao fato de redução de custos e reestruturação interna que a empresa
+passava" (fl. 57). O efeito das sequelas deve ser considerado na análise de produtividade do autor.
+Quanto a necessária demonstração de que a dispensa não teve fundamento discriminatório,
+segue decisão do TST, que analisa caso de reclamante portadora da mesma doença grave que acomete o
+autor.
+PJê
+Assinado eletronicamente por: JOAO PAULO GABRIEL DE CASTRO DOURADO - 09/10/2019 18:12 - 5221a71
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=1910091812400790000015I4D9.6 15021251a71 - Pág. 5
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 19100918124007900000154961015
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 33
+Número do documento: 20020418500888500000167321739
+Documento assinado pelo Shodo
+"I - AGRAVO DE INSTRUMENTO DA RECLAMANTE . RECURSO DE
+REVISTA. NULIDADE DA DISPENSA. ATO DISCRIMINATÓRIO. DOENÇA
+GRAVE (LEUCEMIA) . INDENIZAÇÃO POR DANOS MORAIS. Deve ser
+provido o agravo de instrumento por provável contrariedade à Súmula nº 443 do
+TST. Agravo de instrumento a que se dá provimento . II - RECURSO DE
+REVISTA. NULIDADE DA DISPENSA. ATO DISCRIMINATÓRIO. DOENÇA
+GRAVE (LEUCEMIA). INDENIZAÇÃO POR DANOS MORAIS. Embora a
+dispensa sem justa causa seja direito potestativo do empregador, em algumas
+circunstâncias, pode-se configurar o abuso desse direito, principalmente quando o
+empregado é acometido de doença grave. No caso, consta no acórdão do Regional
+que o preposto da reclamada afirmou que " a demissão da reclamante ocorreu
+porque ela não vinha apresentando o mesmo crescimento dos demais gerentes " e
+que no ano de 2007 estava entre os 50% piores gerentes da regional. No entanto,
+também está registrado que o preposto, ao ser reinquirido, confirmou que a
+reclamante atingiu o 1º lugar dentre as agências em 2002 e 3º lugar em 2006 no
+Programa de Objetivos da reclamada. Estabelecido o contexto, não há como
+concluir que apesar de ter apresentado excelentes resultados anteriormente, - tanto
+que ficou em 1º lugar dentre as agências em 2002 e 3º lugar em 2006 no Programa
+de Objetivos da reclamada, sem contar no fato incontroverso de que trabalhou na
+reclamada por trinta e dois anos -, foi demitida por não apresentar o mesmo
+crescimento dos demais gerentes, caracterizando-se como discriminatória a
+dispensa da reclamante, por ser portadora de leucemia (fato incontroverso nos
+autos). Recurso de revista a que se dá parcial provimento "
+(RR-197600-77.2008.5.02.0063, 6ª Turma, Relatora Ministra Kátia Magalhães
+Arruda, DEJT 28/10/2016).
+Diante do exposto, presume-se pelos elementos dos autos que a condição de saúde do autor
+motivou sua dispensa. Trata-se de critério de distinção ilegítimo, violando frontalmente o princípio da
+igualdade. Desse modo, configura dispensa discriminatória.
+Ante o exposto, declaro inválido o ato da dispensa e condeno a parte ré a reintegrar a parte
+autora, nas mesmas condições da data da dispensa, observados eventuais reajustes concedidos
+posteriormente.
+Condeno, ainda, ao pagamento dos salários e demais direitos correspondentes ao período de
+afastamento, vencidos e vincendos, desde a data da dispensa até a data da efetiva reintegração.
+Para que não haja enriquecimento ilícito, autorizo a dedução dos valores rescisórios já
+recebidos pelo trabalhador, incluindo a multa de 40% do FGTS.
+Determinada reintegração em razão da dispensa discriminatória, desnecessário analisar o
+mesmo pedido sob o viés da garantia de emprego em razão do preenchimento da cota destinada à pessoas
+com deficiência.
+Em que pese o autor tenha feito referência, na causa de pedir, a complementação de benefício
+previdenciário, esclareceu em réplica que os pedidos da presente ação dizem respeito apenas à
+reintegração. De todo modo, não há prova de que o autor tenha gozado benefício previdenciário após a
+sua dispensa. Nada a decidir nesse aspecto.
+TUTELA DE URGÊNCIA
+As provas e fundamentos analisados nesta decisão evidenciam a probabilidade do direito.
+Tratando-se de verbas de natureza alimentar, bem como considerando a condição de saúde da
+parte autora, existe perigo de dano irreversível.
+Estão presentes, portanto, os pressupostos que autorizam a concessão de tutela de urgência,
+nos termos do art. 300 do CPC.
+PJê
+Assinado eletronicamente por: JOAO PAULO GABRIEL DE CASTRO DOURADO - 09/10/2019 18:12 - 5221a71
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=1910091812400790000015I4D9.6 15021251a71 - Pág. 6
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 19100918124007900000154961015
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 34
+Número do documento: 20020418500888500000167321739
+Documento assinado pelo Shodo
+Assim, concedo tutela de urgência para determinar que o autor seja reintegrado às funções
+anteriormente desempenhadas (conforme readaptação já realizada) no prazo de 8 dias contados da data da
+publicação desta decisão, sob pena de multa de R$5.000,00.
+JUSTIÇA GRATUITA
+Considerando que o ajuizamento da presente ação se deu em momento anterior à vigência da
+Lei n. 13.467/2017, denominada de Reforma Trabalhista, a análise do requerimento em questão deve ser
+feita de acordo com a redação do art. 790 da CLT vigente no momento da formulação do requerimento,
+ou seja, no ajuizamento da ação, quando a parte autora provocou o Poder Judiciário.
+Nos termos do art. 790, §3º da CLT e súmula n. 463 do TST, basta a simples declaração de
+pobreza ou de impossibilidade de suportar os custos do processo para que a parte faça jus ao benefício da
+justiça gratuita.
+Não há prova que afaste a presunção de veracidade da alegação.
+Defiro o requerimento e concedo à parte reclamante o benefício da justiça gratuita.
+HONORÁRIOS DE ADVOGADO. PERDAS E DANOS
+A despeito da presente sentença ter sido proferida já na vigência da Lei n. 13.467/2017, não
+há falar em aplicação do art. 791-A da CLT ao presente feito. A nova sistemática dos honorários
+advocatícios decorrentes da mera sucumbência, é aplicável, no caso das lides decorrentes das relações de
+emprego, apenas às ações trabalhistas ajuizadas a partir do dia 11/11/2017, data da entrada em vigor da
+referida Lei.
+Pensar diferente seria surpreender o jurisdicionado (decisão surpresa), parte autora e/ou parte
+ré, que, seja quando apresentou petição inicial, seja quando apresentou contestação, o fizeram com base
+na sistemática até então vigente no âmbito da Justiça do trabalho, que exigia, para cabimento de
+honorários advocatícios, no caso das lides decorrentes das relações de emprego, não apenas a mera
+sucumbência, mas também a assistência sindical e a assistência judiciária gratuita (arts. 14 a 16 da Lei n.
+5.584/70; Súmula n. 219, I, do TST), o que não se observou no caso, não estando a parte assistida por
+sindicato.
+Além disso, ainda vigora o jus postulandi, de modo que a contratação de advogado é
+faculdade da parte, não se aplicando o disposto nos art. 389 e 404 do CCB. Nesse sentido, a súmula n. 18
+do TRT2.
+Indefiro o pedido.
+HONORÁRIOS DE PERITO
+Honorários periciais, considerando a complexidade da perícia, no valor de R$3.500,00, a
+cargo da parte reclamada, pois sucumbente no objeto da perícia (art. 790-B da CLT). Havendo depósito
+prévio pela parte reclamada, deverá ser deduzido do valor ora arbitrado.
+DEDUÇÃO
+Autorizo o abatimento dos valores pagos sob igual título àqueles deferidos nesta sentença.
+PJê
+Assinado eletronicamente por: JOAO PAULO GABRIEL DE CASTRO DOURADO - 09/10/2019 18:12 - 5221a71
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=1910091812400790000015I4D9.6 15021251a71 - Pág. 7
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 19100918124007900000154961015
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 35
+Número do documento: 20020418500888500000167321739
+Documento assinado pelo Shodo
+Ressalto que não se trata de compensação, pois não houve comprovação de nenhuma
+obrigação apta a ser extinta em face da posição concomitante de credor e devedor das partes (art. 368 do
+CCB; art. 477, §5º, e art. 767 da CLT).
+BASE DE CÁLCULO DAS VERBAS
+Para o cálculo das verbas e reflexos deferidos na presente decisão, deve ser considerada a
+natureza de cada parcela recebida, na forma do art. 457 da CLT.
+OFÍCIOS
+A própria parte, exercitando seu direito fundamental de petição, pode provocar a atuação dos
+órgãos administrativos indicados, para apuração de irregularidades que alega, sem interveniência do
+Poder Judiciário. Desnecessária, portanto, qualquer determinação deste Juízo.
+JUROS DE MORA. CORREÇÃO MONETÁRIA
+O valor da condenação, parcela a parcela, deverá ser corrigido monetariamente desde a data
+do inadimplemento de cada verba até a do pagamento dos valores devidos, independente da data em que a
+reclamada eventualmente venha a efetuar o depósito da condenação. Sendo assim, para efeito da correção
+monetária, fixa-se o termo inicial no dia do vencimento da obrigação pactuada (artigo 397 do Código
+Civil e Súmula 381 do C. TST).
+Quanto ao índice de atualização, o Pleno do TST, por meio da Arguição de
+Inconstitucionalidade n. 479-60.2011.5.04.0231, declarou inconstitucionalidade da expressão
+"equivalentes à TRD", inscrita no art. 39, "caput", da Lei n. 8.177/91. No mesmo julgamento, definiu o
+IPCA-E como fator de atualização monetária dos débitos trabalhistas. Os fundamentos da declaração de
+inconstitucionalidade alcançam o art. 879, §7º, da CLT, que faz expressa referência à TR e à Lei n.
+8.177/91.
+Assim, e nos termos da modulação fixada na decisão proferida em sede de embargos de
+declaração à arguição de inconstitucionalidade, o IPCA-E incide a partir de 25/03/2015, sendo aplicável o
+"caput" do art. 39 da Lei n. 8.177/91 no período anterior.
+Responderá a reclamada pelo pagamento dos juros de mora até a data do efetivo pagamento
+dos valores devidos, independente da data em que eventualmente venha a efetuar o depósito da
+condenação. Os juros de mora incidirão sobre o valor da condenação já corrigido monetariamente, à base
+de 1% ao mês, de forma simples (não capitalizados), e aplicados pro rata die, a partir da data do
+ajuizamento da ação, nos termos do art. 883 da CLT e do parágrafo 1º do art. 39 da Lei 8.177/91.
+Na eventualidade de haver adimplementos parciais do crédito exequendo, a imputação do
+pagamento deve ser levada a cabo de forma preferencial nos juros de mora, consoante regra do artigo 354
+do Código Civil.
+CONTRIBUIÇÕES PREVIDENCIÁRIAS. IMPOSTO DE RENDA
+Contribuição previdenciária e imposto de renda deverão ser recolhidas pelo empregador e na
+forma da súmula 368 do TST.
+PJê
+Assinado eletronicamente por: JOAO PAULO GABRIEL DE CASTRO DOURADO - 09/10/2019 18:12 - 5221a71
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=1910091812400790000015I4D9.6 15021251a71 - Pág. 8
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 19100918124007900000154961015
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 36
+Número do documento: 20020418500888500000167321739
+Documento assinado pelo Shodo
+O critério de apuração de contribuições previdenciárias encontra-se disciplinado no art. 276,
+§4º, do Decreto n º 3.048/1999, devendo ser calculada mês a mês, aplicando-se as alíquotas previstas no
+art. 198, observado o limite máximo do salário de contribuição.
+Incidirão os descontos previdenciários apenas sobre as verbas que integrem o salário de
+contribuição, conforme art. 28 da Lei 8.212/91.
+O imposto de renda deve incidir sobre o valor das parcelas salariais tributáveis, deduzindo-se
+da base de cálculo a contribuição previdenciária do empregado, devendo ser calculadas, mês a mês, nos
+termos do art. 12-A da Lei n.º 7.713/88 e respectivas instruções normativas da RFB vigentes à época da
+liquidação.
+Atendendo ao disposto no art. 832, §3º, da CLT, indico que não incidem os recolhimentos,
+por sua natureza indenizatória: aviso prévio; férias indenizadas, com 1/3; FGTS e multa de 40%; multa do
+art. 477 da CLT; multa do art. 467 da CLT; compensação por danos morais e materiais; multas
+normativas; astreintes; restituição de descontos; juros de mora (art. 404 do CCB e OJ 400 da SDI1 do
+TST).
+Eventuais hipóteses legais de isenção (entidades beneficentes e congêneres) e modalidades
+diferenciadas de contribuição (Lei 12.546; optantes do simples nacional), deverão ser demonstradas e
+apreciadas em sede de liquidação.
+III - CONCLUSÃO
+Ante o exposto na fundamentação, que integra esta conclusão como se aqui transcrita, decido
+:
+a) Rejeitar as preliminares suscitadas;
+b) Julgar extintas, com resolução de mérito, as pretensões surgidas anteriormente a 3.4.2012,
+nos termos do art. 487, II, do CPC;
+c) Julgar parcialmente procedentes os pedidos para declarar nula a dispensa realizada em
+agosto de 2016 e condenar a IBM BRASIL-INDUSTRIA MAQUINAS E SERVICOS LIMITADA a
+cumprir as seguintes obrigações de pagar:
+- pagamento dos salários e demais direitos correspondentes ao período de
+afastamento, vencidos e vincendos, desde a data da dispensa até a data da efetiva
+reintegração;
+d) Condenar a IBM BRASIL-INDUSTRIA MAQUINAS E SERVICOS LIMITADA a
+cumprir as seguintes obrigações de fazer:
+- reintegrar o autor às funções anteriormente desempenhadas (conforme
+readaptação já realizada) no prazo de 8 dias contados da data da publicação desta
+decisão, sob pena de multa de R$5.000,00.
+ Juros, correção monetária, deduções, recolhimentos previdenciários e fiscais na forma dos
+itens específicos da fundamentação.
+PJê
+Assinado eletronicamente por: JOAO PAULO GABRIEL DE CASTRO DOURADO - 09/10/2019 18:12 - 5221a71
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=1910091812400790000015I4D9.6 15021251a71 - Pág. 9
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 19100918124007900000154961015
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 37
+Número do documento: 20020418500888500000167321739
+Documento assinado pelo Shodo
+Liquidação por simples cálculos.
+Tendo em vista o parágrafo único do art. 26 da Lei 8.036/90, os valores relativos ao
+FGTS+40% deverão ser depositados em conta vinculada do autor.
+Arbitro o valor da condenação em R$400.000,00, sobre o qual serão calculadas
+provisoriamente as custas, à razão de 2%, a encargo da parte reclamada, sujeitas a complementação em
+liquidação, observados os limites máximo e mínimo previsto no art. 789 da CLT.
+Concedido o benefício da justiça gratuita à parte autora.
+Honorários de advogados e peritos na forma da fundamentação.
+Alerto às partes que a oposição de embargos de declaração infundados ensejará a aplicação
+de multa no valor de 2% sobre o valor atualizado da causa, nos termos do art. 1.026, §2º, do CPC.
+Intimem-se as partes.
+JOÃO PAULO GABRIEL DE CASTRO DOURADO
+Juiz do Trabalho
+SAO PAULO,9 de Outubro de 2019
+JOAO PAULO GABRIEL DE CASTRO DOURADO
+Juiz(a) do Trabalho Substituto(a)
+PJê
+Assinado eletronicamente por: JOAO PAULO GABRIEL DE CASTRO DOURADO - 09/10/2019 18:12 - 5221a71
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=191009181240079000001I5D49. 651202151a71 - Pág. 10
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 19100918124007900000154961015
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 38
+Número do documento: 20020418500888500000167321739
+Documento assinado  pelo Shodo
+RAYES&: FAGUNDES 20
+EXCELENTÍSSIMO SENHOR DOUTOR JUIZ DO TRABALHO DA 36ª VARA
+DO TRABALHO DE SÃO PAULO/SP – BARRA FUNDA (TRT DA 2ª REGIÃO)
+Processo nº 1000555-17.2017.5.02.0036
+Ref.: Recurso Ordinário
+IBM BRASIL – INDÚSTRIA, MÁQUINAS E SERVIÇOS LTDA., já
+qualificada nos autos da Reclamação Trabalhista que lhe move CLÁUDIO
+ROBERTO BAPTISTA PETRONE, vem, à presença de Vossa Excelência, a teor do
+artigo 895, da CLT, interpor Recurso Ordinário, requerendo se digne a recebê-lo,
+processá-lo e encaminhá-lo ao Tribunal ad quem para julgamento.
+O Recurso Ordinário é tempestivo, visto que a r. sentença foi publicada no
+dia 11/10/2018, de modo que o prazo se iniciou no dia 14/10/2018 e finda em
+23/10/2018, considerando a contagem somente em dias úteis.
+O preparo está satisfeito, conforme comprovantes de pagamento anexos,
+de depósito recursal, de R$ 9.828,51, e custas processuais, de R$ 8.000,00.
+O recurso é apresentado por meio do sistema de peticionamento
+eletrônico, portanto, requer-se a observância do disposto na Lei nº 11.419/2006:
+“Art. 11. Os documentos produzidos eletronicamente e juntados aos
+processos eletrônicos com garantia da origem e de seu signatário, na
+forma estabelecida nesta Lei, serão considerados originais para todos os
+efeitos legais.
+www.rfaa.com.br
+São Paulo ” Rio de Janeiro “ Campinas e São Bernardo do Campo
++55 (11) 3050-2150 +55 (21) 2221-5470 +55 (19) 3291-8005 +55 (11) 4550-5121
+PJê
+Assinado eletronicamente por: JOÃO PAULO FOGAÇA DE ALMEIDA FAGUNDES - 23/10/2019 16:44 - acddbfb
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=1910231643401520000015I6D66. 8a5c1d9dbfb - Pág. 1
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 19102316434015200000156668519
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 39
+Número do documento: 20020418500888500000167321739
+Documento assinado  pelo Shodo
+RAYES&: FAGUNDES 20
+§ 1º. Os extratos digitais e os documentos digitalizados e juntados aos
+autos pelos órgãos da Justiça e seus auxiliares, pelo Ministério Público e
+seus auxiliares, pelas procuradorias, pelas autoridades policiais, pelas
+repartições públicas em geral e por advogados públicos e privados têm a
+mesma força probante dos originais, ressalvada a alegação motivada e
+fundamentada de adulteração antes ou durante o processo de
+digitalização.”
+Com base no artigo 11, § 1º, da Lei n.º 11.419/2006 c/c o artigo 7º, da
+Instrução Normativa nº 30, do C. TST, reserva-se a Recorrente ao direito de não
+apresentar os originais das guias juntadas eletronicamente. Contudo, requer a concessão
+de prazo para tanto na hipótese de referidas guias, muito embora legíveis quando da
+transmissão eletrônica do apelo, sejam recebidas ilegíveis pelo órgão ad quem.
+A guia de depósito recursal é juntada digitalizada, sendo declarada
+autêntica pelos advogados subscritores da presente nos termos do artigo 830
+consolidado. Na hipótese de a guia paga não estar legível, requer a recorrente, desde já
+e sob pena de nulidade, a concessão de prazo para juntada da guia original.
+Por fim, requer que todas as publicações e/ou intimações referentes a este feito
+sejam realizadas exclusivamente em nome de seu advogados RONALDO RAYES, inscrito
+na OAB/SP 114.521 e OAB/RJ nº 147.949 e JOÃO PAULO FOGAÇA DE ALMEIDA
+FAGUNDES, OAB/SP 154.384  com escritório localizado na Avenida Juscelino
+Kubitschek, nº 510, 6º andar, São Paulo/SP, CEP 04543-906.
+Nestes termos,
+Pede deferimento.
+São Paulo, 23 de outubro de 2019.
+Ronaldo Rayes     João Paulo F. de Almeida Fagundes
+OAB/SP 114.521     OAB/SP 154.384
+OAB/RJ 147.949
+Cínthia Perdomo Fernandes
+OAB/SP 358.685
+www.rfaa.com.br
+São Paulo ” Rio de Janeiro “ Campinas e São Bernardo do Campo
++55 (11) 3050-2150 +55 (21) 2221-5470 +55 (19) 3291-8005 +55 (11) 4550-5121
+PJê
+Assinado eletronicamente por: JOÃO PAULO FOGAÇA DE ALMEIDA FAGUNDES - 23/10/2019 16:44 - acddbfb
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=1910231643401520000015I6D66. 8a5c1d9dbfb - Pág. 2
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 19102316434015200000156668519
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 40
+Número do documento: 20020418500888500000167321739
+Documento assinado  pelo Shodo
+RAYES&: FAGUNDES 20
+RAZÕES DE RECURSO ORDINÁRIO
+Processo nº 1000555-17.2017.5.02.0036
+Recorrente: IBM BRASIL – INDÚSTRIA, MÁQUINAS E SERVIÇOS LTDA.
+Recorrido: CLÁUDIO ROBERTO BAPTISTA PETRONE
+Egrégio Tribunal Regional do Trabalho
+Colenda Turma,
+Ilustres Julgadores!
+Decretou a r. sentença a procedência parcial dos pedidos, de modo a
+declarar nula a dispensa e condenar a Recorrente ao pagamento dos salários
+correspondentes ao período de afastamento, vencidos e vincendos, desde a data da
+dispensa até a efetiva reintegração, além de reintegrá-lo, no prazo recursal, às funções
+anteriormente desempenhadas, sob pena de multa de R$ 5.000,00.
+Todavia, em que pese o entendimento do MM. Juízo a quo, a r. decisão
+não deverá prevalecer, pelos motivos a seguir expostos nestas razões recursais.
+1. PRELIMINARMENTE
+1.1. DA NECESSIDADE DE RECEBIMENTO DO PRESENTE RECURSO
+ORDINÁRIO COM EFEITO SUSPENSIVO
+Inicialmente, necessário que este Recurso Ordinário seja conhecido tanto
+no efeito devolutivo, quanto no efeito suspensivo, para que seja sustada a determinação
+prolatada na r. sentença de reintegração do Reclamante, no prazo recursal, sob pena de
+multa de R$ 5.000,00 (cinco mil reais).
+A presente medida faz-se necessária, tendo em vista que conforme todo o
+suporte probatório produzido ao feito, resta evidente que o Recorrido não foi
+discriminado no ato da dispensa.
+www.rfaa.com.br
+São Paulo ” Rio de Janeiro “ Campinas e São Bernardo do Campo
++55 (11) 3050-2150 +55 (21) 2221-5470 +55 (19) 3291-8005 +55 (11) 4550-5121
+PJê
+Assinado eletronicamente por: JOÃO PAULO FOGAÇA DE ALMEIDA FAGUNDES - 23/10/2019 16:44 - acddbfb
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=1910231643401520000015I6D66. 8a5c1d9dbfb - Pág. 3
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 19102316434015200000156668519
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 41
+Número do documento: 20020418500888500000167321739
+Documento assinado  pelo Shodo
+RAYES&: FAGUNDES 20
+Conforme será demonstrado nas razões ordinárias, a Recorrente
+demonstrou documentalmente que a rescisão contratual decorreu da baixa performance
+do Recorrido e a necessária reestruturação da área onde atuava.
+Outrossim, podemos verificar que as moléstias que acometem o Recorrido
+não guardam relação alguma com o trabalho que desempenhou na empresa.
+Por tais motivos, a determinação de reintegração independente do trânsito
+em julgado, está criando uma nova hipótese de estabilidade, vez que a decisão
+evidentemente determina reintegração em hipótese não prevista em lei.
+Ainda, vale o destaque que a pretensão de conhecimento do presente
+recurso com o efeito suspensivo, se faz necessário pois a r. sentença viola o devido
+processo legal, no art. 5º, caput, II, XXXV, LV c/c art. 93, IX, da CF, na medida em que
+suprime um direito do empregador e antecipa um entendimento sobre matéria legal que,
+já recebeu a apreciação do C. TST, a instância competente para fulminar a questão.
+Ante ao exposto, pugna a Recorrente que seja conhecido o presente
+Recurso Ordinário no efeito suspensivo, para que os efeitos da reintegração, caso
+mantidos no v. acórdão, sejam aplicados após o trânsito em julgado.
+2. MÉRITO
+2.1. DA DISPENSA DISCRMINATÓRIA
+O MM. Juízo a quo acatou o laudo médico pericial apresentado nos autos,
+mas reconheceu a dispensa discriminatória alegada pelo Recorrido e condenou a
+Recorrente a reintegrá-lo e efetuar o pagamento dos salários vencidos e vincendos desde
+a data do desligamento até o efetivo retorno ao trabalho.
+Fundamentou sua decisão da seguinte forma:
+Portanto, em que pese não tenha sido constatada incapacidade para o
+labor (em geral), mas apenas parcial para a função desenvolvida, quando
+o autor foi dispensado em agosto de 2016, ele estava acometido de
+sequelas permanentes (que promovem estigma social e preconceito:
+www.rfaa.com.br
+São Paulo ” Rio de Janeiro “ Campinas e São Bernardo do Campo
++55 (11) 3050-2150 +55 (21) 2221-5470 +55 (19) 3291-8005 +55 (11) 4550-5121
+PJê
+Assinado eletronicamente por: JOÃO PAULO FOGAÇA DE ALMEIDA FAGUNDES - 23/10/2019 16:44 - acddbfb
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=1910231643401520000015I6D66. 8a5c1d9dbfb - Pág. 4
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 19102316434015200000156668519
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 42
+Número do documento: 20020418500888500000167321739
+Documento assinado  pelo Shodo
+RAYES&: FAGUNDES 20
+paralisação de cotovelo e mão direitos) e de doença grave, fatores que
+certamente interferem na possibilidade de nova colocação profissional.
+Noto, ainda, que o autor contava com quase 57 anos quando dispensado,
+e não consta que tenha conseguido obter benefício de aposentadoria.
+Conforme entendimento consubstanciado na súmula n. 443 do TST,
+presume-se discriminatória a despedida de empregado com vírus HIV ou
+portador de doença grave que suscite estigma ou preconceito.
+Nesses casos, o empregador tem o ônus de demonstrar que o ato de
+dispensa não teve relação com a doença do empregado.
+Não se desincumbindo desse ônus, o ato de dispensa é inválido, e tem o
+trabalhador direito à reintegração no emprego.
+[...]
+Note-se que a lei prevê expressamente que a indenização pelo período de
+afastamento, seja simples ou em dobro, não se compensa com eventual
+valor devido a título de compensação por dano moral decorrente do ato
+discriminatório.
+Como registrado acima, o autor foi dispensado quando em tratamento de
+leucemia, e portador de sequelas permanentes.
+A referida súmula não delimita quais doenças devem ser consideradas
+"graves" para fins de sua aplicação. Trata-se, portanto, de conceito
+aberto, a ser analisado caso a caso. A situação do autor amolda-se à
+hipótese da súmula.
+[...]
+O autor foi dispensado depois de completado um ano de seu último
+retorno de afastamento previdenciário, e quando já contava com doze
+anos de prestação de serviços à reclamada. Mesmo com ciência da
+condição de saúde do empregado, ainda assim a ré optou por dispensá-
+lo. Preferiu descartar o empregado doente e substituí-lo e não produziu
+qualquer prova de que dispensa decorreu de fatores técnicos ou
+disciplinares, ou qualquer outro fator que indicasse não se tratar de mero
+descarte do empregado com condição estigmatizante.
+Aliás, a defesa afirma que "a dispensa do reclamante está ligada à
+performance no trabalho, que não estava a contento, somado ao fato de
+redução de custos e reestruturação interna que a empresa passava" (fl.
+www.rfaa.com.br
+São Paulo ” Rio de Janeiro “ Campinas e São Bernardo do Campo
++55 (11) 3050-2150 +55 (21) 2221-5470 +55 (19) 3291-8005 +55 (11) 4550-5121
+PJê
+Assinado eletronicamente por: JOÃO PAULO FOGAÇA DE ALMEIDA FAGUNDES - 23/10/2019 16:44 - acddbfb
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=1910231643401520000015I6D66. 8a5c1d9dbfb - Pág. 5
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 19102316434015200000156668519
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 43
+Número do documento: 20020418500888500000167321739
+Documento assinado  pelo Shodo
+RAYES&: FAGUNDES 20
+57). O efeito das sequelas deve ser considerado na análise de
+produtividade do autor.
+[...]
+Diante do exposto, presume-se pelos elementos dos autos que a condição
+de saúde do autor Trata-se de critério de distinção ilegítimo, violando
+frontalmente motivou sua dispensa. o princípio da igualdade. Desse modo,
+configura dispensa discriminatória.
+Ante o exposto, declaro inválido o ato da dispensa e condeno a parte ré a
+reintegrar a parte autora, nas mesmas condições da data da dispensa,
+observados eventuais reajustes concedidos posteriormente.
+Data máxima vênia, mas apesar do costumeiro brilhantismo do Juízo de
+1º grau, deve a r. sentença ser reformada.
+Isto porque, ao contrário dos fundamentos acima transcritos, a Recorrente
+comprovou que a dispensa do Recorrido se deu em razão da baixa performance e da
+reestruturação da área onde ele exercia suas atividades.
+Como bem exposto em sede de contestação, o Recorrido não foi bem
+avaliado e não possuía a quantidade necessária de certificações.
+O trabalho desempenhado por ele era totalmente intelectual, que não
+dependia de nenhuma condição física e, portanto, não haveria que se falar em
+discriminação no ato da dispensa, muito menos em presunção para tanto, com base na
+aplicação analógica da Súmula 443 do C. TST.
+A última avaliação a que o Recorrido se submeteu foi acostada aos autos
+sob ID 832e1f5 e não foi impugnada por ele, de modo que é válida em teor e forma, já
+que atendido o disposto nos artigos 818, CLT e 373, II, do NCPC.
+Em referido documento, denominado “avaliação PBC”, consta a
+classificação do Recorrido como sendo “PBC 3: entre os menores colaboradores neste
+ano, precisa de aprimoramento”, assim como nas avaliações anteriores, também
+acostadas à defesa e não analisadas pelo MM. Juízo a quo.
+www.rfaa.com.br
+São Paulo ” Rio de Janeiro “ Campinas e São Bernardo do Campo
++55 (11) 3050-2150 +55 (21) 2221-5470 +55 (19) 3291-8005 +55 (11) 4550-5121
+PJê
+Assinado eletronicamente por: JOÃO PAULO FOGAÇA DE ALMEIDA FAGUNDES - 23/10/2019 16:44 - acddbfb
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=1910231643401520000015I6D66. 8a5c1d9dbfb - Pág. 6
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 19102316434015200000156668519
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 44
+Número do documento: 20020418500888500000167321739
+Documento assinado  pelo Shodo
+RAYES&: FAGUNDES 20
+Na avaliação geral, restou evidenciado que a intenção da Recorrente não
+era discriminá-lo, mas aprimorá-lo para que o resultado na avaliação posterior fosse
+melhor, mas não houve alterações significativas:
+Considerando sua banda e senioridade esperada precisamos aumentar
+sua atuação independente nos deals de maior complexidade para assim
+elevar sua contribuição em deals assinados bem como elevar seu
+utilization.
+É de suma importância reiterar que as avaliações acostadas não foram
+impugnadas pelo Recorrido em réplica, o que leva a crer que a Recorrente se
+desvencilhou do ônus de comprovar que a dispensa não foi discriminatória, mas sim o
+resultado de reiteradas avaliações que não atingiram as expectativas.
+Aliado a tais fatos, tem-se que o perito médico judicial concluiu pela
+aptidão do Recorrido e que as sequelas que o acometem não guardam relação alguma
+com o labor desempenhado na Recorrente.
+Logo, não se presume que “mesmo com ciência da condição de saúde do
+empregado, ainda assim a ré optou por dispensá-lo. Preferiu descartar o empregado
+doente e substituí-lo e não produziu qualquer prova de que dispensa decorreu de fatores
+técnicos ou disciplinares, ou qualquer outro fator que indicasse não se tratar de mero
+descarte do empregado com condição estigmatizante”.
+O Recorrido estava apto ao trabalho quando da dispensa, que ocorreu
+única e exclusivamente em razão das reiteradas baixas performances avaliadas
+anualmente pela Recorrente, cujos relatórios, apesar de acostados à defesa e não
+impugnados pelo Recorrido, sequer foram analisados pelo MM. Juízo a quo.
+Necessária, portanto, a reforma da r. sentença, pois comprovada a licitude
+do desligamento, não havendo que se falar em discriminação, aplicação analógica da
+Súmula 443 do C. TST e nulidade da rescisão contratual.
+www.rfaa.com.br
+São Paulo ” Rio de Janeiro “ Campinas e São Bernardo do Campo
++55 (11) 3050-2150 +55 (21) 2221-5470 +55 (19) 3291-8005 +55 (11) 4550-5121
+PJê
+Assinado eletronicamente por: JOÃO PAULO FOGAÇA DE ALMEIDA FAGUNDES - 23/10/2019 16:44 - acddbfb
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=1910231643401520000015I6D66. 8a5c1d9dbfb - Pág. 7
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 19102316434015200000156668519
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 45
+Número do documento: 20020418500888500000167321739
+Documento assinado  pelo Shodo
+RAYES&: FAGUNDES 20
+Ainda, por serem acessórios, descabe a condenação à reintegração
+imediata ao trabalho e consequente pagamento dos salários vencidos e vincendos, desde
+a data da rescisão até a efetiva reintegração ao trabalho.
+3. CONCLUSÃO
+Ex positis, aguarda a Recorrente seja recebido e provido este Recurso
+Ordinário, NO EFEITO SUSPENSIVO, para reformar a respeitável decisão de origem,
+julgando-se a ação improcedente, como medida de JUSTIÇA.
+Por fim, requer que todas as publicações e/ou intimações referentes a este feito
+sejam realizadas exclusivamente em nome de seu advogados RONALDO RAYES, inscrito
+na OAB/SP 114.521 e OAB/RJ nº 147.949 e JOÃO PAULO FOGAÇA DE ALMEIDA
+FAGUNDES, OAB/SP 154.384, com escritório localizado na Avenida Juscelino
+Kubitschek, nº 510, 6º andar, São Paulo/SP, CEP 04543-906.
+Nestes termos,
+Pede deferimento.
+São Paulo, 23 de outubro de 2019.
+Ronaldo Rayes    João Paulo F. de Almeida Fagundes
+OAB/SP 114.521    OAB/SP 154.384
+OAB/RJ 147.949
+Cínthia Perdomo Fernandes
+OAB/SP 358.685
+www.rfaa.com.br
+São Paulo ” Rio de Janeiro “ Campinas e São Bernardo do Campo
++55 (11) 3050-2150 +55 (21) 2221-5470 +55 (19) 3291-8005 +55 (11) 4550-5121
+PJê
+Assinado eletronicamente por: JOÃO PAULO FOGAÇA DE ALMEIDA FAGUNDES - 23/10/2019 16:44 - acddbfb
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=1910231643401520000015I6D66. 8a5c1d9dbfb - Pág. 8
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 19102316434015200000156668519
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 46
+Número do documento: 20020418500888500000167321739
+Documento assinado pelo Shodo
+CONCLUSÃO
+Nesta data, faço o feito concluso ao(a) MM(a) Juiz(a) da 36ª Vara do Trabalho de São Paulo/SP,
+certificando que o Recurso Ordinário apresentado pela reclamada encontra-se tempestivo, apresentando
+preparo adequado e subscrito por advogado que tem procuração nos autos. SAO PAULO, 24 de Outubro
+de 2019.
+VERENA DE ALENCAR DELGADO
+Vistos etc.
+Processe-se em termos.
+Intime-se a parte contrária para apresentar contrarrazões no prazo legal.
+Após, ao E. TRT com as cautelas devidas.
+PJê
+Assinado eletronicamente por: JOAO PAULO GABRIEL DE CASTRO DOURADO - 25/10/2019 09:02 - e8b07a3
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=1910250902587460000015I6D8.5 5e283b307a3 - Pág. 1
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 19102509025874600000156855233
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 47
+Número do documento: 20020418500888500000167321739
+Documento assinado pelo Shodo
+EXCELENTÍSSIMO SENHOR DOUTOR JUIZ DE DIREITO DA 36ª VARA DO TRABALHO DE
+SÃO PAULO, SP.
+PROCESSO Nº 10005551720175020036
+                                               CLAUDIO ROBERTO BAPTISTA PETRONE, qualificada e identificada
+nos autos do processo em epígrafe, RECLAMAÇÃO TRABALHISTA, proposta em face de CATI ROSE
+TRANSPORTE DE PASSAGEIROS LTDA, vem respeitosamente na presença de Vossa Excelência, não
+se conformando com a r. sentença de fls. que julgou improcedente o pedido inicial, para interpor o
+presente CONTRARRAZÕES DE RECURSO ORDINÁRIO, cujas razões de fato e de direito seguem em
+anexo como parte integrante e inseparável da presente peça interpositiva.
+                                       Pede o deferimento.
+                                       Ribeirão Pires, 06 de novembro de 2019.
+                                       JORGE LUIZ DE SOUZA CARVALHO
+                                               OAB/SP 177.555
+PJê
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 06/11/2019 16:04 - a70619a
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=1911061604271810000015I8D1.2 3a77108619a - Pág. 1
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 19110616042718100000158123718
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 48
+Número do documento: 20020418500888500000167321739
+Documento assinado pelo Shodo
+                                       FELIPE BASTOS DE PAIVA RIBEIRO
+                                               OAB/SP 238.063
+RAZÕES DE RECURSO ORDINÁRIO
+RECORRIDO:     CLAUDIO ROBERTO BAPTISTA PETRONE
+RECORRENTE:  IBM BRASIL - INDUSTRIA, MÁQUINAS E SERVIÇOS LTDA
+ORIGEM:            36ª VARA DO TRABALHO DE SÃO PAULO.
+EGRÉGIO TRIBUNAL
+COLENDA TURMA
+INCLITOS JULGADORES
+PJê
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 06/11/2019 16:04 - a70619a
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=1911061604271810000015I8D1.2 3a77108619a - Pág. 2
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 19110616042718100000158123718
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 49
+Número do documento: 20020418500888500000167321739
+Documento assinado pelo Shodo
+                                       Em que pese os argumentos da recorrente a r. sentença não estar a reclamar
+nenhuma reforma, senão vejamos:
+                                       Inicialmente, o recurso não merece ser recepcionado pelo efeito suspensivo,
+máxime porque deveras evidenciado de forma inequívoca que há os requisitos mais do que vigentes em
+sede de cognição exauriente da tutela de urgência, logo, incabível a atribuição ao efeito suspensivo ao
+recurso em questão, lembrando ainda que a recorrente, ingressou com cautelar incidental no TRT da 2ª
+Região, o qual fora indeferido o referido efeito, pois o entendimento da Corte Laboral é de que inexiste
+elementos concretos e irrefutáveis de êxito no recurso ordinário, devendo ser rejeitado o pedido.
+                                        No mérito, a r. sentença não merece ser reformada, senão vemos:
+                                        Os documentos médicos, como ainda toda a dinâmica laboral, demonstrou de
+forma inequívoca que o reclamante, ora recorrido, fora demitido por ato discriminatório, totalmente
+abusivo e decorrente dos problemas de saúde do demadante.
+                                        Diante disso, no campo legal, indiscutível e garantindo a declaração de nulidade
+da dispensa discriminatória e a sua respectiva reintegração, na forma determinada na r. sentença.
+                                        Ademais, alternativamente, caso não seja admitido o recurso no particular
+atinente a dispensa discriminatória, minimamente deverá ser reconhecido, ou determinado a remessa dos
+autos a origem para apreciação, da tese envolvendo a dispensa de pessoa deficiente sem a respectiva
+contratação, como é o caso do autor.
+                                        Diante do acima exposto, requer-se o conhecimento e IMPROVIMENTO DO
+RECURSO, mantendo-se a r. sentença, por ser medida de Direito e Justiça!
+                                       Ribeirão Pires, 06 de novembro de 2019.
+                                       JORGE LUIZ DE SOUZA CARVALHO
+                                               OAB/SP 177.555
+PJê
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 06/11/2019 16:04 - a70619a
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=1911061604271810000015I8D1.2 3a77108619a - Pág. 3
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 19110616042718100000158123718
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 50
+Número do documento: 20020418500888500000167321739
+Documento assinado pelo Shodo
+                                       FELIPE BASTOS DE PAIVA RIBEIRO
+                                               OAB/SP 238.063
+PJê
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 06/11/2019 16:04 - a70619a
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=1911061604271810000015I8D1.2 3a77108619a - Pág. 4
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 19110616042718100000158123718
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 51
+Número do documento: 20020418500888500000167321739
+Documento assinado pelo Shodo
+PODER JUDICIÁRIO ||| JUSTIÇA DO TRABALHO
+TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO
+36ª Vara do Trabalho de São Paulo ||| ATOrd 1000555-17.2017.5.02.0036
+RECLAMANTE: CLAUDIO ROBERTO BAPTISTA PETRONE
+RECLAMADO: IBM BRASIL-INDUSTRIA MAQUINAS E SERVICOS LIMITADA
+CONCLUSÃO
+Nesta data, faço o feito concluso ao(a) MM(a) Juiz(a) da 36ª Vara do Trabalho de São Paulo/SP.
+SAO PAULO, data abaixo.
+MARCOS ANTONIO SANTOS OLIVEIRA
+DESPACHO
+              Vistos...
+O Juízo concedeu tutela de urgência ao autor, em sentença, consistente na
+reintegração às funções anteriormente desempenhadas (conforme readaptação já
+realizada) na reclamada. Foi fixado o prazo de 8 dias à reclamada para
+cumprimento da obrigação, contados da data da publicação da decisão, sob pena
+de multa de R$ 5.000,00.
+A reclamada interpôs recurso ordinário, bem como ação Cautelar Inominada, esta
+última com pedido liminar de concessão de efeito suspensivo ao recurso. A
+liminar foi indeferida, Id. 0be827e.
+Assim, considerando o decurso in albis do prazo para comprovação do
+cumprimento da tutela de urgência, fixo novo prazo de 05 dias à reclamada para
+reintegrar o autor, sob pena de multa diária de R$ 1.000,00, limitada a 60 dias,
+sem prejuízo da multa já fixada na sentença.
+Intime-se.
+Nada mais.
+SAO PAULO, 5 de Dezembro de 2019
+THOMAZ MOREIRA WERNECK
+Juiz(a) do Trabalho Substituto(a)
+PJê
+Assinado eletronicamente por: THOMAZ MOREIRA WERNECK - 05/12/2019 13:00 - 6175056
+https://pje.trtsp.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=1912051300355370000016I1D5.9 16618795056 - Pág. 1
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+PJê
+Número do documento: 19120513003553700000161591689
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 52
+Número do documento: 20020418500888500000167321739
+https://pje.trtsp.jus.br/primeirograu/VisualizaDocumento/Autenticado/...
+EXCELENTÍSSIMO SENHOR DOUTOR JUIZ FEDERAL DA 36º VARA DO TRABALHO DE
+SAO PAULO, SP.
+PROCESSO Nº 100005551720175020036
+CLAUDIO ROBERTO BAPTISTA PETRONE, qualificado e identificado nos autos do processo em
+epígrafe, RECLAMAÇ ÃO TRABALHISTA, proposta em face de IBM BRASIL - INDUSTRIA
+MÁQUINAS E SERVIÇOS LIMITADA, por seus advogados abaixo-assinados, vem respeitosamente na
+presença de Vossa Excelência, para expor e requerer o quanto segue:
+Com relação ao laudo pericial, o reclamante reitera que o mesmo é imprestável, na forma ventilada,
+sequer analisou os problemas de saúde do demandante, ademais, a questão envolvendo o AVC e a
+leucemia, que são doenças graves e incapacitantes. Os diversos documentos coligidos nos autos,
+inclusive, o relatório médico que confirmava a incapacidade laborativa do demandante quando de sua
+demissão. Tais omissões, prejudicam a validade e probidade do laudo pericial, podendo, inclusive torná-
+lo imprestável e ser rejeitado.
+Não obstante ainda, o que vem sendo reiteradamente invocado nestes autos, é que independentemente da
+perícia médica, há de ser ressaltado que o demandante possui duas teses para o pedido, em especial a
+reintegração pela demissão indevida sem substituição por deficiente, eis que o mesmo estava alocado pela
+cota de portadores especial. Tais argumentos de "per si" auxiliam e dão em cognição sumária, senão quase
+exauriente, após estabelecido o contraditório QUE SEJA DE FATO ANALISADO E DEFERIDA A
+TUTELA DE URGÊNCIA, QUE É PELA 4º VEZ REITERADA.
+Logo, impugna-se o laudo e reitera-se o pedido de tutela de urgência.
+Pede o deferimento.
+06/05/2019 00:51
+É Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 19/01/2020 20:14 - 82do8ed
+' https://pje.trtsp.jus.briprimeirograu/Processo/ConsultaDocumento/istView.seam?nd=2001 19201418083000001 dBsBRHO86d - Pág. 1
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+Número do documento: 20011920141808300000164952348
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+É hitps://pje trt2 jus. briprimeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 53
+Ribeirão Pires, 06 DE MAIO DE 2019
+FELIPE BASTOS DE PAIVA RIBEIRO
+OAB/SP 238.063
+Assinado
+eletronicamente. A
+Certificação Digital
+pertence a:
+[FELIPE BASTOS DE
+PAIVA RIBEIRO] =
+S()6)C)
+https://pje.trtsp.jus.br Documento assinado pelo Shodo
+/primeirograu/Processo
+!ConsultaDocumento
+NistView.seam
+19050600510559900000137685662
+06/05/2019 00:51
+É Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 19/01/2020 20:14 - 82do8ed
+'. https://pje.trtsp.jus.briprimeirograu/Processo/ConsultaDocumento/istView.seam?nd=2001 19201418083000001 dBsBRBOB6d - Pág. 2
+Número do processo: ATOrd 1000555-17.2017.5.02.0036
+Número do documento: 20011920141808300000164952348
+tj" Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dic2228
+MhE https:/pje triz jus.briprimeirograu/Processo/ConsultaDocumento/lstView.seam ?nd=200204 18500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 54
+SUMÁRIO
+Documentos
+Id. Data de Documento Tipo
+Juntada
+a7f08cf 04/10/2017 Contestação
+0 - IBM - CLAUDIO ROBERTO BAPTISTA
+14:11
+PETRONE 2 - Defesa - PCD - deficiente
+b02e688 09/10/2019 Sentença
+Sentença
+18:12
+5221a71 09/10/2019 Notificação
+Sentença
+18:12
+acddbfb 23/10/2019 Recurso Ordinário
+Recurso Ordinário
+16:44
+e8b07a3 25/10/2019 Notificação
+Decisão
+09:02
+a70619a 06/11/2019 Contrarrazões
+Contrarrazões
+16:04
+6175056 05/12/2019 Notificação
+Despacho
+13:00
+82d086d 19/01/2020 Manifestação
+Pedido de remessa dos autos à instância superior
+20:14
+PJê
+Assinado eletronicamente por: FELIPE BASTOS DE PAIVA RIBEIRO - 04/02/2020 18:51 - dfc2228
+https://pje.trt2.jus.br/primeirograu/Processo/ConsultaDocumento/listView.seam?nd=20020418500888500000167321739
+Número do processo: CumSen 1000130-72.2020.5.02.0007 ID. dfc2228 - Pág. 55
+Número do documento: 20020418500888500000167321739
+SUMÁRIO
+Documentos
+Id. Data de Documento Tipo
+Juntada
+dfc2228 04/02/2020 Documento Diverso
+Documentos para instrução do cumprimento
+18:51

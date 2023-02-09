@@ -1,0 +1,62 @@
+Poder Judiciário
+JUSTIÇA FEDERAL DE PRIMEIRO GRAU
+MANDADO DE SEGURANÇA (120) Nº 5002481-76.2017.4.03.6128 / 2ª Vara Federal de Jundiaí
+  IMPETRANTE: AEROSOFT CARGAS AEREAS LTDA
+  Advogado do(a) IMPETRANTE: FABIO FERREIRA LEAL COSTA NEVES - SP146719
+  IMPETRADO: DELEGADO DA RECEITA FEDERAL DO BRASIL EM JUNDIAI, UNIAO FEDERAL - FAZENDA NACIONAL
+  SENTENÇA
+  I - RELATÓRIO
+  Cuida-se de Mandado de Segurança, objetivando, em síntese, o recolhimento dos valores da COFINS e do PIS, com a exclusão do ICMS da base de cálculo, bem como o reconhecimento do direito à compensação dos valores indevidamente recolhidos a tal título nos últimos 05 (cinco) anos, incluindo-se àqueles que venham a serem recolhidos no trâmite da demanda, com débitos próprios, vencidos e vincendos, relativos a quaisquer tributos administrados pela SRF, com atualização pela taxa SELIC.
+  Sustenta a impetrante que a parcela relativa ao ICMS não pode compor a base de cálculo das citadas contribuições sociais, pois não se encontra abrangida pelo conceito de faturamento. Afirma que o Supremo Tribunal Federal consolidou sua jurisprudência no sentido de que faturamento e receita bruta são conceitos sinônimos, traduzindo-se receita bruta como a totalidade dos valores auferidos com venda de mercadorias e serviços, sendo que o ICMS não possui tal característica, tratando-se de despesa fiscal. Requer o reconhecimento do direito à exclusão desse tributo da base de cálculo do PIS e da COFINS, com a consequente declaração do direito de compensar ou restituir os valores irregularmente pagos.
+  Com a inicial vieram documentos.
+  Foi proferido despacho ordinatório e deferida a liminar pleiteada (ID 3753368).
+  A autoridade impetrada apresentou informações (ID 4038470). No mérito, contrapôs-se às alegações apresentadas na inicial, afirmando, basicamente, a legalidade da inclusão do ICMS na base de cálculo do PIS e da COFINS, nos termos da Lei n. º 12.973/14, que deu nova redação ao §5º, do artigo 12, do Decreto n. º 1.598/77, estabelecendo previsão legal expressa de inclusão do ICMS na base de cálculo da contribuição ao PIS e à COFINS. Teceu considerações sobre a compensação e jurisprudência afeta ao tema. Pugnou, ao final, pela extinção do feito, sem resolução do mérito ou pela denegação da segurança.
+  A Fazenda Nacional declarou-se ciente (ID 3960996).
+  O Ministério Público Federal absteve-se da análise do mérito (ID 4304212).
+  Na oportunidade, vieram os autos conclusos para sentença.
+  É a síntese de necessário.
+  FUNDAMENTO e DECIDO.
+  II - FUNDAMENTAÇÃO
+  Segundo preceitua o artigo 5º, inciso LXIX, da Constituição Federal, trata-se o mandado de segurança de ação colocada à disposição do indivíduo para a salvaguarda de direito líquido e certo coibido por ilegalidade ou abuso de poder, levados a efeito por autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público.
+  Sua concessão requer não apenas que haja o direito alegado, em verdade o que se exige é a precisão e a comprovação, no momento da impetração da ação, dos fatos e situações que ensejam o exercício do direito que se alega ter, ou seja, prova pré-constituída.
+  Tem a ação como objeto a correção de ato ou omissão ilegal de autoridade a direito do impetrante que deve se apresentar com todos os requisitos para seu reconhecimento e exercício quando a impetração.
+  Da declaração do direito de compensação tributária.
+  Inicialmente, quanto ao pleito de declaração do direito à compensação tributária, cumpre consignar que a via do mandado de segurança se mostra adequada ao fim pretendido, sobretudo na hipótese em que o impetrante comprova sua condição de credor tributário, eis que a Primeira Seção do C. STJ, no julgamento do REsp 1.111.164/BA, Rel. Min. Teori Albino Zavascki, submetido ao rito dos recursos repetitivos, consolidou o entendimento segundo o qual nos casos em que se pleiteia o direito à compensação tributária, deve o impetrante, para o fim de comprovar seu interesse de agir, comprovar a sua condição de credor.
+  Ainda sobre o tema, eis o teor da Súmula 213 da jurisprudência do Colendo Superior Tribunal de Justiça: "O mandado de segurança constitui ação adequada para a declaração do direito à compensação tributária".
+  Na espécie, a condição de credor tributário do impetrante não pode ser suficientemente inferida a partir dos documentos trazidos no ID 3701312 e ANEXOS, na medida em que não demonstrado o recolhimento das exações, majoradas pela incidência do ICMS em sua base de cálculo, cuja compensação é ora pretendida.
+  Por estas razões, reconheço a preliminar de inadequação da via eleita.
+  Do prazo decadencial.
+  Com relação ao prazo decadencial para impetração, cumpre consignar que o mandado de segurança que visa à obtenção de declaração do direito à compensação de tributos indevidamente recolhidos, por seu caráter preventivo, não está sujeito a prazo decadencial para sua impetração (TRF da 3ªRegião, 6ª Turma, AMS 317003, Rel. Des. Federal Mairan Maia, DJ 13.03.2014).
+  Passo ao exame do mérito.
+  Do caso concreto.
+  No caso concreto, a impetrante pleiteia, em síntese, a declaração do direito à compensação mediante o reconhecimento da inexistência de relação jurídica tributária que lhe obrigue à inclusão na base de cálculo das contribuições ao PIS e à COFINS, dos valores destacados a título de ICMS nas notas fiscais emitidas pela impetrante.
+  Pois bem.
+  Inicialmente, há que se considerar que a matéria deduzida na presente ação encontrava-se pacificada no Colendo Superior Tribunal de Justiça, no sentido de ser lídima a inclusão do ICMS na base de cálculo do PIS e da COFINS, ao argumento, em síntese, de que tal tributo, por integrar o preço de venda das mercadorias, constitui os valores relativos à receita da empresa e, via de consequência, ajusta-se ao conceito de faturamento.
+  Nesse sentido, STJ - Segunda Turma - RESP nº 505172 - Relator João Otávio de Noronha - DJ. 30/10/06, pg. 262.
+  Sobre o tema, inclusive, foram editadas as Súmulas 68 e 94, a seguir transcritas, relativas ao PIS e a COFINS, por analogia ao decidido em relação ao Finsocial.
+  Da mesma forma, o Egrégio Tribunal Regional Federal da 3ª Região pronunciava-se nos seguintes termos:
+  AGRAVO LEGAL. TRIBUTÁRIO. ERRO MATERIAL. ICMS. BASE DE CÁLCULO DO PIS E COFINS. INCLUSÃO. POSSIBILIDADE. ERRO MATERIAL CORRIGIDO DE OFÍCIO. AGRAVO IMPROVIDO.
+  (...)
+  2. Cumpre esclarecer que, muito embora o Supremo Tribunal Federal tenha, por maioria de votos, dado provimento ao Recurso Extraordinário nº 240.785/MG, resta mantido o entendimento sobre a matéria exarado no decisum recorrido, uma vez que aquele julgamento foi proferido em controle difuso de constitucionalidade, sem o reconhecimento de repercussão geral.
+  3. O Egrégio Supremo Tribunal Federal, no julgamento do Recurso Extraordinário n° 150.755-1/PE, entendeu o faturamento como sendo a receita bruta das vendas de mercadorias e serviços de qualquer natureza.
+  4. O ICMS, como impostos indiretos. incluem-se no faturamento. Não há como excluir os tributos incidentes sobre a circulação de mercadorias e sobre a prestação de serviços, de modo que as citadas contribuições tenham por base de cálculo a receita líquida das vendas de bens e serviços.
+  5. A questão já se encontra consolidada pelo E. Superior Tribunal de Justiça, no âmbito do ICMS, expressa nos Enunciados das Súmulas n.ºs 68 (PIS) e 94, esta última referente ao FINSOCIAL, mas aplicável também à COFINS, tendo em vista que referida contribuição foi criada em substituição à contribuição do FINSOCIAL, conforme expresso na própria lei que a instituiu (Lei Complementar n.º 70/91, art. 13), possuindo a mesma natureza jurídica desta.
+  6. Não há elementos novos capazes de alterar o entendimento externado na decisão monocrática.
+  7. Erro material corrigido de ofício. Agravo legal improvido. (TRF 3R, 6ª TURMA, Rel. Des. Federal Consuelo Yoshida, DJ 03.03.2016) (g. n.).
+  Todavia, a Suprema Corte, no julgamento do RE 240.785, apontou, pelos votos até então pronunciados, no sentido de que o ICMS deve ser excluído da base de cálculo das referidas contribuições sociais.
+  Referido julgamento foi interrompido, a pretexto de aguardar-se o processo objetivo da Ação Declaratória de Constitucionalidade n. 18, na qual o Plenário deferiu medida acauteladora, visando suspender o julgamento de demandas, envolvendo a aplicação do artigo 3º, parágrafo 2º, inciso I, da Lei nº 9.718 (possibilidade de inclusão do valor do ICMS na base de cálculo da COFINS e do PIS).
+  Ocorre que a liminar, considerando seu prazo de validade, foi prorrogada por três vezes, tendo vigor até 21 de setembro de 2010, encontrando-se atualmente sem eficácia, tendo, por fim, a Suprema Corte retomado o julgamento do RE nº 240.785 e concluído, por sua maioria, pelo seu provimento, no sentido de que o valor retido em razão do ICMS não pode ser incluído na base de cálculo da COFINS e do PIS, sob pena de violar o artigo 195, inciso I, b da Constituição Federal.
+  No entanto, recomendou-se, naquela oportunidade, que o julgamento se limitasse ao recurso em questão, em razão de, nesse interregno, ter havido alteração substancial na composição da Corte.
+  E, sobre o mesmo tema, ficou expressamente configurada a existência de repercussão geral (RE 574706), requisito de admissibilidade do recurso extraordinário.
+  Ocorre, por fim, que o Pretório Excelso, em 15.03.2017, reafirmou seu entendimento anterior e pacificou a questão definindo, com repercussão geral, no julgamento do RE 574.706/PR (Plenário, Rel. Min. Carmen Lúcia, Info 857), que o ICMS não compõe a base de cálculo para fins de incidência do PIS e da COFINS.
+  Assim, considero que as alegações do contribuinte se coadunam com o atual posicionamento da Corte Suprema.
+  III - DISPOSITIVO
+  Ante o exposto, CONCEDO A SEGURANÇA pleiteada, com resolução do mérito, com fulcro no artigo 487, inciso I do Código de Processo Civil, para o efeito de declarar a inexistência de relação-jurídico tributária que obrigue a impetrante ao recolhimento dos valores da COFINS e do PIS, com a inclusão do ICMS em sua base de cálculo, rejeitando os demais pedidos.
+  Custas ex lege.
+  Indevidos honorários advocatícios (Artigo 25 da Lei 12.016/09).
+  Oficie-se e intime-se a autoridade impetrada e a pessoa jurídica de representação processual da pessoa jurídica interessada para ciência e cumprimento.
+  Em caso de interposição de eventual recurso, proceda-se na forma do artigo 1.010, §1º ao §3º do NCPC.
+  Sentença não submetida a duplo grau de jurisdição (Art. 496, §4º, inciso II, do NCPC).
+  Por fim, sobrevindo o trânsito em julgado, intimem-se e remetam-se os autos ao arquivo com baixa.
+  Publique-se. Registre-se. Intimem-se. Oficie-se. Cumpra-se.
+  JUNDIAí, 8 de fevereiro de 2018.

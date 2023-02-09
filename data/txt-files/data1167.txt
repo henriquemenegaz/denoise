@@ -1,0 +1,56 @@
+Poder Judiciário
+JUSTIÇA FEDERAL DE PRIMEIRO GRAU
+24ª Vara Cível Federal de São Paulo
+  MANDADO DE SEGURANÇA CÍVEL (120) Nº 5018062-50.2019.4.03.6100
+  IMPETRANTE: KELLY CRISTINA MORALI MARCONDES MONTANARI
+  Advogado do(a) IMPETRANTE: FABIO HENRIQUE BERALDO GOMES - SP160292
+  IMPETRADO: PRESIDENTE DO CONSELHO REGIONAL DE CONTABILIDADE CRC/SP, CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO SAO PAULO
+  SENTENÇA
+   Vistos, etc.
+  Trata-se de mandado de segurança impetrado por KELLY CRISTINA MORALI MARCONDES MONTANARI em face do PRESIDENTE DO CONSELHO REGIONAL DE CONTABILIDADE DE SÃO PAULO - CRC/SP, com pedido de liminar, objetivando a sua inscrição nos quadros de técnicos de contabilidade, afastando a aplicação do artigo 76 da Lei nº 12.249/2010.
+  Relata a impetrante, em suma, que ao tentar efetuar o registro teve seu pedido negado sob a alegação de que é obrigatória a realização de exame de suficiência.
+  A inicial veio acompanhada de procuração e documentos.
+  Atribui  à causa o valor de R$ 1.000,00. Requer os benefícios da assistência judiciária gratuita, os quais foram deferidos.
+  O pedido de liminar foi deferido em decisão de ID2269417.
+  Informações prestadas no ID 23182997.
+  O Ministério Público Federal ofertou parecer pela concessão  da segurança (ID 31299819).
+  Vieram os autos conclusos.
+  É o relatório. Fundamentando, DECIDO.
+  FUNDAMENTAÇÃO
+  Trata-se de mandado de segurança objetivando a sua inscrição nos quadros de técnicos de contabilidade, afastando a aplicação do artigo 76 da Lei nº 12.249/2010.
+  Tendo em vista que a decisão que deferiu a liminar apreciou a questão na sua totalidade mantenho-a em todos os seus termos.
+  O artigo 12 da Lei nº 12.249/10, dispõe:
+  "Art. 12.  Os profissionais a que se refere este Decreto-Lei somente poderão exercer a profissão após a regular conclusão do curso de Bacharelado em Ciências Contábeis, reconhecido pelo Ministério da Educação, aprovação em Exame de Suficiência e registro no Conselho Regional de Contabilidade a que estiverem sujeitos. (Redação dada pela Lei nº 12.249, de 2010)
+  § 1o O exercício da profissão, sem o registro a que alude êste artigo, será considerado como infração do presente Decreto-lei. (Renumerado pela Lei nº 12.249, de 2010)
+  § 2o Os técnicos em contabilidade já registrados em Conselho Regional de Contabilidade e os que venham a fazê-lo até 1o de junho de 2015 têm assegurado o seu direito ao exercício da profissão. (Incluído pela Lei nº 12.249, de 2010)."
+  Por sua vez, a Resolução CFC nº 1.486/2015, estabelece:
+  "Art. 1º Exame de Suficiência é a prova de equalização destinada a comprovar a obtenção de conhecimentos médios, consoante os conteúdos programáticos desenvolvidos no curso de Bacharelado em Ciências Contábeis.
+  Parágrafo único. O Exame de Suficiência, que visa à obtenção de registro na categoria Contador, pode ser prestado pelos bacharéis e estudantes do último ano letivo do curso de Ciências Contábeis."
+  "Art. 5º A aprovação em Exame de Suficiência, como um dos requisitos para obtenção de registro em CRC, será exigida do Bacharel em Ciências Contábeis que concluiu o curso em data posterior a 14/6/2010, data da publicação da Lei nº 12.249/2010." (Alterado pela Resolução CFC nº 1.560/2019 publicada no DOU de 14/02/19, seção 1)
+  Em relação ao exercício da profissão de contador/técnico em contabilidade, verifico que a jurisprudência do C. Superior Tribunal de Justiça se posicionou no sentido de que tal disposição transitória não tem o condão de eximir os técnicos em contabilidade da realização do exame de suficiência, pois tal certame passou a ser exigido tanto dos bacharéis, como dos técnicos em contabilidade que não tenham concluído o respectivo curso quando da edição da Lei nº 12.249/2010.
+  Também ficou firmado o entendimento de que o exame de suficiência criado pela referida Lei nº 12.249/2010 deverá ser exigido daqueles que ainda não haviam completado curso técnico ou superior em Contabilidade sob a égide da legislação anterior.
+  Nesse sentido, os seguintes julgados:
+  "ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. REGISTRO PROFISSIONAL. CONSELHO REGIONAL DE CONTABILIDADE. CONCLUSÃO DO CURSO APÓS A ALTERAÇÃO DO DECRETO-LEI Nº 9.295/1946 PELA LEI Nº 12.249/2010. REQUISITO PARA INSCRIÇÃO NÃO PREENCHIDO SOB A ÉGIDE DA LEI PRETÉRITA. CABÍVEL A EXIGÊNCIA DO EXAME DE SUFICIÊNCIA.
+  1. A tese recursal referente ao dissídio pretoriano entre o acórdão recorrido e a orientação jurisprudencial de outros Tribunais não foi oportunamente suscitada no recurso especial, restando preclusa, uma vez que não é admissível inovação na lide em sede de agravo regimental.
+  2. Conforme jurisprudência desta Corte, o exame de suficiência criado pela Lei nº 12.249/2010 será exigido daqueles que ainda não haviam completado curso técnico ou superior em Contabilidade sob a égide da legislação pretérita, como no caso concreto.
+  3. Agravo regimental a que se nega provimento."
+  (STJ, 1.ª Turma, AgRg no REsp 1.450.715/SC, DJe 13/02/2015, Rel. Min. Sérgio Kukina).
+  "ADMINISTRATIVO. RECURSO ESPECIAL. REGISTRO PROFISSIONAL. CONSELHO REGIONAL DE CONTABILIDADE. CONCLUSÃO DO CURSO ANTES DA ALTERAÇÃO DO DECRETO-LEI Nº 9.295/1946 PELA LEI Nº 12.249/2010. REQUISITO PARA INSCRIÇÃO PREENCHIDO SOB A ÉGIDE DA LEI PRETÉRITA. DIREITO ADQUIRIDO. EXAME DE SUFICIÊNCIA. DISPENSA. RECURSO ESPECIAL IMPROVIDO.
+  1. A implementação dos requisitos para a inscrição no respectivo conselho profissional no momento da conclusão do curso, gera direito adquirido à obtenção do registro profissional. O exame de suficiência criado pela Lei nº 12.249/2010 não pode retroagir para alcançar o direito dos que já haviam completado curso técnico ou superior em Contabilidade sob a égide da legislação pretérita.
+  2. Recurso especial improvido." (STJ, 1.ª Turma, REsp 1.452.996/RS, DJe 10/06/2014, Rel. Min. Sérgio Kukina).
+  "ADMINISTRATIVO. RECURSO ESPECIAL. REGISTRO PROFISSIONAL. CONSELHO REGIONAL DE CONTABILIDADE. EXAME DE SUFICIÊNCIA. DISPENSA. CONCLUSÃO DO CURSO EM PERÍODO ANTERIOR À VIGÊNCIA DA LEI N. 12.249/2010. DIREITO ADQUIRIDO.
+  1. A recorrida concluiu o curso técnico em Contabilidade em 2006, antes da vigência da Lei n. 12.249/2010, que instituiu a exigência do exame de suficiência. Vale dizer, ao tempo de sua formatura, ela havia implementado os requisitos para a inscrição no respectivo conselho profissional, conforme decidido pelo Tribunal Regional.
+  2. No mesmo sentido, a jurisprudência do Superior Tribunal de Justiça firmou o entendimento de que a referida Lei n. 12.249/2010 não retroage para atingir o direito adquirido dos que já haviam completado cursos técnicos ou superiores em Contabilidade.
+  3. Recurso especial a que se nega provimento."
+  (STJ, 2.ª Turma, REsp 1.434.237/RS, DJe 02/05/2014Rel. Min. Og Fernandes)
+  No caso, a parte impetrante concluiu, no Centro Estadual de Educação Tecnológica "Paulo Souza", na cidade de São Paulo/SP, a habilitação profissional plena em Contabilidade do Ensino de 2º Grau, conforme diploma datado de 02 de maio de 2001, obtendo habilitação profissional de Técnico em Contabilidade (ID 22549167).
+  Nesse contexto, a parte impetrante trouxe aos autos prova inequívoca de que lhe foi concedido o grau de Técnico em Contabilidade em época anterior à vigência da Lei nº 12.249/2010, não tendo sido alcançada, portanto, pela obrigatoriedade do exame de suficiência, instituído após o advento da Lei nº 12.249/2010.
+  DISPOSITIVO
+  Ante o exposto, julgo PROCEDENTE o pedido do impetrante e CONCEDO a SEGURANÇA, confirmando a liminar deferida na decisão de ID 22629417, para determinar que autoridade impetrada que efetue o registro profissional da impetrante , caso a exigência de exame de suficiência seja o único óbice,  extinguindo o feito, com resolução do mérito, nos termos do artigo 487, I do CPC.
+  Custas pelo impetrante.
+  Sem honorários advocatícios.
+  Após o trânsito em julgado arquivem-se os autos.
+  P R I O
+   São Paulo, 10 de novembro de 2020.
+  VICTORIO GIUZIO NETO
+  Juiz Federal

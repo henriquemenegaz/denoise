@@ -1,0 +1,723 @@
+MATTOS ENGELBERG
+ADVOGADOS
+EXCELENTISSÍMO(A) SENHOR(A) DOUTOR(A) JUIZ(A) FEDERAL DA ___ª VARA CÍVEL
+DA SUBSEÇÃO JUDICIÁRIA DE SÃO PAULO – SP.
+DISTRIBUIÇÃO URGENTE: PEDIDO DE LIMINAR
+CÂMARA DE COMERCIALIZAÇÃO DE ENERGIA ELÉTRICA – CCEE
+(“Impetrante”), pessoa jurídica de direito privado inscrita no CNPJ sob nº 03.034.433/0001-56,
+com sede na Avenida Paulista, nº 2064, andares 7º, 11º, 12º e 13º, Bela Vista, Município e
+Estado de São Paulo, Cep 01310-200, por seus advogados abaixo constituídos (DOC. 01 –
+cartão CNPJ, procuração, documentos societários e carteiras da OAB), vem,
+respeitosamente, à presença de Vossa Excelência, com fulcro no artigo 5º, inciso LXIX da
+Constituição Federal, combinado com os artigos 1º e seguintes da Lei Federal nº 12.016/2009
+(Lei do Mandado de Segurança), impetrar o presente
+MANDADO DE SEGURANÇA REPRESSIVO
+COM PEDIDO DE LIMINAR
+em face do ato ilegal e violador de direito líquido e certo praticado pelo DELEGADO DA
+DELEGACIA DA RECEITA FEDERAL DO BRASIL DE ADMINISTRAÇÃO TRIBUTÁRIA EM
+SÃO PAULO, com endereço na R. Luís Coelho, 197, Consolação, São Paulo/SP, Cep 01309-
+001 (“Impetrado”), ou quem lhe fizer as vezes, pelas razões de fato e de direito a seguir
+aduzidas.
+www.mattosengelberg.com.br | 55 11 3938 1900 | Av. Chedid Jafet, 222 | Torre A - 4º andar - Vila Olimpia - São Paulo | SP | Brasil | 04551-065
+MATTOS ENGELBERG
+ADVOGADOS
+Em atenção ao art. 6º da Lei Federal nº 12.016/2009, a Impetrante indica a UNIÃO
+(FAZENDA NACIONAL), representada pela Procurador-Regional da Fazenda Nacional – 3ª
+Região, localizada na Av. Brigadeiro Luís Antônio, 2543, Jardim Paulista, São Paulo/SP, CEP
+01401-002, como pessoa jurídica de direito público a quem a Autoridade Coatora está
+vinculada.
+Primeiramente, cumpre informar que a integralidade das memórias de
+cálculo (DOCS. 02 e 09), elaboradas em formato de planilhas de Excel, será apresentada
+em mídia eletrônica na Secretaria, logo após a distribuição do presente Mandado de
+Segurança, tendo em vista a inviabilidade sistêmica do PJe de receber o documento,
+conforme permissivo do art. 14, §4º, da Resolução do CNJ nº 185 de 18/12/20131.
+I. DOS FATOS
+1.  - A Impetrante é gestora, por função delegada, de acordo com a Lei Federal nº 13.360,
+de 17 de novembro de 2016, do fundo setorial denominado Reserva Global de Reversão –
+RGR, responsabilizando-se pela concessão de empréstimos periódicos às Distribuidoras
+Designadas2 de energia elétrica, conforme previsão da Resolução Normativa n.º 748, de 29
+de novembro de 2016, da Agência Nacional de Energia Elétrica (“Aneel”).
+2.  - Com efeito, os artigos 3º e 6º da referida Resolução assim dispõem:
+Art. 3º. O gestor dos fundos setoriais Conta de Consumo de Combustíveis –
+CCC, da Conta de Desenvolvimento Energético – CDE e da Reserva Global de
+Reversão – RGR fica autorizado a contratar e repassar os recursos dos
+respectivos fundos às Distribuidoras Designadas, ressalvado o disposto no
+1 § 4º Os documentos cuja digitalização mostre-se tecnicamente inviável devido ao grande volume,
+tamanho/formato ou por motivo de ilegibilidade deverão ser apresentados em secretaria no prazo de 10
+(dez) dias contados do envio de petição eletrônica comunicando o fato. Após o trânsito em julgado, os referidos
+documentos serão devolvidos, incumbindo-se à parte preservá-los, até o final do prazo para propositura de ação
+rescisória, quando admitida.
+2 É denominada Distribuidora Designada “o órgão ou entidade da administração pública federal responsável, por
+decisão do Poder Concedente, pela prestação do serviço público de distribuição de energia elétrica em razão da
+não prorrogação de determinada concessão conforme §1º do art. 9º da Lei n. 12.783/2013, enquanto não
+designado novo concessionário por procedimento licitatório, bem como a pessoa jurídica sob controle direto ou
+indireto de Estado, do Distrito Federal ou de Município, que seja designada para a mesma finalidade e autorizada
+pela União a utilizar as prerrogativas constantes dos §§ 2º ao 6º do art. 9º da Lei n. 12.783/2013” (art. 1º, parágrafo
+único, da Resolução Normativa nº 748/2016, da ANEEL). São exemplos de Distribuidoras Designadas: CEA,
+CERON, Eletroacre, Amazonas, CEAL, CEPISA e Boa Vista.
+- 2/21 -
+www.mattosengelberg.com.br | 55 11 3938 1900 | Av. Chedid Jafet, 222 | Torre A - 4º andar - Vila Olimpia - São Paulo | SP | Brasil | 04551-065
+MATTOS ENGELBERG
+ADVOGADOS
+art. 7º.
+(...)
+Art. 6º. O gestor do fundo RGR fica autorizado a conceder empréstimo à
+Distribuidora Designada, necessário para assegurar a Remuneração Adequada
+prevista no art. 11 da Portaria n. 388/2016-MME, com o objetivo de criar condições
+para a continuidade e a prestação adequada do serviço, ressalvado disposto no
+art. 7o.
+(...)
+§ 10o A amortização de principal e de pagamento de juros terão carência de
+12 meses após a assunção da concessão pelo novo concessionário sendo
+que, finalizada a carência, a amortização do empréstimo será feita em 36
+parcelas mensais e iguais.
+3.  - Como se verifica, os empréstimos do Fundo RGR são concedidos às Distribuidoras
+Designadas no valor e periodicidade determinados pela ANEEL, sendo certo que não há
+fixação prévia dos critérios para sua devolução, principalmente na medida em que será
+realizada (a devolução) pelo futuro concessionário do serviço regular de fornecimento de
+energia elétrica, após procedimento licitatório, e não pela Distribuidora Designada, que ocupa
+a função interinamente.
+4.  - Tendo sido fixadas as premissas acima, tem-se que:
+(i) o valor total e a periodicidade dos empréstimos a serem concedidos a cada
+Distribuidora Designada não são previamente conhecidos pela Impetrante, na
+qualidade de gestora do Fundo RGR, sendo fixados e impostos pela Aneel;
+(ii) também não há prévio conhecimento quanto à identificação do responsável pela
+sua devolução, nem quanto ao prazo para o início (em especial considerando-se
+que ao futuro concessionário, responsável pela devolução, é outorgada carência
+inicial por 12 meses antes do início da obrigatoriedade de devolução) ou para o
+encerramento dos pagamentos (em devolução) – tais critérios são fixados a
+posteriori, no edital de licitação.
+5.  - De acordo com as características específicas dos repasses realizados pela Impetrante
+às Distribuidoras Designadas, não se pode dizer que não há definição do valor do empréstimo,
+já que este é estabelecido periodicamente pela Aneel, de modo que estaria afastada na
+- 3/21 -
+www.mattosengelberg.com.br | 55 11 3938 1900 | Av. Chedid Jafet, 222 | Torre A - 4º andar - Vila Olimpia - São Paulo | SP | Brasil | 04551-065
+MATTOS ENGELBERG
+ADVOGADOS
+espécie a previsão de cálculo do IOF sobre o somatório dos saldos devedores diários apurado
+no último dia de cada mês.
+6.  - Assim, a forma mais correta de cálculo do IOF neste caso é: base de cálculo
+equivalente a cada valor liberado ao mutuário sobre o qual incidirá o IOF à alíquota de
+0,0041% ao dia, sendo que neste caso se aplica o limitador temporal previsto pelos parágrafos
+1º e 14 do artigo 7º do Decreto 6.306/2007, qual seja, 365 dias, além da alíquota adicional de
+0,38%, ou seja, alíquota total de 1,8765%.
+7.  - No tocante ao contribuinte do referido tributo, é cada uma das Distribuidoras
+Designadas, na qualidade de tomadoras (mutuárias) dos referidos empréstimos; porém, a
+responsabilidade pela sua retenção e recolhimento ao Tesouro Nacional é da Impetrante, na
+qualidade de concedente do crédito (mutuante).
+8.  - Ocorre que, por um equívoco interno, a Impetrante acabou por erroneamente calcular
+os valores devidos pelas Distribuidoras Designadas a título de IOF-Crédito em função dos
+empréstimos por elas tomados de 05 a 12/2017, retendo-os e recolhendo-os a menor,
+conforme demonstra a memória de cálculo anexa (DOC. 023), apresentada à RFB em janeiro
+último.
+9.  - De fato, entendeu-se que, sendo inicialmente previsto o último repasse para
+31/12/2017 (prazo posteriormente prorrogado pela Aneel), seria esse o termo final para
+cálculo do IOF. Ou seja, a alíquota de 0,0041% foi multiplicada por prazo inferior aos 365 dias
+determinados pela legislação, de modo que a retenção e o recolhimento do IOF foram
+realizados a menor.
+10.  - Tratando-se, porém, a Impetrante da responsável tributária pelo recolhimento do
+referido tributo, ainda que em nome dos contribuintes efetivos (as Distribuidoras Designadas),
+e mesmo que não tenha procedido à integral retenção, não lhe restou alternativa senão
+declarar e transferir ao Tesouro Nacional os valores que deixaram de ser recolhidos à época
+própria.
+11.  - Nesse sentido, a Impetrante recalculou os valores devidos (conforme a referida
+3 A integralidade da planilha de memória de cálculo será apresentada em mídia eletrônica na Secretaria, logo após
+a distribuição do presente Mandado de Segurança, tendo em vista a inviabilidade sistêmica do PJe de receber o
+documento, com base nos termos da Resolução do CNJ nº 185 de 18/12/2013.
+- 4/21 -
+www.mattosengelberg.com.br | 55 11 3938 1900 | Av. Chedid Jafet, 222 | Torre A - 4º andar - Vila Olimpia - São Paulo | SP | Brasil | 04551-065
+MATTOS ENGELBERG
+ADVOGADOS
+memória de cálculo), incorporando os juros moratórios, deixando, porém, de acrescer-lhes de
+multa moratória, conforme lhe é facultado pelo art. 138 do CTN:
+Art. 138. A responsabilidade é excluída pela denúncia espontânea da infração,
+acompanhada, se for o caso, do pagamento do tributo devido e dos juros de
+mora, ou do depósito da importância arbitrada pela autoridade administrativa,
+quando o montante do tributo dependa de apuração.
+Parágrafo único. Não se considera espontânea a denúncia apresentada após o
+início de qualquer procedimento administrativo ou medida de fiscalização,
+relacionados com a infração.
+12.  - O recolhimento dos valores faltantes foi realizado integralmente em 04/01/2018 (um
+DARF para cada competência/mutuária – DOC. 03), antes que fossem iniciadas quaisquer
+diligências por parte da RFB para conferência dos valores devidos/recolhidos e antes também
+que fossem levadas ao seu conhecimento as circunstâncias ora relatadas, o que veio a
+regularmente ocorrer por meio de petição apresentada em 08/01/2018 (DOC. 04), originária
+do processo administrativo nº 18186.720086/2018-62, requerendo-se a homologação do
+afastamento da multa moratória, considerando-se que claramente configurada hipótese de
+denúncia espontânea, em que a responsabilidade (leia-se, obrigatoriedade de recolhimento
+da multa) é excluída.
+13.  - Não obstante a clara regularidade de todo o procedimento seguido pela Impetrante a
+fim de formalizar a denúncia espontânea dos valores devidos e equivocadamente não
+recolhidos à época própria na qualidade de responsável tributária, muito se espantou ao ser
+intimada, já em 22/01/2018, acerca de despacho decisório proferido nos autos daquele
+processo administrativo (DOC. 05), surpreendentemente proferido apenas 4 dias após o
+protocolo da sua petição inaugural, indeferindo o pedido de reconhecimento da denúncia
+espontânea, nestes termos:
+- 5/21 -
+www.mattosengelberg.com.br | 55 11 3938 1900 | Av. Chedid Jafet, 222 | Torre A - 4º andar - Vila Olimpia - São Paulo | SP | Brasil | 04551-065
+MATTOS ENGELBERG
+ADVOGADOS
+Trata o presente processo de solicitação de exoneração de multa de mora incidente sobre crédito
+de IOF, período de apuração 05/2017 a 12/2017, diante de alegação da denúncia espontânea.
+2. Conforme prescreve o art. 138 do CTN, a denúncia espontânea caracteriza-se pela declaração do
+tributo devido acompanhada do pagamento integral de principal e juros, entendimento esse esclarecido e
+reforçado pelos Atos Declaratórios PGFN números 4 e 8 de 2011.
+3: Não se considera ocorrida denúncia espontânea, para fins de aplicação do artigo 19 da Lei nº
+10.522/2002, quando o contribuinte paga o débito, mas não apresenta declaração ou outro ato que dê
+conhecimento da infração confessada (Nota Técnica Cosit nº 19/2012).
+a NA raca am análica A citiaita naceciva nada derlarni em DCTE nara I0F e efetuoiu recolhimentos
+te ND NR PR AD PP SR SR DE RR E SER A o RA Deris Dio os nZA RI? aos cado a mito o cennas to
+gema t to co Mesma twiob ata (itiftida = us Bith casi Sotdo Send Node doca?
+do imposto no CNPJ das pessoas jurídicas que tomaram os empréstimos, quando o stocedimento aileguado é
+que a pessoa jurídica que concede os empréstimos preencha suas próprias declarações e recolha os valores
+devidos no seu CNP), já que é responsável pela retenção e pelo pagamento do IOF.
+5. Para que os recolhimentos sejam aproveitados é necessário que se proceda ao REDARF com
+anuência das pessoas jurídicas cujo CNP) foi utilizado no campo próprio dos documentos de arrecadação e que
+o contribuinte registre o montante devido para cada período em DCTF.
+6. Face ao exposto, infere-se que não se configurou denúncia espontânea.
+7. À Equipe de Cobrança/Dicat/Derat para as providências cabíveis.
+14.  - Em face desse despacho decisório a Impetrante logrou apresentar Manifestação
+de Inconformidade (DOC. 06), protocolizada em 08/02/2018 nos autos do referido processo
+administrativo, defendendo os procedimentos por si adotados tendentes à formalização da
+denúncia espontânea, bem como requerendo sua recepção com a concessão de efeito
+suspensivo da exigibilidade do crédito tributário consubstanciado na multa de mora que deixou
+de ser paga, nos termos do art. 151, II, do CTN.
+15.   - Qual não foi, então, sua ingrata surpresa ao ser intimada, em 19/02/2018, acerca
+do novo despacho proferido naqueles autos, dando conta do não conhecimento da
+Manifestação de Inconformidade (DOC. 07), na medida em que acolhida como “Recurso
+Hierárquico”, para o qual o prazo previsto é de somente 10 dias (contra 30 dias da
+Manifestação de Inconformidade) e sem a previsão de suspensão da exigibilidade do crédito
+tributário, nestes termos:
+Fica o contribuinte ciente de que o Recurso Hierárquico interposto. no dia 08/02/18 não foi reconhecido. em cumprimento ao art.63.
+inciso 1, da Lei 9784/99.
+Tratando-se portanto de decisão administrativa Irreformável, 0 processo será encerrado.
+16.   - Diante disso e do encaminhamento do processo à Equipe de
+Cobrança/Dicat/Derat, em clara intenção de lançamento e cobrança do crédito tributário
+relativo à multa moratória excluída em razão da denúncia espontânea procedida pela
+- 6/21 -
+www.mattosengelberg.com.br | 55 11 3938 1900 | Av. Chedid Jafet, 222 | Torre A - 4º andar - Vila Olimpia - São Paulo | SP | Brasil | 04551-065
+MATTOS ENGELBERG
+ADVOGADOS
+Impetrante, não lhe resta alternativa senão a impetração do presente mandamus, por meio do
+qual pretende seja afastado o ato coator perpetrado pela d. Autoridade Coatora, garantindo-
+lhe o direito à extinção do crédito tributário relativo ao IOF-Crédito pago em atraso sem a
+inclusão da multa de mora em razão da denúncia espontânea regularmente realizada.
+II. DO DIREITO
+II.1) Critérios Conformadores da Regra Matriz de Incidência do IOF-Crédito
+17.  - Estes são os dispositivos do Decreto nº 6.306/2007, que regulamenta o IOF-Crédito,
+relevantes para a presente análise:
+Art. 2º. O IOF incide sobre:
+I - operações de crédito realizadas:
+(...)
+c) entre pessoas jurídicas ou entre pessoa jurídica e pessoa física.
+Art. 3º. O fato gerador do IOF é a entrega do montante ou do valor que constitua
+o objeto da obrigação, ou sua colocação à disposição do interessado.
+§ 1o Entende-se ocorrido o fato gerador e devido o IOF sobre operação de crédito:
+I - na data da efetiva entrega, total ou parcial, do valor que constitua o objeto da
+obrigação ou sua colocação à disposição do interessado;
+II - no momento da liberação de cada uma das parcelas, nas hipóteses de crédito
+sujeito, contratualmente, a liberação parcelada;
+(...)
+§ 3º. A expressão “operações de crédito” compreende as operações de:
+(...)
+III - mútuo de recursos financeiros entre pessoas jurídicas ou entre pessoa jurídica
+e pessoa física.
+Art. 4º. Contribuintes do IOF são as pessoas físicas ou jurídicas tomadoras
+de crédito.
+Art. 5º. São responsáveis pela cobrança do IOF e pelo seu recolhimento ao
+Tesouro Nacional:
+- 7/21 -
+www.mattosengelberg.com.br | 55 11 3938 1900 | Av. Chedid Jafet, 222 | Torre A - 4º andar - Vila Olimpia - São Paulo | SP | Brasil | 04551-065
+MATTOS ENGELBERG
+ADVOGADOS
+(...)
+III - a pessoa jurídica que conceder o crédito, nas operações de crédito
+correspondentes a mútuo de recursos financeiros.
+Art. 6º. O IOF será cobrado à alíquota máxima de um vírgula cinco por cento ao
+dia sobre o valor das operações de crédito.
+Art. 7º. A base de cálculo e respectiva alíquota reduzida do IOF são:
+I - na operação de empréstimo, sob qualquer modalidade, inclusive abertura de
+crédito:
+(...)
+b) quando ficar definido o valor do principal a ser utilizado pelo mutuário, a base
+de cálculo é o principal entregue ou colocado à sua disposição, ou quando previsto
+mais de um pagamento, o valor do principal de cada uma das parcelas:
+1. mutuário pessoa jurídica: 0,0041% ao dia;
+(...)
+IV - nos empréstimos, inclusive sob a forma de financiamento, sujeitos à liberação
+de recursos em parcelas, ainda que o pagamento seja parcelado, a base de
+cálculo é o valor do principal de cada liberação:
+a) mutuário pessoa jurídica: 0,0041% ao dia;
+(...)
+§ 1º. O IOF, cuja base de cálculo não seja apurada por somatório de saldos
+devedores diários, não excederá o valor resultante da aplicação da alíquota diária
+a cada valor de principal, prevista para a operação, multiplicada por trezentos e
+sessenta e cinco dias, acrescida da alíquota adicional de que trata o § 15, ainda
+que a operação seja de pagamento parcelado.
+(...)
+§ 14. Nas operações de crédito contratadas por prazo indeterminado e definido o
+valor do principal a ser utilizado pelo mutuário, aplicar-se-á a alíquota diária
+prevista para a operação e a base de cálculo será o valor do principal multiplicado
+por trezentos e sessenta e cinco.
+§ 15. Sem prejuízo do disposto no caput, o IOF incide sobre as operações de
+crédito à alíquota adicional de trinta e oito centésimos por cento,
+independentemente do prazo da operação, seja o mutuário pessoa física ou
+pessoa jurídica.
+- 8/21 -
+www.mattosengelberg.com.br | 55 11 3938 1900 | Av. Chedid Jafet, 222 | Torre A - 4º andar - Vila Olimpia - São Paulo | SP | Brasil | 04551-065
+MATTOS ENGELBERG
+ADVOGADOS
+Art. 10. O IOF será cobrado:
+(...)
+VII - na data da entrega ou colocação dos recursos à disposição do interessado,
+nos demais casos.
+Parágrafo único. O IOF deve ser recolhido ao Tesouro Nacional até o terceiro dia
+útil subsequente ao decêndio da cobrança ou do registro contábil do imposto.
+18.   - Considerando-se tais disposições, seriam estes os critérios conformadores da
+respectiva regra matriz de incidência do IOF-Crédito:
+(i) pessoal:
+a. sujeito ativo: União;
+b. sujeito passivo: mutuário (contribuinte) e mutuante (responsável tributário);
+(ii) espacial: território brasileiro;
+(iii) temporal: quando da disponibilização dos recursos ou colocação à disposição do
+contribuinte;
+(iv) material: entrega do montante ou do valor que constitua o objeto da obrigação, ou
+sua colocação à disposição do interessado;
+(v) quantitativo:
+a. base de cálculo: somatório dos saldos diários, quando não for previamente
+definido o valor, ou valor mutuado, quando predefinido;
+b. alíquota: 0,0041% ao dia, multiplicada por 365 dias, mais alíquota adicional de
+0,38%.
+II.2) Equívocos do r. Despacho Decisório
+19.   - Para maior facilidade da análise, reproduz-se mais uma vez o teor do r. despacho
+decisório/ato coator ora combatido:
+- 9/21 -
+www.mattosengelberg.com.br | 55 11 3938 1900 | Av. Chedid Jafet, 222 | Torre A - 4º andar - Vila Olimpia - São Paulo | SP | Brasil | 04551-065
+MATTOS ENGELBERG
+ADVOGADOS
+Trata o presente processo de solicitação de exoneração de multa de mora incidente sobre crédito
+de IOF, período de apuração 05/2017 a 12/2017, diante de alegação da denúncia espontânea.
+2. Conforme prescreve o art. 138 do CTN, a denúncia espontânea caracteriza-se pela declaração do
+tributo devido acompanhada do pagamento integral de principal e juros, entendimento esse esclarecido e
+reforçado pelos Atos Declaratórios PGFN números 4 e 8 de 2011.
+3. Não se considera ocorrida denúncia espontânea, para fins de aplicação do artigo 19 da Lei nº
+10.522/2002, quando o contribuinte paga o débito, mas não apresenta declaração ou outro ato que dê
+conhecimento da infração confessada (Nota Técnica Cosit nº 19/2012).
+a NA racn am análica A citiaita nacciva nada declaro em DCTE nara I0F e efetuou recolhimentos
+E is cido é Dead o à iii” Ade cds ítaca di a rf DD a A cd E
+do imposto no CNPJ das pessoas jurídicas que tomaram os empréstimos, quando o ntosedimento aiequado é
+que a pessoa jurídica que concede os empréstimos preencha suas próprias declarações e recolha os valores
+devidos no seu CNP), já que é responsável pela retenção e pelo pagamento do IOF.
+5. Para que os recolhimentos sejam aproveitados é necessário que se proceda ao REDARF com
+anuência das pessoas jurídicas cujo CNP) foi utilizado no campo próprio dos documentos de arrecadação e que
+o contribuinte registre o montante devido para cada período em DCTF.
+6. Face ao exposto, infere-se que não se configurou denúncia espontânea.
+EA À Equipe de Cobrança/Dicat/Derat para as providências cabíveis.
+20.   - No que interessa para este caso, considerando-se o teor do r. despacho decisório
+combatido, cabe analisar (i) se a Impetrante podia proceder, como de fato o fez, com a
+denúncia espontânea pretendida; (ii) se deveria recolher os valores em nome próprio ou sob
+o CNPJ das mutuárias; e (iii) se houve efetiva declaração dos valores denunciados, pela
+Impetrante, de forma a permitir seu conhecimento pela fiscalização.
+21.   - Ora, V. Exa., iniciemos pelos itens (i) e (ii) acima: a Impetrante podia sim proceder
+com a denúncia espontânea pretendida, porém realizando em nome das Distribuidoras
+Designadas (mutuárias) os respectivos recolhimentos.
+22.   - Como visto, é a própria legislação instituidora e regulamentadora do tributo quem
+define a pessoa jurídica mutuária como contribuinte, mas a mutuante como sendo responsável
+tributária pela retenção e recolhimento ao Tesouro Nacional dos valores devidos pelos
+contribuintes (mutuários) em função da tomada de valores em empréstimo entre pessoas
+jurídicas.
+23.   - E se o valor é retido pelo mutuante, que repassa ao mutuário o valor mutuado já líquido
+do IOF devido, não há como afirmar que possa, em nome próprio, realizar o recolhimento ao
+Tesouro Nacional. Leia-se: não poderá preencher as guias de recolhimento em nome próprio,
+utilizando CNPJ próprio, sob risco de se configurar na hipótese uma apropriação indébita dos
+valores que são devidos e recolhidos, ainda que indiretamente, pelos efetivos contribuintes,
+- 10/21 -
+www.mattosengelberg.com.br | 55 11 3938 1900 | Av. Chedid Jafet, 222 | Torre A - 4º andar - Vila Olimpia - São Paulo | SP | Brasil | 04551-065
+MATTOS ENGELBERG
+ADVOGADOS
+quais sejam, os mutuários (no caso específico, as Distribuidoras Designadas).
+24.   - Aliás, é de se notar que esse procedimento foi adotado não somente para fins de
+denúncia espontânea, mas também em momento anterior, no tocante aos recolhimentos
+inicialmente realizados (ainda que a menor), conforme se verifica dos respectivos DARFs, ora
+apresentados (DOC. 08).
+25.   - Com efeito, segue-se para o IOF o mesmo raciocínio aplicável para outros tributos
+sujeitos à retenção – como o IRRF –, sendo certo que são os contribuintes de fato, e não os
+responsáveis pela retenção e repasse, que detêm a titularidade desses valores, inclusive para
+fins de pedido de restituição/compensação.
+26.   - É o caso, por exemplo, dos valores retidos por empresas ao pagarem os salários de
+seus empregados. Ao final do exercício, essas fontes pagadoras são obrigadas a apresentar
+o Informe de Rendimentos a esses empregados para que possam apresentar suas
+respectivas declarações de ajuste, podendo até mesmo serem restituídos de valores
+eventualmente retidos/recolhidos a maior.
+27.   - A única diferença é que, para o IOF, não há que se falar na existência de uma
+declaração semelhante à DIRF a cuja apresentação estejam obrigadas as pessoas jurídicas
+mutuantes, mas isso não afasta o fato de que a Impetrante é a responsável pela retenção e
+recolhimento do IOF devido pelas suas mutuárias, de forma que não lhe pode ser tolhido o
+direito de corrigir erro por si cometido e identificado, na medida em que seria ela a
+responsabilizada, inclusive pelas multas e juros, caso a fiscalização identificasse sponte
+propria a irregularidade (recolhimento a menor).
+28.   - Por consequência, se poderia ser pessoalmente responsabilizada pela fiscalização
+acaso identificada a retenção/recolhimento realizada a menor na qualidade de responsável
+tributária, claro está que podia sim – como o fez – proceder ao recolhimento complementar e
+à denúncia espontânea, de modo a afastar a incidência da multa de mora. No entanto, não
+seria de forma alguma o caso de proceder a esse recolhimento em nome próprio, mas sim em
+nome das mutuárias, efetivas contribuintes, cujos débitos de IOF-Crédito calculados sobre
+montantes tomados a título de empréstimo da Impetrante serão extintos pelo encontro de
+contas realizado com os créditos em seu nome retidos e recolhidos pela própria Impetrante.
+29.   - No tocante ao item (iii) acima, por outro turno, a afirmação da d. fiscalização é até
+- 11/21 -
+www.mattosengelberg.com.br | 55 11 3938 1900 | Av. Chedid Jafet, 222 | Torre A - 4º andar - Vila Olimpia - São Paulo | SP | Brasil | 04551-065
+MATTOS ENGELBERG
+ADVOGADOS
+mesmo incoerente.
+30.   - Isso porque, MM. Juiz:
+a) inexiste previsão legal de preenchimento de uma declaração – no tocante ao IOF
+– semelhante à DIRF, por meio da qual a Impetrante informaria o Fisco quanto
+aos valores retidos e recolhidos em nome das mutuárias;
+b) por outro lado, inexistindo recolhimentos em nome próprio, os valores pagos a
+título de IOF-Crédito em nome das mutuárias jamais poderiam constar das DCTFs
+preenchidas e transmitidas em nome próprio pela Impetrante, sob risco de
+verdadeira apropriação indébita (haveria recolhimentos em muito superiores aos
+valores por si devidos, indevidamente gerando-lhe créditos a restituir); e
+c) por fim, o r. despacho decisório jamais teria sido proferido nos termos ora
+respondidos se a Impetrante, a despeito de não deter meios específicos
+legalmente previstos para tal fim, não tivesse logrado efetivamente levar ao
+conhecimento do Fisco – por declaração em via física, sob a forma de
+requerimento administrativo, originário do processo administrativo nº
+18186.720086/2018-62 – TODAS as informações necessárias acerca dos valores
+devidos e inicialmente não recolhidos, sendo objeto de complementação
+extemporânea, mas não precedida de quaisquer providências que pudessem
+descaracterizar a espontaneidade.
+II.3) Nota Técnica COSIT nº 19/2012
+31.   - Nem se alegue, como pretendeu o r. despacho decisório (o próprio ato coator
+combatido), que a Nota Técnica Cosit nº 19/2012 traria uma suposta vedação ao
+procedimento adotado pela Impetrante, na medida em que diz, expressamente:
+6. Em consequência, conclui-se:
+a) pelo cancelamento da Nota Técnica Cosit nº 1, de 18 de janeiro de 2012;
+b) que se considera ocorrida a denúncia espontânea, para fins de aplicação
+do artigo 19 da Lei nº 10.522, de 19 de julho de 2002:
+b1) quando o sujeito passivo confessa a infração, inclusive mediante a sua
+declaração em DCTF, e até este momento extingue a sua exigibilidade com
+- 12/21 -
+www.mattosengelberg.com.br | 55 11 3938 1900 | Av. Chedid Jafet, 222 | Torre A - 4º andar - Vila Olimpia - São Paulo | SP | Brasil | 04551-065
+MATTOS ENGELBERG
+ADVOGADOS
+o pagamento, nos termos do Ato Declaratório PGFN nº 4, de 20 de dezembro
+de 2011;
+b2) quando o contribuinte declara a menor o valor que seria devido e paga
+integralmente o débito declarado, e depois retifica a declaração para maior,
+quitando-o, nos termos do Ato Declaratório PGFN nº 8, de 20 de dezembro de
+2011;
+c) não se considera ocorrida denúncia espontânea, para fins de aplicação
+do artigo 19 da Lei nº 10.522, de 19 de julho de 2002:
+c1) quando o sujeito passivo paga o débito, mas não apresenta declaração
+ou outro ato que dê conhecimento da infração confessada;
+c2) quando o sujeito passivo declara o débito a menor, mas não paga o valor
+declarado e posteriormente retifica a declaração, pagando concomitantemente
+todo o débito confessado;
+c3) quando o sujeito passivo compensa o débito confessado, mediante
+apresentação de Dcomp; c4) quando o sujeito passivo declara o débito, mas o
+paga a destempo;
+d) que os eventuais pedidos de revisão de lançamento, restituição e/ou
+compensação dos créditos já constituídos nas situações do item “b” acima devem
+ser analisados com base no entendimento exarado nos Atos Declaratórios PGFN
+nºs 4 e 8, de 2011.
+32.   - Com efeito, a Nota Técnica é bastante clara: não ocorre a denúncia espontânea se o
+sujeito passivo, a despeito de pagar o débito, deixar de levá-lo ao conhecimento da
+fiscalização, seja por meio de declaração prevista na legislação, seja por qualquer outro
+ato que supra tal demanda de forma inconteste.
+33.   - Neste caso, inexistindo a possibilidade de apresentação de uma declaração específica
+(e a Nota Técnica mencionada a DCTF apenas exemplificativamente, o que se verifica pela
+expressão “inclusive”), o “outro ato que dê conhecimento da infração confessada”
+corresponde ao pedido administrativo apresentado em 08/01/2018, imediatamente após
+o cálculo e recolhimento integral dos saldos devidos, corrigidos pela Taxa Selic (mas sem a
+inclusão da multa moratória), que logrou sem sombra de dúvidas dar conhecimento à
+fiscalização quanto à infração cometida, confessada e corrigida.
+34.   - Nem poderia ser diferente, na medida em que uma simples Nota Técnica jamais
+poderia restringir um direito instituído e garantido aos contribuintes por lei complementar,
+- 13/21 -
+www.mattosengelberg.com.br | 55 11 3938 1900 | Av. Chedid Jafet, 222 | Torre A - 4º andar - Vila Olimpia - São Paulo | SP | Brasil | 04551-065
+MATTOS ENGELBERG
+ADVOGADOS
+como é o caso do art. 138 do CTN:
+Art. 138. A responsabilidade é excluída pela denúncia espontânea da infração,
+acompanhada, se for o caso, do pagamento do tributo devido e dos juros de mora,
+ou do depósito da importância arbitrada pela autoridade administrativa, quando o
+montante do tributo dependa de apuração.
+35.   - Ora, se o CTN não dispõe acerca de uma forma específica pela qual deva ser realizada
+a denúncia espontânea, não poderia simples Nota Técnica interna da RFB fazê-lo, em
+detrimento do interesse dos contribuintes, em especial se, como no presente caso, todas as
+informações necessárias foram levadas ao seu conhecimento, devidamente acompanhadas
+do recolhimento integral do saldo devido.
+II.4) Jurisprudência Pacífica e Pareceres/PGFN/CRJ nºs 2.114/2011 e 2.214/2011
+36.  - Por fim, é de relembrar, ainda, que o procedimento de denúncia espontânea em âmbito
+federal (justamente o presente caso) é regulado não apenas pelo art. 138 do CTN, mas
+considera também o teor dos Pareceres/PGFN/CRJ nºs 2.114/2011 e 2.214/2011, objeto
+respectivamente dos Atos Declaratórios nºs 04 e 08/2011, que obrigam tanto os
+procuradores quanto os fiscais da Receita Federal do Brasil e cujas ementas seguem
+abaixo:
+Denúncia espontânea. Exclusão da multa moratória. Inexistência de distinção
+entre multa moratória e multa punitiva, visto que ambas são excluídas em caso de
+configuração da denúncia espontânea. Inteligência do art. 138 do Código
+Tributário Nacional. Jurisprudência pacífica do Egrégio Superior Tribunal de
+Justiça. Aplicação da Lei nº 10.522, de 19 de julho de 2002, e do Decreto nº 2.346,
+de 10 de outubro de 1997. Possibilidade de a Procuradoria-Geral da Fazenda
+Nacional não contestar, não interpor recursos e desistir dos já interpostos, quanto
+à matéria sob análise. Necessidade de autorização do(a) Sr(a). Procurador(a)-
+Geral da Fazenda Nacional e aprovação do Sr. Ministro de Estado da Fazenda.
+A denúncia espontânea resta configurada na hipótese em que o contribuinte, após
+efetuar a declaração parcial do débito tributário (sujeito a lançamento por
+homologação) acompanhado do respectivo pagamento integral, retifica-a (antes
+de qualquer procedimento da Administração Tributária), notificando a existência
+- 14/21 -
+www.mattosengelberg.com.br | 55 11 3938 1900 | Av. Chedid Jafet, 222 | Torre A - 4º andar - Vila Olimpia - São Paulo | SP | Brasil | 04551-065
+MATTOS ENGELBERG
+ADVOGADOS
+de diferença a maior, cuja quitação se dá concomitantemente. Decisão do Egrégio
+Superior Tribunal de Justiça, com fulcro no art. 543 – C do CPC. Aplicação da Lei
+nº 10.522, de 19 de julho de 2002, e do Decreto nº 2.346, de 10 de outubro de
+1997. Procuradoria-Geral da Fazenda Nacional autorizada a não contestar, a não
+interpor recursos e a desistir dos já interpostos.
+37.  - Os referidos Atos Declaratórios dispõem que os agentes fiscais federais ficam
+dispensados de constituir créditos tributários concernentes à multa de mora em casos de
+denúncia espontânea ou, caso já constituída, ficam os procuradores liberados de manter a
+respectiva discussão, considerando-se a jurisprudência pacificada no âmbito do E. Superior
+Tribunal de Justiça quanto à efetiva aplicabilidade do art. 138 do CTN para fins de afastamento
+da multa de mora quando o recolhimento de saldos devedores tributários é feito
+espontaneamente pelo contribuinte, à vista – justamente como ocorreu neste caso. Veja-se:
+TRIBUTÁRIO. RECURSO ESPECIAL. DENÚNCIA ESPONTÂNEA. MULTA
+MORATÓRIA.
+EXCLUSÃO.
+1. O art. 138 do CTN não estabelece distinção entre a multa moratória e a
+punitiva, de modo que ambas são excluídas pela denúncia espontânea.
+Precedentes.
+2. Recurso especial não conhecido.
+(REsp 922.206/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA
+TURMA, julgado em 05/08/2008, DJe 22/08/2008, grifos nossos)
+PROCESSUAL CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE
+CONTROVÉRSIA. ARTIGO 543-C, DO CPC. TRIBUTÁRIO. IRPJ E CSLL.
+TRIBUTOS SUJEITOS A LANÇAMENTO POR HOMOLOGAÇÃO.
+DECLARAÇÃO PARCIAL DE DÉBITO TRIBUTÁRIO ACOMPANHADO DO
+PAGAMENTO INTEGRAL. POSTERIOR RETIFICAÇÃO DA DIFERENÇA A
+MAIOR COM A RESPECTIVA QUITAÇÃO. DENÚNCIA ESPONTÂNEA.
+EXCLUSÃO DA MULTA MORATÓRIA. CABIMENTO.
+1. A denúncia espontânea resta configurada na hipótese em que o contribuinte,
+após efetuar a declaração parcial do débito tributário (sujeito a lançamento por
+homologação) acompanhado do respectivo pagamento integral, retifica-a (antes
+de qualquer procedimento da Administração Tributária), noticiando a existência de
+diferença a maior, cuja quitação se dá concomitantemente.
+- 15/21 -
+www.mattosengelberg.com.br | 55 11 3938 1900 | Av. Chedid Jafet, 222 | Torre A - 4º andar - Vila Olimpia - São Paulo | SP | Brasil | 04551-065
+MATTOS ENGELBERG
+ADVOGADOS
+2. Deveras, a denúncia espontânea não resta caracterizada, com a consequente
+exclusão da multa moratória, nos casos de tributos sujeitos a lançamento por
+homologação declarados pelo contribuinte e recolhidos fora do prazo de
+vencimento, à vista ou parceladamente, ainda que anteriormente a qualquer
+procedimento do Fisco (Súmula 360/STJ) (Precedentes da Primeira Seção
+submetidos ao rito do artigo 543-C, do CPC: REsp 886.462/RS, Rel. Ministro Teori
+Albino Zavascki, julgado em 22.10.2008, DJe 28.10.2008; e REsp 962.379/RS,
+Rel.
+Ministro Teori Albino Zavascki, julgado em 22.10.2008, DJe 28.10.2008).
+3. É que "a declaração do contribuinte elide a necessidade da constituição formal
+do crédito, podendo este ser imediatamente inscrito em dívida ativa, tornando-se
+exigível, independentemente de qualquer procedimento administrativo ou de
+notificação ao contribuinte" (REsp 850.423/SP, Rel. Ministro Castro Meira,
+Primeira Seção, julgado em 28.11.2007, DJ 07.02.2008).
+4. Destarte, quando o contribuinte procede à retificação do valor declarado a
+menor (integralmente recolhido), elide a necessidade de o Fisco constituir o
+crédito tributário atinente à parte não declarada (e quitada à época da retificação),
+razão pela qual aplicável o benefício previsto no artigo 138, do CTN.
+5. In casu, consoante consta da decisão que admitiu o recurso especial na origem
+(fls. 127/138): "No caso dos autos, a impetrante em 1996 apurou diferenças de
+recolhimento do Imposto de Renda Pessoa Jurídica e Contribuição Social sobre o
+Lucro, ano-base 1995 e prontamente recolheu esse montante devido, sendo que
+agora, pretende ver reconhecida a denúncia espontânea em razão do
+recolhimento do tributo em atraso, antes da ocorrência de qualquer procedimento
+fiscalizatório.
+Assim, não houve a declaração prévia e pagamento em atraso, mas uma
+verdadeira confissão de dívida e pagamento integral, de forma que resta
+configurada a denúncia espontânea, nos termos do disposto no artigo 138, do
+Código Tributário Nacional."
+6. Consequentemente, merece reforma o acórdão regional, tendo em vista a
+configuração da denúncia espontânea na hipótese sub examine.
+7. Outrossim, forçoso consignar que a sanção premial contida no instituto da
+denúncia espontânea exclui as penalidades pecuniárias, ou seja, as multas
+de caráter eminentemente punitivo, nas quais se incluem as multas
+moratórias, decorrentes da impontualidade do contribuinte.
+- 16/21 -
+www.mattosengelberg.com.br | 55 11 3938 1900 | Av. Chedid Jafet, 222 | Torre A - 4º andar - Vila Olimpia - São Paulo | SP | Brasil | 04551-065
+MATTOS ENGELBERG
+ADVOGADOS
+8. Recurso especial provido. Acórdão submetido ao regime do artigo 543-C, do
+CPC, e da Resolução STJ 08/2008.
+(STJ, Recursos Repetitivos, Tema 385, REsp 1149022/SP, Rel. Ministro LUIZ
+FUX, PRIMEIRA SEÇÃO, julgado em 09/06/2010, DJe 24/06/2010, grifos nossos)
+38.   - Considerando todo o exposto, inclusive no tocante a esses Atos, o ato coator ora
+combatido (leia-se: o r. despacho decisório) não tem mesmo razão de ser, devendo ser
+afastado por este MM. Juízo, com a concessão da medida liminar ora requerida, que suspenda
+a exigibilidade do crédito tributário relativo à multa de mora que deixou de ser recolhida em
+razão da denúncia espontânea levada a efeito pela Impetrante, e ao final impedindo-se ou
+cancelando-se quaisquer atos da Fiscalização tendentes à cobrança da multa de mora.
+III. DA CONCESSÃO DA MEDIDA LIMINAR – DO PREENCHIMENTO DOS
+REQUISITOS DO FUMUS BONI IURIS E DO PERICULUM IN MORA
+39.   - O objeto motivador da presente ação mandamental é obter provimento
+jurisdicional que garanta à Impetrante seu direito líquido e certo ao afastamento da
+obrigatoriedade de recolhimento da multa de mora em razão do atendimento a todas as
+condições legais concernentes à denúncia espontânea do IOF-Crédito levada a efeito em
+08/01/2018, quais sejam, o cálculo e recolhimento integral e à vista dos valores devidos,
+acrescidos de juros de mora, e a apresentação à autoridade fiscal de todas as informações
+necessárias à identificação da infração cometida e espontaneamente corrigida.
+40.   - Nesse ponto, era de fato a Impetrante (mutuante) quem poderia levar a efeito a
+denúncia espontânea, por ser a única entidade envolvida que detinha todas as informações
+necessárias ao cálculo, além de ser legalmente a responsável tributária pelo recolhimento,
+ainda que realizado em nome das Distribuidoras Designadas (mutuárias).
+41.   - Não bastasse, como ficou absolutamente claro, os valores pagos em sede de
+denúncia espontânea correspondem com exatidão aos valores inicialmente recolhidos
+a menor, o que resta cabalmente demonstrado pelo fato de que o próprio despacho
+decisório combatido em momento algum questiona a integralidade ou suficiência dos
+valores recolhidos a título de principal e juros de mora, mas tão somente a não inclusão
+da multa de mora.
+- 17/21 -
+www.mattosengelberg.com.br | 55 11 3938 1900 | Av. Chedid Jafet, 222 | Torre A - 4º andar - Vila Olimpia - São Paulo | SP | Brasil | 04551-065
+MATTOS ENGELBERG
+ADVOGADOS
+42.   - Acrescente-se a isso o fato de que TODAS as informações e documentos
+necessários à denúncia espontânea foram efetivamente levadas ao conhecimento da
+Fiscalização, por meio da petição protocolizada em 08/01/2018 e que gerou o processo
+administrativo nº 18186.720086/2018-62, inexistindo campo próprio para tanto em DCTF ou
+mesmo outra declaração que a Impetrante pudesse ter transmitido para esse fim.
+43.   - Diante disso e do quanto exposto nos itens precedentes, o fumus boni iuris resta
+claro, considerando-se a suficiência do recolhimento realizado e o atendimento a todas as
+condições legais impostas para a exclusão da responsabilidade (ou seja, para a não exigência
+da multa de mora).
+44.   - Por seu turno, o periculum in mora está presente na clara intenção da d.
+Autoridade Coatora de lançar e cobrar o crédito tributário consubstanciado na multa de mora
+que deixou de ser recolhida em razão da denúncia espontânea, o que se verifica pelo
+encaminhamento do processo administrativo nº 18186.720086/2018-62, já em
+16/01/2018, à Equipe de Controle e Cobrança do Crédito Tributário – DERAT – SPO,
+conforme se verifica do extrato anexo, obtido por meio do COMPROT:
+UE To
+E] Comprot - Comunicação e Protocolo
+Fundido: Consulta de Processo
+« Consultar Processo
+Dados Básicos | Movimentos Posicionamentos
+Dados do Processo.
+com roi
+angupgtAmENTO DE
+Cadastrar Novo Número: 18186720086/2018:62
+Usuário Data de Protocolo: 08/01/2018
+Alterar Dados do Documento de REQ
+Usuário Origem:
+Procedência: PROCESSO DIGITAL
+Cancelar
+Acompanhamento Assunto: COBRANCA-IOF
+Nome dl Interessado: CAMARA DE COMERCIALIZAÇÃO DE ENERGIA ELE
+Incluir Processo de ENE iai dosoisa
+Interesse
+Tipo: Digital
+ad Cencesso dê Sistemas: Profisc: Não e-Processo: Sim SIEF. Aguardando
+Cadastramento SIEF
+Localização Atual
+Órgão de Origem: DIV CONTROLE ACOMP TRIBUTARIO DERAT-SPO
+Órgão: EQ CONTROLE COBRANCA CRED TRIB-DERAT-SPO
+Movimentado em: 16/01/2018
+Sequência: 0006
+RM: 10340
+Situação: EM ANDAMENTO
+ur se
+Este documento não indica a existência de qualquer direito creditório.
+7)
+- 18/21 -
+www.mattosengelberg.com.br | 55 11 3938 1900 | Av. Chedid Jafet, 222 | Torre A - 4º andar - Vila Olimpia - São Paulo | SP | Brasil | 04551-065
+MATTOS ENGELBERG
+ADVOGADOS
+45.   - Ou seja, o lançamento do crédito tributário relativo à multa de mora é iminente,
+sendo de rigor que se determine à d. Autoridade Coatora que se abstenha de adotar quaisquer
+atos tendentes à respectiva constituição ou, acaso já constituído o crédito tributário, que seja
+suspensa sua exigibilidade, nos termos do art. 151, IV, do CTN, ao menos até final decisão a
+ser proferida nestes autos, sendo certo que eventual exigência da multa de mora em tela
+jamais poderia consubstanciar-se impeditivo à emissão de certidão de regularidade fiscal em
+nome da Impetrante.
+46.   - Isso porque serão significativos os prejuízos a serem suportados pela Impetrante
+– e, por consequência, pelo setor elétrico brasileiro, em que atua na condição de entidade
+responsável, em ambiente regulado de contratação, pela viabilização das operações de
+compra e venda de energia elétrica, em moldes similares ao da atuação da BMF/BOVESPA
+no mercado de ações – caso seja mantido exigível o referido crédito tributário, na medida em
+que exerce atividade pública por função delegada (ou seja, suas atividades são desenvolvidas
+eminentemente por meio de relações com órgãos públicos), para o que não pode deixar de
+portar certidão que ateste sua plena regularidade fiscal, ao que estaria impedida caso o crédito
+tributário em questão não tenha sua exigibilidade suspensa.
+47.   - Observe-se, ademais, que deixar de deferir o presente pedido de liminar,
+eventualmente condicionando a suspensão da exigibilidade do valor em tela ao seu depósito
+em juízo, seria de todo desarrazoado, não apenas porque estão de fato presentes no caso
+todos os pressupostos permissivos da concessão da liminar, mas também em razão do
+aspecto público do fundo administrado pela Impetrante4, em que todos os recursos são
+revertidos em benefício do setor elétrico e da própria universalização da energia5, não sendo,
+assim, razoável exigir da Impetrante a disponibilização de recursos, que de outra forma seriam
+empregados em prol do próprio setor, para garantia de crédito tributário manifestamente
+indevido.
+48.   - Assim, considerando-se todo o acima exposto, resta incontroversa a plausibilidade
+4 Relembre-se: a Impetrante é gestora, por função delegada, de acordo com a Lei Federal nº 13.360/2016, do
+fundo setorial denominado Reserva Global de Reversão – RGR, responsabilizando-se pela concessão de
+empréstimos periódicos às Distribuidoras Designadas de energia elétrica, conforme previsão da Resolução
+Normativa n.º 748/2016, da Aneel.
+5 Os Fundos Setoriais administrados pela CCEE, quais sejam, a Conta de Desenvolvimento Energético – CDE, a
+Reserva Global de Reversão – RGR e a Conta de Consumo de Combustível – CCC, possuem a função de (i)
+promover a universalização de energia em todo o país (inc. I, art. 13 da Lei Federal nº 10.438/02); bem como de
+(ii) patrocinar estudos e pesquisas para o desenvolvimento do setor (inc. III, § 4º, art. 4º da Lei nº 5.655/71).
+- 19/21 -
+www.mattosengelberg.com.br | 55 11 3938 1900 | Av. Chedid Jafet, 222 | Torre A - 4º andar - Vila Olimpia - São Paulo | SP | Brasil | 04551-065
+MATTOS ENGELBERG
+ADVOGADOS
+do direito da Impetrante, razão porque se socorre da via processual do Mandado de
+Segurança e, face à relevância do fundamento e à ineficácia da presente medida caso
+deferida somente ao final, torna-se imprescindível a concessão por Vossa Excelência da
+medida liminar para impedir a Autoridade Coatora de constituir o crédito tributário concernente
+à multa de mora ou, acaso já constituído, suspender sua exigibilidade, impedindo-se que se
+consubstancie impeditivo à renovação da certidão que ateste a plena regularidade fiscal da
+Impetrante, posto que presentes os requisitos do fumus boni iuris e periculum in mora,
+consoante o inciso III, artigo 7º, da Lei Federal nº 12.016/09.
+IV. DOS PEDIDOS
+49.   - Por todo o exposto, a Impetrante requer:
+a) a distribuição e acatamento do presente mandamus com o deferimento de medida
+liminar inaudita altera parte, para que seja determinado à d. Autoridade Coatora
+que deixe de adotar quaisquer atos tendentes ao lançamento de crédito tributário
+consubstanciado na multa de mora afastada em razão da denúncia espontânea
+ou, acaso já constituído, que seja suspensa sua exigibilidade nos termos o art.
+151, IV, do CTN, de modo que não se consubstancie impeditivo à renovação da
+certidão que ateste a plena regularidade fiscal da Impetrante, até que venha a ser
+proferida decisão transitada em julgada nestes autos;
+b) a notificação da Autoridade Impetrada para prestar suas informações no prazo
+legal, sendo intimada a União Federal e ouvido o Ministério Público Federal;
+c) a confirmação, ao final, de medida liminar (e mantidos os seus efeitos) e
+concessão em definitivo da segurança pretendida neste writ, para assegurar à
+Impetrante o direito ao afastamento da multa de mora em razão da denúncia
+espontânea levada a efeito, cancelando-se eventual crédito tributário que tenha
+sido/venha a ser constituído para fins de sua cobrança; e
+d) ainda, que todas as intimações relativas ao presente feito sejam realizadas,
+exclusivamente, em nome do subscritor da presente.
+50.   - Os subscritores do presente declaram a autenticidade das cópias juntadas aos
+- 20/21 -
+www.mattosengelberg.com.br | 55 11 3938 1900 | Av. Chedid Jafet, 222 | Torre A - 4º andar - Vila Olimpia - São Paulo | SP | Brasil | 04551-065
+MATTOS ENGELBERG
+ADVOGADOS
+autos, responsabilizando-se pessoalmente por esta declaração.
+51.   - Atribui-se à causa o valor de R$ 3.063.439,88 (três milhões, sessenta e três mil,
+quatrocentos e trinta e nove reais e oitenta e oito centavos), conforme memória de cálculo do
+valor da multa de mora devidamente atualizada até fevereiro de 2018 (DOC. 096), estando
+anexo o comprovante de recolhimento das custas iniciais devidas (DOC. 10).
+52.   - O advogado que subscreve esta petição indica que integra a sociedade de
+advogados Mattos Engelberg, situada na Avenida Chedid Jafet, 222, Bloco A, 4º andar, Vila
+Olímpia, na cidade de São Paulo, SP, CEP 04551-065, bem como o e-mail
+paulo.sigaud@mattosengelberg.com.br para fins de comunicação.
+Termos em que,
+pede deferimento.
+São Paulo, 28 de fevereiro de 2018.
+PAULO SIGAUD CARDOZO
+OAB/SP Nº 103.956
+6 A integralidade da planilha de memória de cálculo será apresentada em mídia eletrônica na Secretaria, logo após
+a distribuição do presente Mandado de Segurança, tendo em vista a inviabilidade sistêmica do PJe de receber o
+documento, com base nos termos da Resolução do CNJ nº 185 de 18/12/2013.
+- 21/21 -
+www.mattosengelberg.com.br | 55 11 3938 1900 | Av. Chedid Jafet, 222 | Torre A - 4º andar - Vila Olimpia - São Paulo | SP | Brasil | 04551-065 

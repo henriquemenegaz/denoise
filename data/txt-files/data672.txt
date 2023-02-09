@@ -1,0 +1,23 @@
+PODER JUDICIÁRIO DO ESTADO DE RONDÔNIA
+ Tribunal de Justiça de Rondônia
+ {{orgao_julgador.nome}}
+ {{orgao_julgador.endereco}}
+  Autos: 0001483-76.2014.8.22.0005
+  Classe Processual: Execução Fiscal
+  Parte requerente: EXEQUENTE: MUNICIPIO DE JI-PARANA
+  Advogado da parte requerente: ADVOGADO DO EXEQUENTE: PROCURADORIA GERAL DO MUNICÍPIO DE JI-PARANÁ
+  Parte requerida: EXECUTADO: V L TILLMANN
+  Advogado da parte requerida: EXECUTADO SEM ADVOGADO(S)
+  SENTENÇA
+  Os autos foram arquivados provisoriamente nos termos do art. 40, §2º da Lei n. 6.830/80 e assim permaneceram até que o serviço cartorário promovesse seu desarquivamento e a intimação do exequente para se manifestar.
+  No caso, nota-se que entre a data do arquivamento até que ocorresse o desarquivamento transcorreram mais de 05 (cinco) anos, de modo que a execução foi atingida pela prescrição intercorrente.
+  Acerca do início do prazo para contagem da prescrição intercorrente após a propositura da ação, o Superior Tribunal de Justiça ao julgar o REsp 1.340.553/RS, submetido ao regime do art. 543-C, do CPC/1973 (art. 1.036, do CPC/2015), firmou entendimento de que o prazo de um ano para a prescrição intercorrente, previsto no art. 40 da LEF, começa a ser contado do momento em que a Fazenda toma ciência da impossibilidade de localização do devedor ou de bens para penhora, sendo indiferente, para a contagem do prazo prescricional, o fato de a Fazenda ter peticionado solicitando a suspensão do feito para realização de diligências, sendo necessária a menção expressa à ocorrência de circunstância prevista no art. 40 da LEF, pouco importando, para fins de contagem de prazo, despacho do juiz determinando a suspensão ou arquivamento do feito, por serem meros atos declaratórios. Ainda, só a efetiva penhora pode interromper o prazo prescricional, sendo que mera petição da Fazenda solicitando a penhora não tem esse condão interruptivo/suspensivo.
+  Conforme relatado, houve paralisação da demanda com fulcro no art. 40, §2º e desde então não houve impulso do feito por parte do exequente no sentido de localizar bens passíveis de penhora, decorrendo o prazo de 05 (cinco) anos, restando, portanto, consumada a prescrição.
+  Ante o exposto, nos termos do §4º do art.40 da LEF e com fundamento o art. 174 do Código Tributário Nacional e Súmula 150 do STF, declaro ocorrida a prescrição intercorrente da presente execução fiscal e, via de consequência, nos termos do que dispõe o art. 487, II c/c 924, V, ambos do Código de Processo Civil, julgo extinta a execução com decisão de mérito.
+  Desconstituo qualquer ato de penhora porventura realizado nos autos.
+  Sem custas.
+  Certificado o trânsito em julgado, arquivem-se os autos, observadas as formalidades legais.
+  P.R.I.
+  Ji-Paraná, 20 de julho de 2021
+  Fábio Batista da Silva
+ Juiz de Direito

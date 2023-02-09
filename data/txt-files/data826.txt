@@ -1,0 +1,56 @@
+Poder Judiciário
+JUSTIÇA FEDERAL DE PRIMEIRO GRAU
+MANDADO DE SEGURANÇA CÍVEL (120) Nº 5000815-61.2021.4.03.6108 / 3ª Vara Federal de Bauru
+    IMPETRANTE: COOPERMOTA COOPERATIVA AGROINDUSTRIAL
+    Advogado do(a) IMPETRANTE: RUBIO EDUARDO GEISSMANN - SC10708
+    IMPETRADO: DELEGADO DA RECEITA FEDERAL EM BAURU//SP, UNIAO FEDERAL - FAZENDA NACIONAL
+            S E N T E N Ç A
+  Provimento COGE n.º 73/2007: Sentença Tipo C
+  Vistos etc.
+  Trata-se de mandado de segurança impetrado por COOPERMOTA COOPERATIVA AGROINDUSTRIAL, em 01/03/2021, às 16:23:59 (Doc. Id 46328966 - Pág. 1), em face do DELEGADO DA RECEITA FEDERAL DO BRASIL EM BAURU/SP, objetivando a concessão de segurança para determinar à autoridade impetrada:
+  1) que se abstenha de efetuar a compensação de ofício e a retenção do crédito de PIS/Pasep e Cofins que se refere a RESSARCIMENTO reconhecido em favor da impetrante, diante da sua discordância com a compensação de ofício, procedendo-se à inscrição do crédito citado em ordem de pagamento da Receita Federal do Brasil e ao devido ressarcimento do crédito na via administrativa atualizado pela taxa Selic, contados a partir do transcurso do prazo de 360 dias da data do respectivo protocolo administrativo até a data do seu efetivo creditamento, dos processos relacionados no ANEXO I e ANEXO III;
+  2) que se abstenha de efetuar a compensação de ofício e a retenção do crédito de PIS/Pasep e Cofins que se refere a RESTITUIÇÃO reconhecida em favor da impetrante, diante da sua discordância com a compensação de ofício, procedendo-se à inscrição do crédito em ordem de pagamento da Receita Federal do Brasil e à restituição do crédito na via administrativa, dos processos relacionados no ANEXO II e ANEXO IV.
+  Atribuiu à causa o valor de R$ 935.441,17 (novecentos e trinta e cinco mil e quatrocentos e quarenta e um reais e dezessete centavos).
+  Juntou procuração e documentos.
+  Certidão apontando possibilidade de prevenção, no Doc. Id 46343747.
+  Antes de qualquer intervenção do juízo, a impetrante asseverou que, por erro de sistema, foi gerada a presente ação, cujo objeto também é idêntico ao dos autos n.º 5000816-46.2021.4.03.6108. Por tal motivo, formulou desistência da presente demanda (Doc. Id 46987596).
+  É a síntese do necessário.
+  Fundamento e decido.
+  Em consulta aos autos n.º 5000816-46.2021.4.03.6108, distribuídos à e. 1ª Vara, constatamos que lá fora formulado pleito idêntico ao aqui lançando e envolvendo as mesmas partes (Doc. Id 46330839 daqueles autos e Doc. Id 46328966 destes autos), e que, em 04/03/2021, lá houve lavratura de despacho (Doc. Id 46535498 daquele feito) determinando, dentre outras providências, a notificação da autoridade impetrada.
+  Naquele feito, a Fazenda Nacional já manifestou, em 16/03/2021, seu interesse em atuar (Doc. Id 47224802 daquele feito).
+  Contudo, observo que, em verdade, o feito em trâmite na 1ª Vara foi distribuído posteriormente a este, em 01/03/2021, às 16:38:02 (Doc. Id 46330839 daqueles autos), tendo, por isso, recebido o número 816, imediatamente seguinte ao recebido por este.
+  Logo, a princípio, aquele feito de n.º 5000816-46.2021.4.03.6108 deveria ser extinto, em razão de litispendência, já que se trata de ação idêntica a esta e foi distribuída depois desta (lembrando que esta foi distribuída em 01/03/2021, às 16:23:59, Id 46328966, p. 1).
+  Acontece que, em verdade, analisando-se os feitos indicados na certidão de ID 46343747, indicativa de possível prevenção/ dependência, é possível constatar que, além dos dois feitos acima, foi distribuída outra demanda, anteriormente, perante o Juízo da 1ª Vara local, com os mesmos pedidos, causa de pedir e partes, qual seja, o feito que recebeu o n.º 5000811-24.2021.4.03.6108, em 01/03/2021, às 14:39:08, no qual a parte impetrante, assim como nestes autos, requereu a desistência, em razão da existência do feito idêntico de n.º 5000816-46.2021.4.03.6108, tendo sido proferida sentença de extinção sem mérito em 15/04/2021 (IDs 46311609, 46986997 e 48574818 daqueles autos).
+  Desse modo, pode ser montado o seguinte quadro acerca da descrita litispendência:
+ 	 5000811-24.2021
+ 	 5000815-61.2021
+ 	 5000816-46.2021
+	 Data
+ 	 01/03/2021
+ 	 01/03/2021
+ 	 01/03/2021
+	 Hora
+ Distribuição
+ 	 14:39:08
+ 	 16:23:59
+ 	 16:38:02
+	 Vara
+ 	 1ª
+ 	 3ª
+ 	 1ª
+	 Desfecho
+ 	 Sentença homologando pedido de desistência
+ 	 Pedido de desistência pendente
+ 	 Em andamento
+  Do quadro, extrai-se que, em tese, deveriam ser extintos, por litispendência, os feitos 5000815-61.2021.4.03.6108 e 5000816-46.2021.4.03.6108, por terem sido distribuídos posteriormente ao de n.º 5000811-24.2021.4.03.6108
+  E mais. Em tese, em virtude da litispendência, os três feitos deveriam ter sido distribuídos ou serem redistribuídos ao juízo prevento, o qual, a princípio, seria o da 1ª Vara Federal, conforme a regra do art. 59 do CPC: "O registro ou a distribuição da petição inicial torna prevento o juízo".
+  Acontece que, como vimos, o terceiro feito está mais adiantado que este (segundo), já tendo havido notificação e manifestação da autoridade impetrada, bem como ingresso da pessoa jurídica interessada, enquanto que o primeiro feito, que deveria permanecer, já foi extinto, sem resolução do mérito, por desistência. Acrescente-se que a parte autora também já requereu a desistência deste feito.
+  Dessa forma, havendo pedido de desistência expressa deste feito e já havendo outro feito idêntico com tramitação mais acelerada, em vez de remessa destes autos ao juízo prevento para extinção, por economia processual, recebo e acolho o pedido desistência aqui formulado.
+  Diante do exposto, homologo o pedido de desistência e JULGO EXTINTO o feito em tela, sem resolução do mérito, nos termos do artigo 485, Inciso VIII, do Código de Processo Civil.
+  Não há condenação em honorários advocatícios conforme as Súmulas 512 do STF e 105 do STJ, e nos termos do art. 25 da Lei n.º 12.016/09.
+  Sem custas, face à multiplicidade de feitos distribuídos e o pedido de desistência antes de qualquer pronunciamento judicial.
+  Certificado o trânsito em julgado, nada mais havendo ou sendo requerido, arquivem-se os autos, com baixa na distribuição.
+  Publique-se. Registre-se. Intimem-se.
+  Bauru/SP, data da assinatura eletrônica.
+  Maria Catarina de Souza Martins Fazzio
+                   Juíza Federal Substituta

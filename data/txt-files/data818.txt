@@ -1,0 +1,34 @@
+Poder Judiciário
+JUSTIÇA FEDERAL DE PRIMEIRO GRAU
+EXECUÇÃO DE TÍTULO EXTRAJUDICIAL (159) Nº 5026414-94.2019.4.03.6100 / 1ª Vara Cível Federal de São Paulo
+    EXEQUENTE: CAIXA ECONÔMICA FEDERAL
+    EXECUTADO: MARIA LUCIA DE SOUZA E SILVA
+    Advogado do(a) EXECUTADO: ANTONIO BEZERRA LIMA - SP208739
+      S E N T E N Ç A
+  Vistos e etc.
+  CAIXA ECONÔMICA FEDERAL, devidamente qualificada nos autos, propôs a presente Ação de Execução de Título Extrajudicial em face de MARIA LUCIA DE SOUZA E SILVA, objetivando o recebimento de R$ 83.489,48, decorrentes do inadimplemento de contrato de crédito consignado.
+  Compareceu aos autos ISVALDO BEZERRA E SILVA, noticiando ser viúvo da executada e requerendo sua habilitação nos autos (ID 28424486). Juntou documentos pessoais, certidão de casamento e certidão de óbito da executada, ocorrida em 25/11/2016, conforme ID 28834365.
+  O Cônjuge supérstite opôs exceção de pré-executividade, noticiando o falecimento da executada em data anterior à propositura da ação executiva, a existência de seguro para quitação do saldo devedor e a notificação da instituição financeira logo após o óbito da consignatária, fato que torna o titulo que embasa a execução inexigível. Sustentou, ainda, que mesmo que não existisse o seguro, a divida estaria extinta nos termos da Lei nº do artigo 16 da Lei nº 1.46/50 (ID 28835913).
+  Intimada, a Caixa Econômica Federal impugnou a exceção (ID 29866619).
+  É o relatório.
+  Fundamento e decido.
+  De início, acolho o pedido de habilitação de ISVALDO BEZERRA E SILVA, que foi casado com Maria Lucia de Souza e Silva até a data do óbito desta, conforme demonstram a certidão de casamento e de óbito (ID's 28834368 e 28834365).´, sendo seu único herdeiro, conforme carta de adjudicação de ID 28834371, não tendo havido oposição da parte contraria, apesar de regularmente intimada.
+  Assim, deve o feito prosseguir em face do habilitado nos termos dos artigos 688, II, c/c art. 778 a 780, todos do Código de Processo Civil.
+  Passo a me manifestar acerca dos pedidos de extinção da execução.
+  O contrato de empréstimo mediante consignação em pagamento foi assinado em 30 de novembro de 2015, nele constando o pagamento de seguro à vista, no importe de R$ 500,00. O seguro foi oferecido pela Seguradora Pan Seguro, com registro na SUSEP sob nº 15414003308201183 (ID 26082337).
+  As condições gerais do seguro contratado constam do ID 28834384, que traz a mesma numeração do regitro na SUSEP, qual seja, Processo SUSEP nº 15414.003308/2011-83, fato que elimina qualquer dúvida de que se trata de seguro do empréstimo concedido.
+  A fl. 10 das condições gerais consta que o seguro tem por objetivo garantir a quitação parcial ou total da dívida contraída pelo segurado junto ao estipulante, enquanto que no item 3.1 consta que a cobertura básica oferecida pela apólice garante o pagamento de uma indenização equivalente ao saldo devedor existente na data da ocorrência do evento coberto, qual seja, a MORTE do contratante.
+  Ora, o contrato faz lei entre as partes, obrigando contratante e contratado. No caso em tela, a natureza do contrato é de adesão, no qual a contratante do empréstimo e do seguro não pode alterar as clausulas, devendo, simplesmente, aderir ou não. Mas, firmado o instrumento, deverá cumpri-lo em todos os seus termos.
+  Ao contratado, que redige as cláusulas, adequando-as à lei, mas, também, aos seus interesses, impõe-se mais ainda a observância das cláusulas por ele mesmo redigidas.
+  No caso em tela restou demonstrado que o então inventariamente notificou, em 20/12/2016, o Banco Pan acerca do falecimento da devedora, conforme demonstram os documentos constantes do ID 28834388.
+  Assim, nos termos do seguro contratado, o saldo devedor existente a partir da data do óbito deveria ter sido quitada pela Instituição Financeira por conta do seguro contratado, que foi pago à vista pela contratante.
+  Portanto, a Caixa Econômica Federal não dispõe de titulo a embasar a presente execução, visto que, quando adquiriu o crédito, este não era mais exigível.
+  Por fim, cumpre destacar que é devido o pagamento de honorários advocatícios nos casos de acolhimento de exceção de pré-executividade. Neste sentido o seguinte julgado da Primeira Seção do STJ
+  "PROCESSUAL CIVIL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. FAZENDA PÚBLICA SUCUMBENTE. CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS. POSSIBILIDADE. 1. É possível a condenação da Fazenda Pública ao pagamento de honorários advocatícios em decorrência da extinção da Execução Fiscal pelo acolhimento de Exceção de Pré-Executividade. 2. Recurso Especial parcialmente conhecido e, nessa parte, provido. Acórdão sujeito ao regime do art. 543-C do CPC e ao art. 8º da Resolução STJ 8/2008."
+  (REsp 1185036/PE, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 08/09/2010, DJe 01/10/2010).
+  Ante o exposto e por tudo o que nos autos consta, declaro habilitado ISVALDO BEZERRA E SILVA para prosseguir no polo passivo da presente demanda e ACOLHO  a presente exceção de pré-executividade, reconhecendo a extinção da dívida ora executada em face da existência de seguro prestamista que garantia a quitação integral do saldo devedor no caso de morte, o que retira do titulo executado o requisito da exigibilidade. Desta forma, JULGO EXTINTA a presente execução sem a resolução do mérito, nos termos do artigo 783 c/c art. 485, VI, do Código de Processo Civil.
+  Condeno a exequente ao pagamento de honorários advocatícios fixados em 10% sobre o valor atribuído à causa, nos termos do artigo 85, § 2º do Código de Processo Civil.
+  Publique-se. Registre-se. Intimem-se.
+  São Paulo, data registrada no sistema.
+  MARCO AURELIO DE MELLO CASTRIANNI
+  Juiz Federal

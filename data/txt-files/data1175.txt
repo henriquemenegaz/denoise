@@ -1,0 +1,151 @@
+Poder Judiciário
+JUSTIÇA FEDERAL DE PRIMEIRO GRAU
+MANDADO DE SEGURANÇA (120) Nº 5020195-36.2017.4.03.6100 / 1ª Vara Cível Federal de São Paulo
+  IMPETRANTE: SUMUS INFORMATICA E COMERCIO LTDA, 8S SOLUCOES E CONSULTORIA EM TELECOMUNICACOES LTDA
+  Advogados do(a) IMPETRANTE: CAROLINA FERNANDA NOVELLO - SP376451, ANA LETICIA INDELICATO PALMIERI - SP316635, ARTHUR SAIA - SP317036, LUIZ HENRIQUE DELLIVENNERI MANSSUR - SP176943, THIAGO CERAVOLO LAGUNA - SP182696
+Advogados do(a) IMPETRANTE: CAROLINA FERNANDA NOVELLO - SP376451, ANA LETICIA INDELICATO PALMIERI - SP316635, ARTHUR SAIA - SP317036, LUIZ HENRIQUE DELLIVENNERI MANSSUR - SP176943, THIAGO CERAVOLO LAGUNA - SP182696
+  IMPETRADO: DELEGADO DA RECEITA FEDERAL DE ADMINISTRAÇÃO TRIBUTÁRIA - DERAT/SP, UNIAO FEDERAL - FAZENDA NACIONAL
+         S E N T E N Ç A
+  A impetrante requer objetivando provimento que afaste a exigibilidade da inclusão do ISSQN da base de cálculo do PIS, da COFINS e da CPRB, declarando-se o direito à compensação dos valores recolhidos.
+  Alega a impetrante, em síntese, que o ISSQN, por se tratar de imposto que transita provisoriamente em seu patrimônio, não configura receita bruta. Portanto, não pode compor a base de cálculo de referidas contribuições.
+  A inicial veio instruída com documentos.
+  Indeferiu-se o pedido de liminar.
+  Manifestou-se a União Federal.
+  Prestadas as informações, a autoridade impetrada esclareceu, preliminarmente, a competência da DERAT e, no mérito, defendeu a legalidade do ato.
+  Pela instância superior, comunicou-se o deferimento da tutela recursal nos autos do agravo de instrumento interposto.
+  Manifestou-se o Ministério Público Federal, opinando pelo prosseguimento do feito, sem a sua intervenção.
+  É o relatório.
+  Fundamento e decido.
+  A Constituição Federal, no inciso I do artigo 195, com a redação original, ao se referir a faturamento, autorizou a imposição das contribuições sociais sobre os valores que ingressam nas pessoas jurídicas como resultado da exploração da atividade econômica.
+  A fixação dos elementos do tributo em termos técnicos cabe ao legislador infraconstitucional, e assim foi feito aos se definir faturamento mensal como "a receita bruta da pessoa jurídica" (art. 3º da Lei 9.718/98).
+  Nesse sentido a jurisprudência do C. Supremo Tribunal Federal:
+  "Em se tratando de contribuições sociais previstas no inciso I do art. 195 da Constituição Federal - e esta Corte deu pela constitucionalidade do art. 28 da Lei 7.738/89 por entender que a expressão receita bruta nele contida há de ser compreendida como faturamento -, se aplica o disposto no art. §6º desse mesmo dispositivo constitucional, que, em sua parte final, afasta, expressamente a aplicação a elas do princípio da anterioridade como disciplinado no art. 150, III, b, da Carta Magna."
+  (STF, Primeira Turma, , RE 167.966/MG, Rel. Min. Moreira Alves, DJ. 09/06/1995, p. 1782).
+  A Lei 9.718/98 já definia o faturamento como receita bruta, entendida como "a totalidade das receitas auferidas pela pessoa jurídica, sendo irrelevantes o tipo de atividade por ela exercida e a classificação contábil adotada para as receitas" (art. 3º, §1º). Contudo, seguindo o julgamento do STF no 346.084-6, o faturamento deve se circunscrever à receita bruta de venda de mercadoria e de prestação de serviços, conforme conceito exposto na Lei Complementar n. 70/91.
+  O art. 1º da Lei 10.637/02 define o faturamento praticamente da mesma forma, como "o total das receitas auferidas pela pessoa jurídica, independentemente de sua denominação ou classificação contábil".
+  A Lei 10.637/02, assim, não modifica a base de cálculo sobre a qual incidirá a contribuição para o PIS, mas estabelece, tão somente, normas para a não-cumulatividade da exação. Não houve nenhuma alteração prática quanto à base de cálculo do tributo combatido, porquanto serão aplicáveis a Lei 9.718/98 e Lei Complementar n. 70/91, cuja previsão é a mesma que se pretende ver afastada.
+  Nesse sentido:
+  AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. COFINS. COOPERATIVA. EXIGIBILIDADE. CONSTITUCIONALIDADE.  MEDIDA PROVISÓRIA Nº135/03 E LEI Nº10.833/03. AUSÊNCIA DE VIOLAÇÃO AO ARTIGO 246 DA CONSTITUIÇÃO FEDERAL.
+  1-Agravo regimental prejudicado.
+  2-A lei Complementar nº 70/91, materialmente tem natureza de lei ordinária (ADC nº01/DF), o que não demanda a edição de lei complementar para modificá-la. A Medida Provisória nº1.858/99 e sucessivas reedições têm força de lei, a par do disposto no artigo 62 da CF, estando apta a revogar o inciso I, do artigo 6º,da LC 70/91.
+  3-Atos cooperativos são apenas aqueles praticados entre as cooperativas e seus associados, entre estes e aquelas e pelas cooperativas entre si quando associadas, para a consecução dos objetivos sociais. Artigo 79 e parágrafo único da Lei nº 5.764/71.
+  4-Os valores recebidos pela cooperativa a título de mediação dos contratos de seus associados são atos mercantis e devem integrar a base de cálculo da COFINS.
+  5-O artigo 30, da Lei nº10.833/03, não trata da base de cálculo da COFINS, regulamentando tão - somente sua sistemática de arrecadação, logo não há de se falar que citado artigo de lei tenha disciplinado o artigo 195, inciso I, alínea "b" da Constituição Federal, na redação da Emenda Constitucional nº20/98.Ausência de infringência ao artigo 246 da Constituição Federal. Possibilidade da instituição ou majoração de tributos por meio de medida provisória(Precedentes do STF, artigo 62 § § 1º e 2º da Constituição Federal).
+  6-Agravo de instrumento provido.
+  (TRF3, Sexta Turma, AG 2004.03.00.22665-0, Rel. Des. Fed. Lazarano Neto, j. 17/11/2004)
+  Já foi pacificado o entendimento de que a parcela relativa ao ICMS se inclui na base de cálculo do PIS e da COFINS, com base nas Súmulas n. 68 e 94 do STJ, respectivamente: "a parcela relativa ao ICM inclui-se na base de cálculo do PIS" e "a parcela relativa ao ICMS inclui-se na base de cálculo do Finsocial."
+  Neste sentido:
+  "TRIBUTÁRIO. PIS E COFINS. BASE DE CÁLCULO. INCLUSÃO DO ICMS. JURISPRUDÊNCIA PACÍFICA DO STJ.
+  1. A pendência de julgamento no STF de Recurso Extraordinário submetido ao rito do art. 543-B do CPC não enseja o sobrestamento dos recursos que tramitam no Superior Tribunal de Justiça. Precedentes do STJ.
+  2. É firme a orientação do STJ de que a parcela relativa ao ICMS compõe a base de cálculo do PIS e da Cofins (Súmulas 68 e 94/STJ). Precedentes atuais de ambas as Turmas da Primeira Seção: AgRg no AREsp 528.055/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 26.8.2014; AgRg no AREsp 494.775/RS, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 1°.7.2014; AgRg no AREsp 505.444/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 21.5.2014.
+  3. No âmbito do Recurso Especial, não cabe ao STJ analisar a violação de preceitos constitucionais, sob pena de usurpação da competência do STF (art.102, III, da CF).
+  4. Agravo Regimental não provido."
+  (STJ, Segunda Turma, AgRg no REsp 1.499.786/GO, Rel. Min. Herman Benjamin, j. 19/03/2015, DJ. 06/04/2015)
+  "DIREITO TRIBUTÁRIO. INCIDÊNCIA DE ICMS NA BASE DE CÁLCULO DO PIS E DA COFINS. SÚMULAS 68/STJ E 94/STJ. CABIMENTO.
+  1. É legal a inclusão do ICMS na base de cálculo do PIS e da COFINS, nos termos das Súmulas 68 e 94, ambas do STJ.
+  2. Agravo regimental a que se nega provimento."
+  (STJ, Primeira Turma, AgRg no AREsp 632.244/PI, Rel. Min. Sérgio Kukina, j.  05/03/2015, DJ. 06/04/2015)
+  O valor pago a título de ICMS pelo contribuinte (comerciante, industrial ou produtor) constitui receita tributável. Configura-se em um acréscimo patrimonial que é dirigido para o pagamento de um imposto, em cumprimento a uma obrigação tributária da empresa, ocasião em que a titularidade será alterada. É um ônus suportado com a receita da empresa. Trata-se, na verdade, de transferência de receita - do contribuinte para o Estado. Não há, ainda, como considerar mero ingresso, pois neste é ínsita a ausência de titularidade do valor, que tem natureza transitória, já que deverá ser devolvido posteriormente, como uma caução, por exemplo. É nesse sentido que deve ser encarada a diferença entre "transitório" e "definitivo" nos critérios comumente adotados para diferenciar receita de ingresso. No caso do ICMS, não há devolução, mas efetiva transferência de riqueza.
+  A questão decidida pelo C. Supremo Tribunal Federal, nos autos do RE nº 574.706/PR, ainda não transitou em julgado e poderá ser modificada em razão de eventual interposição de recurso. Assim, em homenagem ao princípio da segurança jurídica, dada a anterior pacificação da matéria na jurisprudência, deve-se aguardar a decisão final.
+  Ademais, estabelece o parágrafo 3º e o inciso III do artigo 927 e o parágrafo 5º do artigo 1.035 todos do Código de Processo Civil:
+  ""Art. 927.  Os juízes e os tribunais observarão:
+  (...)
+  III - os acórdãos em incidente de assunção de competência ou de resolução de demandas repetitivas e em julgamento de recursos extraordinário e especial repetitivos;
+  (...)
+  § 3o Na hipótese de alteração de jurisprudência dominante do Supremo Tribunal Federal e dos tribunais superiores ou daquela oriunda de julgamento de casos repetitivos, pode haver modulação dos efeitos da alteração no interesse social e no da segurança jurídica."
+  (...)
+  Art. 1.035
+  (...)
+  § 5o Reconhecida a repercussão geral, o relator no Supremo Tribunal Federal determinará a suspensão do processamento de todos os processos pendentes, individuais ou coletivos, que versem sobre a questão e tramitem no território nacional."
+  (grifos nossos)
+  Ocorre que, existindo o reconhecimento de repercussão geral sobre a matéria em exame, tal ato não gera, de forma automática, a suspensão do processamento do feito, sendo necessária decisão do relator do recurso extraordinário no qual foi reconhecida a repercussão, determinando expressamente o sobrestamento dos demais processos pendentes. Nesse sentido, inclusive, já decidiu o C. Supremo Tribunal Federal. Confira-se:
+  "a) a suspensão de processamento prevista no § 5º do art. 1.035 do CPC não consiste em consequência automática e necessária do reconhecimento da repercussão geral realizada com fulcro no caput do mesmo dispositivo, sendo da discricionariedade do relator do recurso extraordinário paradigma determiná-la ou modulá-la;"
+  (STF, Tribunal Pleno, Questão de Ordem no RE n. 966.177, Rel. Min. Luís Fux, j. 07/06/2017)
+  (grifos nossos)
+  No presente caso, tendo em vista que a eficácia do provimento cautelar concedido pelo C. Supremo Tribunal Federal nos autos da ADC nº 18/DF, que havia determinado a suspensão da tramitação dos processos cujo objeto fosse coincidente com o daquela causa, cessou em 21/09/2013, de acordo com a decisão de julgamento proferida por aquela C. Corte (STF, Tribunal Pleno, ADC-QO3-MC 18/DF, Rel. Min. Celso de Mello, j. 25/03/2010, DJ. 18/06/2010), inexiste qualquer óbice ao prosseguimento da demanda.
+  Além disso, o conceito de receita deve ser aquele correspondente ao produto da venda de bens e serviços, independentemente de imediato ou futuro pagamento de impostos, ou da forma de recolhimento destes, salvo por determinação legal.
+  Entendo, assim, que eventual exclusão do ISS da base de cálculo deveria ser feita por determinação legal. Consequentemente, a tributação, no que se refere ao PIS e à COFINS, não incidirá sobre tributo, mas sim sobre o produto da venda de bens e serviços, que é receita da empresa, independentemente da destinação de parte desse produto ao pagamento de impostos.
+  Portanto, o valor pago a título de ISS pelo contribuinte constitui receita tributável, pois tal quantia se configura em um acréscimo patrimonial que é dirigido para o pagamento de um imposto, em cumprimento a uma obrigação tributária da empresa, ocasião em que a titularidade será alterada. É um ônus suportado com a receita da empresa.
+  Trata-se, na verdade, de transferência de receita - do contribuinte para o Município. Não há, ainda, como considerar mero ingresso, pois neste é ínsita a ausência de titularidade do valor, que tem natureza transitória, já que deverá ser devolvido posteriormente, como uma caução, por exemplo. É nesse sentido que deve ser encarada a diferença entre 'transitório' e 'definitivo' nos critérios comumente adotados para diferenciar receita de ingresso.
+  No caso do ISS, não há devolução, mas efetiva transferência de riqueza. Além disso, o conceito de receita deve ser aquele correspondente ao produto da venda de bens e serviços, independentemente de imediato ou futuro pagamento de impostos, ou da forma de recolhimento destes, salvo por determinação legal. Entendo, assim, que eventual exclusão do ISS da base de cálculo deveria ser feita por determinação legal, o que não ocorreu da forma pretendida pela impetrante.
+  Consequentemente, a tributação, no que se refere ao PIS e a COFINS, não incidirá sobre tributo, mas sim sobre o produto da venda de bens e serviços, que é receita da empresa, independentemente da destinação de parte desse produto ao pagamento de impostos.
+  Com efeito, os valores devidos a título de ISS integram a base de cálculo do PIS/COFINS, conforme se observa na jurisprudência do C. Superior Tribunal de Justiça e do E. Tribunal Regional Federal da 3ª. Região:
+  "TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 535/CPC. OMISSÃO. INEXISTÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. VIOLAÇÃO GENÉRICA A LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. ISS. INCLUSÃO NA BASE DE CÁLCULO DO PIS E DA COFINS. POSSIBILIDADE. PRECEDENTES.
+  1. Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 535 do CPC, na medida em que a Corte a quo apreciou, de forma objetiva e fundamentada, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta no presente feito, não se havendo falar em omissão.
+  2. O Tribunal de origem não se pronunciou sobre a matéria versada no art. 110 do CTN, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Incidência do óbice da Súmula 211/STJ.
+  3. Nos termos da jurisprudência deste Tribunal, a indicação de violação genérica a lei federal, sem particularização precisa dos dispositivos violados, implica deficiência de fundamentação do recurso especial, atraindo, por analogia, a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.").
+  4. É pacífico o entendimento desta Corte Superior no sentido de que o ISS integra o preço dos serviços e, por esta razão, o faturamento decorrente do exercício da atividade econômica, devendo, nessas circunstâncias, compor a base de cálculo do PIS e da COFINS. Precedentes: AgRg no REsp 1.252.221/PE, Rel. Ministro Arnaldo Esteves Lima, Primeira Turma, DJe 14/08/2013 e EDcl no AgRg no REsp 1.233.741/PR, Rel. Humberto Martins, Segunda Turma, DJe 18/03/2013
+  5. Agravo regimental a que se nega provimento."
+  (STJ, Primeira Turma, AgRg no AREsp 75.356/SC, Rel. Min. Sérgio Kukina, j. 15/10/2013, DJ. 21/10/2013)
+  "TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ISSQN. BASE DE CÁLCULO DO PIS E DA COFINS. AGRAVO NÃO PROVIDO.
+  1. "Nos termos da jurisprudência pacífica do STJ, o valor do ISS deve compor a base de cálculo do PIS e da COFINS, pois integra o preço dos serviços e, por conseguinte, o faturamento decorrente do exercício da atividade econômica" (EDcl no AgRg no REsp 1.233.741/PR, Rel. Min. Humberto Martins, Segunda Turma, DJe 18/3/13).
+  2. Agravo regimental não provido.
+  (STJ, Primeira Turma, AGRESP nº 1.252.221, Rel. Arnaldo Esteves Lima, j. 06/08/2013, DJ. 14/08/2013)
+  "TRIBUTÁRIO. PROCESSUAL CIVIL. AUSÊNCIA DE VIOLAÇÃO DO ART. 557 DO CPC. ISS. INCLUSÃO NA BASE DE CÁLCULO DO PIS E DA COFINS. POSSIBILIDADE.
+  1. É entendimento pacificado nesta Corte no sentido de que fica superada eventual ofensa ao art. 557 do Código de Processo Civil pelo julgamento colegiado do agravo regimental interposto contra decisão singular do Relator.
+  2. O valor do ISS deve compor a base de cálculo do PIS e da COFINS, pois integra o preço dos serviços e, por conseguinte, o faturamento decorrente do exercício da atividade econômica. Precedentes: AgRg no AREsp 166.149/CE, Rel. Min. Castro Meira, Segunda Turma, julgado em 28/8/2012, DJe 4/9/2012; AgRg nos EDcl no REsp 1218448/RS, Rel. Min. Arnaldo Esteves Lima, Primeira Turma, julgado em 18/8/2011, DJe 24/8/2011.
+  3. Agravo regimental improvido.
+  (STJ, Segunda Turma, AGRESP nº 1.233.741, Re. Min. Humberto Martins, j. 06/12/2012, DJ. 17/12/2012)
+  PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. INCLUSÃO DO ISSQN NA BASE DE CÁLCULO DOS RECOLHIMENTOS DE PIS/CONFINS. LEGALIDADE. RECURSO DA UNIÃO PROVIDO.
+  1. No nosso sistema tributário o contribuinte de direito do ICMS e do ISS é o empresário (vendedor/prestador), enquanto que o comprador paga tão-só o preço da coisa/serviço; não há como afirmar que o empresário é somente um intermediário entre o comprador e o Fiscal, um simples arrecadador de tributo devido por outrem. De se recordar, mais, que o "destaque" do ICMS/ISS na nota fiscal é apenas o mecanismo serviente da efetivação da não-cumulatividade, e isso não significa que quem paga o tributo é o consumidor. Assim sendo, o valor destinado ao recolhimento do ICMS/ ISS ("destacado" na nota fiscal) se agrega ao valor da mercadoria/serviço, de modo que quando ocorre circulação econômica a receita auferida pela empresa vendedora/prestadora deve ser considerada como receita bruta, que na esteira da EC 20/98 é a base de incidência dessas contribuições.
+  2. É pacífico o entendimento do STJ no sentido de que o ISS integra o preço dos serviços e, por essa razão, significa também o faturamento decorrente do exercício da atividade econômica; nessa circunstância, o quantum de ISS deve compor a base de cálculo do PIS e da COFINS. Precedentes: AgRg no AREsp 75.356/SC, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 15/10/2013, DJe 21/10/2013 -- AgRg no REsp 1.252.221/PE, Rel. Ministro Arnaldo Esteves Lima, Primeira Turma, DJe 14/08/2013 -- EDcl no AgRg no REsp 1.233.741/PR, Rel. Humberto Martins, Segunda Turma, DJe 18/03/2013.
+  3. No âmbito da 2ª Seção desta Corte Regional registro que a orientação é a mesma: EI 0027962-02.2006.4.03.6100, Rel. DESEMBARGADORA FEDERAL ALDA BASTO, julgado em 15/07/2014, e-DJF3 Judicial 1 DATA:24/07/2014 -- AR 0026609-49.2010.4.03.0000, Rel. p/ acórdão DESEMBARGADORA FEDERAL MARLI FERREIRA, julgado em 20/08/2013, e-DJF3 Judicial 1 DATA:12/09/201.
+  4. Agravo de instrumento da União provido.
+  (TRF3, Sexta Turma, AI nº 0024341-80.2014.4.03.0000, Rel. Des. Fed. Johonsom Di Salvo, j. 16/04/2015, DJ. 30/04/2015)
+  "AGRAVO LEGAL EM AGRAVO DE INSTRUIMENTO. AÇÃO DECLARATÓRIA. TUTELA ANTECIPADA INDEFERIDA. PIS/COFINS. BASE DE CÁLCULO. ICMS E ISS. EXCLUSÃO. IMPOSSIBILIDADE. AGRAVO IMPROVIDO.
+  1. Muito embora o Supremo Tribunal Federal tenha recentemente, por maioria de votos, dado provimento ao Recurso Extraordinário nº 240.785/MG, mantenho meu entendimento sobre a matéria, uma vez que aquele julgamento foi proferido em controle difuso de constitucionalidade, sem o reconhecimento de repercussão geral.
+  2. O Egrégio Supremo Tribunal Federal, no julgamento do Recurso Extraordinário n° 150.755-1/PE, entendeu o faturamento como sendo a receita bruta das vendas de mercadorias e serviços de qualquer natureza.
+  3. O ICMS, como imposto indireto, inclui-se no faturamento. Não há como excluir os tributos incidentes sobre a circulação de mercadorias, de modo que as citadas contribuições tenham por base de cálculo a receita líquida das vendas de bens e serviços.
+  4. A questão já se encontra consolidada pelo E. Superior Tribunal de Justiça, expressa nos Enunciados das Súmulas n.ºs 68 (PIS) e 94, esta última referente ao FINSOCIAL, mas aplicável também à COFINS, tendo em vista que referida contribuição foi criada em substituição à contribuição do FINSOCIAL, conforme expresso na própria lei que a instituiu (Lei Complementar n.º 70/91, art. 13), possuindo a mesma natureza jurídica desta. Cumpre observar que esse raciocínio também se aplica ao ISS.
+  5. Não há elementos novos capazes de alterar o entendimento externado na decisão monocrática.
+  6. Agravo legal improvido."
+  (TRF3, Sexta Turma, AI nº 0025024-20.2014.403.0000, Rel. Des. Fed. Consuelo Yoshida, j. 12/02/2015, DJ. 25/02/2015)
+  "AGRAVO LEGAL. ARTIGO 557. PROVIMENTO À REMESSA OFICIAL E AO RECURSO DE APELAÇÃO DA UNIÃO FEDERAL. INCLUSÃO DO ISS NA BASE DE CÁLCULO DO PIS E DA COFINS. POSSIBILIDADE. AGRAVO LEGAL IMPROVIDO.
+  - O artigo 557, do Código de Processo Civil, com a redação dada pela Lei nº 9.756, de 17 de dezembro de 1998, trouxe inovações ao sistema recursal, com a finalidade de permitir maior celeridade à tramitação dos feitos, vindo a autorizar o relator, através de decisão monocrática, a negar seguimento a recurso manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante do respectivo tribunal, do Supremo Tribunal Federal, ou de Tribunal Superior e, ainda, em seu parágrafo 1º, faculta, desde logo, dar provimento a recurso, nas mesmas hipóteses acima apontadas. Essa é a hipótese ocorrente nestes autos, eis que o recurso presente está em confronto com a jurisprudência do Superior Tribunal de Justiça e desta Corte.
+  - A questão relativa à inclusão do valor do ICMS na base de cálculo do PIS e da COFINS, cujo debate é semelhante ao que ora se cuida, se encontra sedimentada no âmbito do E. Superior Tribunal de Justiça e, bem assim, nesta E. Corte. É dizer, a parcela relativa ao ICMS e ao ISS inclui-se na base de cálculo da COFINS e do PIS, nos termos dos enunciados sumulares n.º 68 e 94, do E. STJ. O mesmo raciocínio deve ser aplicado ao ISS, uma vez que tal tributo apresenta a mesma sistemática do ICMS.
+  - As razões recursais não contrapõem os fundamentos a ponto de demonstrar qualquer desacerto, limitando-se a reproduzir argumentos os quais visam à rediscussão da matéria nele contida.
+  - Não se vislumbra qualquer vício a justificar a reforma da decisão.
+  - Agravo legal improvido.
+  (TRF3, Quarta Turma, AMS nº 0016335-54.2013.403.6100, Rel. Des. Fed. Mônica Nobre, j. 29/01/2015, DJ.06/02/2015)
+  "CONSTITUCIONAL E TRIBUTÁRIO - REPERCUSSÃO GERAL - ADC Nº 18 - LIMINAR - CESSADA A EFICÁCIA - PIS E COFINS - ICMS E ISS - INCLUSÃO NA BASE DE CÁLCULO - CONSTITUCIONALIDADE.
+  1. Indevida a suspensão do andamento processual em vista do reconhecimento de repercussão geral pelo Excelso Pretório, na medida em que o sobrestamento previsto na lei processual (art. 543-B, §§1º e 2º) refere-se tão somente a recursos extraordinários.
+  2. Cessada a eficácia da liminar concedida na ADC nº 18, pelo Supremo Tribunal Federal, referente à suspensão do julgamento dos feitos em que se discute a inclusão do ICMS na base de cálculo do PIS e da COFINS.
+  3. Compõe o ICMS o preço final da mercadoria que, por sua vez, integra o faturamento que é base de cálculo do PIS e da COFINS.
+  4. "A parcela relativa ao ICM inclui-se na base de cálculo do PIS." (Súmula nº 68)
+  5. O Superior Tribunal de Justiça, via edição da Súmula nº 94, firmou orientação no sentido de que a parcela relativa ao ICMS integra o faturamento e, portanto, inclui-se na base de cálculo do FINSOCIAL. O mesmo entendimento aplica-se à COFINS, posto tratar-se de contribuição instituída pela LC nº 70/91 em substituição ao FINSOCIAL.
+  6. O ISS, à semelhança do ICMS, é tributo indireto integrante do faturamento, vez que os valores do imposto são repassados ao preço pago pelo consumidor. Portanto, também deve integrar a base de cálculo do PIS e da COFINS.
+  7. Precedentes do Superior Tribunal de Justiça e das Cortes Regionais.
+  (TRF3, Sexta Turma, AMS nº 0023162-81.2013.403.6100, Rel. Des.Fed. Mairan Maia, j. 11/12/2014, DJ. 18/12/2014)
+  PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS INFRINGENTES. ICMS E ISS. INCLUSÃO NA BASE DE CÁLCULO DO PIS E DA COFINS. POSSIBILIDADE. PRECEDENTES DO STJ.
+  I. Incluem-se na base de cálculo do PIS e da COFINS os valores relativos ao ICMS, conforme Súmula 68 e Súmula 94, do STJ.
+  II. Inclusão do ISS, por analogia ao ICMS, na base de cálculo do PIS/COFINS.
+  III. Embargos infringentes rejeitados.
+  (TRF3, Segunda Seção, EI nº 0027962-02.2006.4.03.6100, Rel. Des. Fed. Alda Basto, j. 15/07/2014, DJ. 24/07/2014)
+  (grifos nossos)
+  Além disso, não pode o Poder Judiciário, que atua como legislador negativo, eleger, à revelia de autorizativo legal, outras causas proscritas da base de cálculo do PIS/COFINS, sob pena de ofensa ao princípio da separação dos poderes previsto na Constituição Federal. Por fim, é de se preservar o que a doutrina constitucionalista nominou de princípio da conformidade funcional, que se traduz no equilíbrio entre os Poderes.
+  Por fim, registre-se que a Primeira Seção do C. Superior Tribunal de Justiça decidiu, em julgamento de recurso especial repetitivo, com relatoria do ministro Og Fernandes, que, considerando-se que o PIS e a Cofins são contribuições que se destinam a financiar a seguridade social, devidas por empresas e, segundo a legislação, têm como fato gerador "o faturamento mensal, assim entendido como o total das receitas auferidas pela pessoa jurídica, independentemente de sua denominação ou classificação contábil", o valor suportado pelo beneficiário do serviço, nele incluída a quantia referente ao ISS, "compõe o conceito de faturamento para fins de adequação à hipótese de incidência do PIS e da Cofins".
+  No mais, a questão decidida pelo C. Supremo Tribunal Federal, nos autos do RE nº 574.706/PR, ainda não transitou em julgado e poderá ser modificada em razão de eventual interposição de recurso. Assim, em homenagem ao princípio da segurança jurídica, dada a anterior pacificação da matéria na jurisprudência, deve-se aguardar a decisão final.
+  Ademais, estabelece o parágrafo 3º e o inciso III do artigo 927 e o parágrafo 5º do artigo 1.035 todos do Código de Processo Civil:
+  ""Art. 927.  Os juízes e os tribunais observarão:
+  (...)
+  III - os acórdãos em incidente de assunção de competência ou de resolução de demandas repetitivas e em julgamento de recursos extraordinário e especial repetitivos;
+  (...)
+  § 3o Na hipótese de alteração de jurisprudência dominante do Supremo Tribunal Federal e dos tribunais superiores ou daquela oriunda de julgamento de casos repetitivos, pode haver modulação dos efeitos da alteração no interesse social e no da segurança jurídica."
+  (...)
+  Art. 1.035
+  (...)
+  § 5o Reconhecida a repercussão geral, o relator no Supremo Tribunal Federal determinará a suspensão do processamento de todos os processos pendentes, individuais ou coletivos, que versem sobre a questão e tramitem no território nacional."
+  (grifos nossos)
+  Ocorre que, existindo o reconhecimento de repercussão geral sobre a matéria em exame, tal ato não gera, de forma automática, a suspensão do processamento do feito, sendo necessária decisão do relator do recurso extraordinário no qual foi reconhecida a repercussão, determinando expressamente o sobrestamento dos demais processos pendentes. Nesse sentido, inclusive, já decidiu o C. Supremo Tribunal Federal. Confira-se:
+  "a) a suspensão de processamento prevista no § 5º do art. 1.035 do CPC não consiste em consequência automática e necessária do reconhecimento da repercussão geral realizada com fulcro no caput do mesmo dispositivo, sendo da discricionariedade do relator do recurso extraordinário paradigma determiná-la ou modulá-la;"
+  (STF, Tribunal Pleno, Questão de Ordem no RE n. 966.177, Rel. Min. Luís Fux, j. 07/06/2017)
+  (grifos nossos)
+  No presente caso, tendo em vista que a eficácia do provimento cautelar concedido pelo C. Supremo Tribunal Federal nos autos da ADC nº 18/DF, que havia determinado a suspensão da tramitação dos processos cujo objeto fosse coincidente com o daquela causa, cessou em 21/09/2013, de acordo com a decisão de julgamento proferida por aquela C. Corte (STF, Tribunal Pleno, ADC-QO3-MC 18/DF, Rel. Min. Celso de Mello, j. 25/03/2010, DJ. 18/06/2010), inexiste qualquer óbice ao prosseguimento da demanda.
+  Por fim, sendo improcedente o pedido principal, resta prejudicado o exame do pedido relativo à compensação.
+  Ante o exposto, julgo improcedente o pedido e DENEGO A SEGURANÇA, extinguindo o processo, com resolução do mérito, com base no art. 487, I, do Código de Processo Civil.
+  Custas na forma da lei.
+  Honorários advocatícios indevidos.
+  Publique-se. Registre-se. Intimem-se e Oficie-se.
+  São Paulo, 19 de outubro de 2018.
+  MARCO AURELIO DE MELLO CASTRIANNI
+  Juiz Federal
